@@ -1,26 +1,12 @@
 h1.title {
 	color: $brand-primary;
 	padding: $gutter 0 0 $gutter;
-	margin-bottom: 0;
-}
-
-#content {
-	ul {
-		list-style: none;
-		li {
-			padding-left: 1em;
-		}
-		li:before {
-			content: "–";
-			color: $brand-primary;
-			width: 5px;
-			padding-right: 1em;
-			margin-left: -1.65em;
-		}
-	}
 }
 
 article {
+	h1.title {
+		padding: 0;
+	}
 	padding: $gutter;
 	ul {
 		padding-left: $gutter;
@@ -34,6 +20,20 @@ article {
 		@extend %default-ol;
 		li {
 			padding-left: 0.5em;
+		}
+	}
+	
+	ul {
+		list-style: none;
+		li {
+			padding-left: 1em;
+		}
+		li:before {
+			content: "–";
+			color: $brand-primary;
+			width: 5px;
+			padding-right: 1.15em;
+			margin-left: -1.65em;
 		}
 	}
 	

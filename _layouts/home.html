@@ -6,7 +6,7 @@
 	<div  class="scene_element scene_element--fadein">
 		<section class="band hero-band">
 		<div class="container">
-			<header class="hero {{ page.hero-classes }}" {% if page.hero-image-url != null %}style="background-image: url('{{ page.hero-image-url }}'); background-color: {{ page.hero-image-color }};" {% endif %}>
+			<header class="hero {{ page.hero-classes }}">
 				<div class="hero-inner">
 					<div class="hero-copy">
 						<h1>{{ page.title }}</h1>
@@ -15,14 +15,15 @@
 						<p><a href="{{ page.hero-link-url }}" class="button">{{ page.hero-link-copy }}</a></p>
 						{% endif %}
 					</div>
+					<div class="funder-logo-container"><img src="/img/ui/big-lottery-logo.png" alt="Lottery Funded European Union European Social Fund"></div>
 				</div>
 			</div>
 		</div>
 	</section>
 	</header>
 	<div class="container">
-		<h1 class="title">{{ page.title }}</h1>
 		<section id="content">
+			<h1 class="title">{{ page.title }}</h1>
 			<article>
 				{{ content }}
 			</article>

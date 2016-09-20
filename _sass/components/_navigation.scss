@@ -1,10 +1,42 @@
 header.navigation {
 	background-color: $navigation-background;
-	border-bottom: 1px solid darken($navigation-background, 10);
+	border-bottom: 1px solid darken($navigation-background, 5%);
 	min-height: $navigation-height;
+	box-shadow: inset 0 1px 0 rgba(255,255,255,0.25),0 1px 2px rgba(0,0,0,0.05);
 	width: 100%;
 	z-index: 999;
-	
+
+	.branding-wrapper {
+		background: #fff;
+		z-index: 1000;
+		.branding {
+			@include clearfix;
+			@include outer-container;
+			.branding-link.fb {
+				display: none;
+				@include media($desktop) {
+					display: block;}
+				@include transition(all 0.1s ease-in-out);
+				margin: $gutter*2 $gutter $gutter $gutter;
+				color: #666666;
+				font-size: 0.8em;
+				line-height: 21px;
+				float: right;
+				background-repeat: no-repeat;
+				background-size: 8px 21px;
+				padding-right: 16px;
+				background-position: right center;
+				background-image: url('#{"" + $image-directory}/ui/facebook-icon.png');
+				&:hover {
+					@include transition(all 0.1s ease-in-out);
+					color: $brand-primary;
+					text-decoration: none;
+					background-image: url('#{"" + $image-directory}/ui/facebook-icon-hover.png');
+				}
+			}
+		}
+	}
+
 	li.expanded, li.collapsed, li.leaf {
 		padding: 0;
 	}
@@ -14,11 +46,11 @@ header.navigation {
 		@include outer-container;
 		position: relative;
 	}
-	
+
 	.navigation-wrapper {
 		z-index: 500;
 	}
-  
+
 	// Mobile view
 
 	.navigation-menu-button {
@@ -31,7 +63,7 @@ header.navigation {
 		padding-right: 1em;
 		text-decoration: none;
 		text-transform: uppercase;
-		
+
 		li.expanded, li.collapsed, li.leaf {
 			padding: 0;
 		}
@@ -45,7 +77,7 @@ header.navigation {
 			color: $navigation-color-hover;
 		}
 	}
-  
+
 	// Nav menu
 
 	nav {
@@ -80,7 +112,7 @@ header.navigation {
 		}
 	}
 
-  
+
 	// The nav items
 
 	ul li.nav-link {
@@ -92,17 +124,17 @@ header.navigation {
 		text-align: left;
 		width: 100%;
 		z-index: 9999;
-		
+
 		@include media($horizontal-bar-mode)  {
-			padding: (($navigation-height - $base-line-height-px)/2) 0 (($navigation-height - $base-line-height-px)/2) 0;
 			&:focus,
 			&:hover {
-				background: $navigation-nav-button-background-hover;
+				> a {
+					background: $navigation-nav-button-background-hover;
+				}
 			}
 			border-top: none;
 			background: transparent;
 			display: inline;
-			line-height: $navigation-height;
 			text-decoration: none;
 			width: auto;
 		}
@@ -118,7 +150,7 @@ header.navigation {
 				padding-left: $navigation-submenu-padding;
 				width: auto;
 			}
-			
+
 			&:focus,
 			&:hover {
 				font-weight: bold;
@@ -128,7 +160,7 @@ header.navigation {
 					background: $navigation-nav-button-background-hover;
 				}
 			}
-			
+
 		}
 	}
 
@@ -137,15 +169,15 @@ header.navigation {
 		padding-bottom: 3px;
 	}
 
-  
+
 	// Sub menus
 
 	li.more.nav-link {
 		padding-right: 0;
 		@include media($horizontal-bar-mode) {
-			padding: (($navigation-height - $base-line-height-px)) 0 (($navigation-height - $base-line-height-px)) 0;
+
 		}
-		
+
 		> ul > li:first-child a  {
 			@include media($horizontal-bar-mode) {
 				padding-top: 1em;
@@ -159,7 +191,7 @@ header.navigation {
 		> a {
 			@include media($horizontal-bar-mode) {
 				margin-right: 0;
-				padding-right: $navigation-submenu-padding + 1em;
+				padding-right: $navigation-submenu-padding + 18px;
 				&:after {
 					font-family: $helvetica;
 					content: '\25BE';
@@ -167,7 +199,7 @@ header.navigation {
 					@include position(absolute, -0.2em 0.5em  auto auto);
 				}
 			}
-			
+
 		}
 	}
 
@@ -216,7 +248,7 @@ header.navigation {
 		@include media($horizontal-bar-mode) {
 			left: 0;
 			position: absolute;
-			top: $navigation-height -2px;
+			top: $navigation-height -1px;
 		}
 
 		.submenu {
@@ -224,9 +256,9 @@ header.navigation {
 				left: $navigation-submenu-width - 0.2em;
 				top: 0;
 			}
-			
+
 			li a {
-				
+
 				&:before {
 					padding-left: $navigation-submenu-padding;
 					content: " - ";
@@ -257,7 +289,7 @@ header.navigation {
 					border-bottom-right-radius: $base-border-radius;
 					padding-bottom: 0.7em;
 				}
-				
+
 			}
 
 			a {
@@ -271,7 +303,7 @@ header.navigation {
 				text-align: left;
 				width: 100%;
 				border-top: 1px solid darken($navigation-background, 11%);
-				
+
 				&:hover, &:focus {
 					background: darken($navigation-background, 10%);
 					@include media($horizontal-bar-mode) {
@@ -295,7 +327,7 @@ header.navigation {
 		}
 	}
 
-  
+
 	// Elements on the far right
 
 	.search-tools {
@@ -304,14 +336,14 @@ header.navigation {
 			display: block;
 		}
 		clear: both;
-		height: $navigation-height;
+		height: $navigation-height + 10px;
 	}
-	
+
 	.search-tools-wrapper {
 		background: darken($navigation-background, 10%);
 	}
 
-  
+
 	// Search bar
 
 	.search-bar {
@@ -321,8 +353,8 @@ header.navigation {
 		width: 97%;
 		padding: 0.67em 0;
 		position: relative;
-		font-size: 0.7em;
-		
+		font-size: 15px;
+
 		form.search-form {
 			padding: 0 20px 0 15px;
 			input[type="submit"] {
@@ -332,7 +364,7 @@ header.navigation {
 				padding: 0.67em 0;
 				right: 0;
 			}
-			
+
 			input[type="text"] {
 				width: 80%;
 			}
@@ -341,50 +373,30 @@ header.navigation {
 }
 
 a.logo {
-	margin-left: 15px;
-	margin-top: ($navigation-height - $logo-image-height) / 2; 
+	margin: $gutter;
 	color: #fff;
 	font-weight: bold;
 	float: left;
 	background-repeat: no-repeat;
 	background-position: center center;
 	text-indent: -99999px;
-	width: 210px;
-	height: $logo-image-height;
-	width: 210px;
-	background-image:url('#{"" + $image-directory}/logo-tiny.svg');
-	.no-svg & {
-		background-image:url('#{"" + $image-directory}/logo-tiny.png');
-	}
- 	@include media ($small-screen) {
-		width: $logo-image-width;
-		margin-left: $gutter;
-		max-height: $navigation-height;
-		background-image:url('#{"" + $image-directory}/logo.svg');
-		.no-svg & {
-			background-image:url('#{"" + $image-directory}/logo.png');
-		}
-	}
+	@include transition(all 0.1s ease-in-out);
+	@include logoresizer($logo-image-width, $logo-image-height);
+	background-image:url('#{"" + $image-directory}/ui/logo.png');
 }
 
 .navigation-menu-button {
-	background-image:url('#{"" + $image-directory}/navigation-button.svg');
-	.no-svg & {
-		background-image: url('#{"" + $image-directory}/navigation-button.png');
-	}
-	
+	background-image: url('#{"" + $image-directory}/ui/navigation-button.png');
 	background-repeat: no-repeat;
+	background-size: 25px 25px;
 	background-position: center center;
-	width: 43px;
-	@include media (em(350px)){
 	width: 50px;
-	}
 	@include media ($small-screen) {
 		width: $navigation-height;
 	}
 	@include hide-text;
 	&.active {
-		background-color: $navigation-nav-button-background-hover;	
+		background-color: $navigation-nav-button-background-hover;
 	}
 }
 
@@ -398,15 +410,13 @@ a.logo {
 	.no-js & {
 		display: none;
 	}
-	background-image:url('#{"" + $image-directory}/search-button.svg');
-	.no-svg & {
-		background-image: url('#{"" + $image-directory}/search-button.png');
-	}
+	background-image: url('#{"" + $image-directory}/ui/search-button.png');
+	background-size: 25px 25px;
 	background-repeat: no-repeat;
 	background-position: center center;
 	width: 43px;
 	@include media (em(350px)){
-	width: 50px;
+		width: 50px;
 	}
 	@include media ($small-screen) {
 		width: $navigation-height;

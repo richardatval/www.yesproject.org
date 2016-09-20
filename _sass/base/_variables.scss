@@ -1,13 +1,15 @@
 // Variables
 // ---------
 
+@import 'https://fonts.googleapis.com/css?family=Raleway:400,800';
+
 // Typography
 
-$base-font-family: "Myriad Pro", $helvetica;
-$heading-font-family: "Myriad Pro", $helvetica;
+$base-font-family: "Raleway", $helvetica;
+$heading-font-family: "Raleway", $helvetica;
 
 // Font Sizes
-$base-font-size: 18px;
+$base-font-size: 20px;
 
 // Line height
 $base-line-height: 1.7;
@@ -20,33 +22,36 @@ $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
-// Colors
-$blue: #00B0F1;
+// Core Colors
+$purple: #BB29BB;
+$white: #fff;
+$dark-gray: #515356;
+
+
+// Accent Colors
+$red: #E53818;
 $turquoise: #009EB0;
-$dark-gray: #332525;
+$dark-purple: #6E1859;
+
+// Helper Colors
 $medium-gray: #CECCC4;
 $light-gray: #C6C4B9;
 $green: #3FAC4D;
 $pink: #D84A8D;
-$yellow: yellow;
-$purple: #9E4380;
-$red: red;
+
 
 // Name Colour Keys - used for automatically generating coloured elements. Only include required elements.
 $colors: (
-blue: $blue,
+purple: $purple,
+red: $red,
 turqoise: $turquoise,
-green: $green,
-pink: $pink,
-purple: $purple
 );
 
 // Brand Colours
-
 $brand-primary: $purple;
 
 // Font Colors
-$base-background-color: #fff;
+$base-background-color: $white;
 $base-font-color: $dark-gray;
 $action-color: $brand-primary;
 

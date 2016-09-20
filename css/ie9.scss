@@ -11,10 +11,7 @@
 header.navigation {
 	li.more.nav-link {
 		padding-right: 0;
-		@include media($horizontal-bar-mode) {
-			padding: (($navigation-height - $base-line-height-px)) 0 (($navigation-height - $base-line-height-px)) 0;
-		}
-	
+
 		> ul > li:first-child a  {
 			@include media($horizontal-bar-mode) {
 				padding-top: 1em;
@@ -28,7 +25,7 @@ header.navigation {
 		> a {
 			@include media($horizontal-bar-mode) {
 				margin-right: 0;
-				padding-right: $navigation-submenu-padding + 1em;
+				padding-right: $navigation-submenu-padding + 18px;
 				&:after {
 					content: '\25BE';
 					color: $navigation-color;

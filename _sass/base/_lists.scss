@@ -21,7 +21,6 @@ dl {
   margin-bottom: $small-spacing;
 
   dt {
-    Monserrat: bold;
     margin-top: $small-spacing;
   }
 
@@ -32,11 +31,7 @@ dl {
 
 ul.item-list {
 	li {
-		padding-bottom: 0.25em;
+		padding-bottom: 0.5em;
 	}
 	margin-bottom: 1em;
-}
-
-a.readmore {
-	float: right;
 }
