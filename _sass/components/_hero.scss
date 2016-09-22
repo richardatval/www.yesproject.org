@@ -6,16 +6,13 @@ $hero-background-bottom: #20392B;
 $hero-color: $base-font-color;
 $hero-background-color: #0F2A00;
 $gradient-angle: 10deg;
-$hero-image: '#{"" + $image-directory}/hero-home.jpg';
+$hero-image: '#{"" + $image-directory}/banners/hero-home.jpg';
 @include background(url($hero-image));
 background-position: center top ;
 background-repeat: no-repeat;
 background-color: $hero-background-color;
 background-size: auto 100%;
 
-.page-early-help-training & {
-	background-image: url('#{"" + $image-directory}/hero-early-help.jpg');
-}
 
 .hero-inner {
 	@include outer-container;

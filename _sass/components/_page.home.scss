@@ -1,3 +1,43 @@
 section.hero-band {
 	background: #0F2A00;
 }
+
+section.band#projects {
+	background: whitesmoke;
+	padding-top: $gutter;
+	padding-bottom: $gutter; 
+}
+
+.page-home {
+	.hero-copy {
+		a.button {
+			background: #fff;
+			color: $green;
+			&:hover, &:focus {
+				background: $light-gray;
+			}
+		}
+	}
+	.teasers-container {
+		background: whitesmoke;
+		padding-top: $gutter;
+		text-align: center;
+		h3 {
+			margin-top: 10px;
+			margin-bottom: 0;
+			a {
+				color: $green;
+				font-size: 1.1em;
+				&:hover, &:focus {
+					text-decoration: underline;
+				}
+			}
+		}
+		a {
+			color: $dark-gray;
+			&:hover, &:focus {
+				text-decoration: underline;
+			}
+		}
+	}
+}

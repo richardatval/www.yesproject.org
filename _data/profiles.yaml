@@ -9,7 +9,7 @@
   #   website: "personal website of person"
   #   bio: "a paragraph of text explaining the persons background"
   - name: "The Prince’s Trust"
-    img: "/img/profiles/profile-placeholder.gif"
+    img: "/img/profiles/the-princes-trust.png"
     bio: "Helps thousands of young people transform their lives each year by getting them into jobs, education and training. As part of the YES Project, the charity offers work experience courses in a range of industries."
     url: "/our-partners"
   - name: "Flying Fish"
