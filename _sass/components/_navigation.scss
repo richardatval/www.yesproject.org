@@ -381,8 +381,25 @@ a.logo {
 	background-position: center center;
 	text-indent: -99999px;
 	@include transition(all 0.1s ease-in-out);
-	@include logoresizer($logo-image-width, $logo-image-height);
+	@include logoresizer($logo-image-width, $logo-image-height, 410);
 	background-image:url('#{"" + $image-directory}/ui/logo.png');
+}
+
+span.funder-logo {
+	display: none;
+	@include media($desktop) {
+		display: block;
+		margin: $gutter;
+		color: #fff;
+		font-weight: bold;
+		float: right;
+		background-repeat: no-repeat;
+		background-position: center center;
+		text-indent: -99999px;
+		@include transition(all 0.1s ease-in-out);
+		@include logoresizer(254, 116, 254);
+		background-image:url('#{"" + $image-directory}/ui/big-lottery-logo.png');
+	}
 }
 
 .navigation-menu-button {
