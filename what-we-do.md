@@ -4,7 +4,7 @@ title: What we do
 summary: "Nihil impedit quo minus id quod maxime placea"
 ---
 
-At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment and training.
+#### We support young people age 15-24 years old to take steps towards employment
 
 Our project team is made up of nine youth organisation and charities from across Leicester and Leicestershire. Together, we’re the YES Project. 
 
@@ -12,7 +12,8 @@ Our purpose is to support local young people to overcome challenges and barriers
 
 The YES Project is delivered by Voluntary Action LeicesterShire and funded by Big Lottery Fund and the European Social Fund.
 
-## Who we help
+
+### Who we help
 
 We’re here to work with young people aged 15-24 years old who are not already in education, employment or training. 
 

@@ -9,6 +9,7 @@
 {% if profile.twitter != null%}<div class="field twitter"><a href="http://www.twitter.com/{{ profile.twitter }}">@{{ profile.twitter }}</div>{% endif %}
 {% if profile.email != null%}<div class="field email"><a href="mailto:{{ profile.email }}">{{ profile.email }}</a></div>{% endif %}
 {% if profile.bio != null%}<div class="field bio">{{ profile.bio }}</div>{% endif %}
+{% if profile.url != null%}<div class="field url"><a class="button" href="{{ profile.url }}">Find out more</a></div>{% endif %}
 </div></div>
 {% endfor %}
 </div>

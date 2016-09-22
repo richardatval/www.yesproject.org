@@ -47,6 +47,8 @@ background-size: auto 100%;
 		padding: $gutter;
 		min-height: 300px;
 		.hero-copy {
+			margin-top: $gutter;
+			margin-left: 12px;
 			width: 50%;
 			text-align: left;
 			h1 {
