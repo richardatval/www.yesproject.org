@@ -1,12 +1,13 @@
 ---
 layout: default
 title: What we do
-summary: "Nihil impedit quo minus id quod maxime placea"
+summary: Nihil impedit quo minus id quod maxime placea
+published: true
 ---
 
 __Our work is made up of three core beliefs:__
 
-We believe in a better you by helping you to build a brighter future with our specialist needs and mentoring support and health and wellbeing programmes. 
+We believe in a better you by helping you to build a brighter future with our specialist needs and mentoring support, health and wellbeing programmes. 
 
 We support you to achieve qualifications and learn new skills by offering a range of courses.
 
