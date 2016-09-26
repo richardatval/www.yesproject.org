@@ -10,10 +10,11 @@ published: true
 We provide mentoring and specialist support services to help you overcome barriers that are preventing you from getting a job. 
 
 These barriers could include issues such as: 
-- Low self-esteem and confidence
-- Language and cultural barriers
-- Mental health issues 
-- Substance abuse
-- Leaving care or in care
-- Homelessness 
-- Previous offenders
+
+* Low self-esteem and confidence
+* Language and cultural barriers
+* Mental health issues 
+* Substance abuse
+* Leaving care or in care
+* Homelessness 
+* Previous offenders

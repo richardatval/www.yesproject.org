@@ -18,11 +18,12 @@ background-size: auto 100%;
 	@include outer-container;
 	@include clearfix;
 	text-align: left;
-	padding: $gutter;
 	padding-top: 320px;
 	.hero-copy {
+		background: $dark-gray;
+		padding: flex-gutter();
 		h1 {
-			font-size: 1.4em;
+			font-size: 1.6em;
 			color: #fff;
 			line-height: 1.1em;
 			a {
@@ -39,45 +40,27 @@ background-size: auto 100%;
 	}
 }
 
-@include media(890px) {
+@include media($tablet) {
+	.hero-inner {
+	padding-top: 400px;
+}
+}
+
+@include media(950px) {
 	background-position: right top;
 	.hero-inner {
 		padding: $gutter;
-		min-height: 300px;
-		position: relative;
+		min-height: 400px;
+			position: relative;
 		.hero-copy {
+			padding: 0;
+			background: transparent;
 			margin-top: $gutter;
 			margin-left: 12px;
-			width: 45%;
+			width: 40%;
 			text-align: left;
 			h1 {
-				font-size: 1.6em;
-				margin-bottom: 0.5em;
-			}
-		}
-	}
-}
-
-@include media($desktop) {
-	.hero-inner {
-		min-height: 400px;
-		.hero-copy {
-			h1 {
 				font-size: 2em;
-			}
-		}
-	}
-}
-
-@include media($bigscreen) {
-	.hero-inner {
-		min-height: 400px;
-		.hero-copy {
-			h1 {
-				font-size: 2.4em;
-			}
-			p {
-				font-size: 1.1em
 			}
 		}
 	}
