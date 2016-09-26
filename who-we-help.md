@@ -17,5 +17,3 @@ These barriers could include issues such as:
 - Leaving care or in care
 - Homelessness 
 - Previous offenders
-
-
