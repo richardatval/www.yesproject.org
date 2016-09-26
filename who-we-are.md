@@ -11,9 +11,6 @@ Our project team is made up of nine youth organisation and charities from across
 
 Our purpose is to support local young people to overcome challenges and barriers that have prevented them from finding a job or seeking further education. 
 
-The YES Project is delivered by Voluntary Action LeicesterShire and funded by Big Lottery Fund and the European Social Fund.
-
-
 ### Our work is made up of three principles:
 
 **We believe in a better you.** We’ll help you to build a brighter future by supporting and mentoring you to overcome barriers that prevent you from getting a job.
