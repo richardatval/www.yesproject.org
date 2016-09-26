@@ -18,6 +18,4 @@ These barriers could include issues such as:
 - Homelessness 
 - Previous offenders
 
-
-
 {% include box.html title="Ready to get started?" buttontext="Get started" url="#" %}
