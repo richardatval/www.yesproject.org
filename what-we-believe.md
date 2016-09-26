@@ -1,16 +1,16 @@
 ---
 layout: default
-title: What we do
+title: What we believe
 summary: Nihil impedit quo minus id quod maxime placea
 published: true
 ---
 
-__Our work is made up of three core beliefs:__
+__Our work is made up of three core principle:__
 
-We believe in a better you by helping you to build a brighter future with our specialist needs and mentoring support, health and wellbeing programmes. 
+We believe in a better you. We'll help you to build a brighter future by supporting and mentoring you to overcome barriers that prevent you from getting a job. 
 
-We support you to achieve qualifications and learn new skills by offering a range of courses.
+We support you to achieve. Choose from a range of courses to learn new skills and achieve qualifications.
 
-We will get you ready for work through work placements, tours, job application support and business Start-Up.
+We will get you ready for work. Explore the world of work through work placements, tours, job application support and business Start-Up.
 
 {% include box.html title="Ready to get started?" buttontext="Get started" url="#" %}
