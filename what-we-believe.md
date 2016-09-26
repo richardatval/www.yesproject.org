@@ -6,26 +6,10 @@ summary: "Nihil impedit quo minus id quod maxime placea"
 
 __Our work is made up of three core beliefs:__
 
-We believe in a better you by offering:
+We believe in a better you by helping you to build a brighter future with our specialist needs and mentoring support and health and wellbeing programmes. 
 
-* Mentoring services 
-* Specialist needs support 
-* Health and wellbeing programmes 
+We support you to achieve qualifications and learn new skills by offering a range of courses.
 
-__We support you to achieve qualifications and new skills by offering courses in:__
-
-* Digital Media
-* Creative arts
-* Functional skills
-* Employability skills
-* Nationally recognised qualifications
-* Vocational skills
-
-__We know that work is waiting for you. We’ll help you get there by offering:__
-
-* Work placements and tours
-* Job application training and support
-* Business Start-Up
-
+We will get you ready for work through work placements, tours, job application support and business Start-Up.
 
 {% include box.html title="Ready to get started?" buttontext="Get started" url="#" %}
