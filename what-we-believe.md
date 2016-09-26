@@ -5,7 +5,7 @@ summary: Nihil impedit quo minus id quod maxime placea
 published: true
 ---
 
-__Our work is made up of three core principle:__
+__Our work is made up of three core principles:__
 
 We believe in a better you. We'll help you to build a brighter future by supporting and mentoring you to overcome barriers that prevent you from getting a job. 
 
