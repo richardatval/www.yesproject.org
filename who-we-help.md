@@ -18,3 +18,7 @@ These barriers could include issues such as:
 * Leaving care or in care
 * Homelessness 
 * Previous offenders
+
+If you require any others types of support such as childcare, travel costs or other financial support then please let us know. 
+
+We’ll do our best to eliminate any barriers you may face to access or stay involved with the YES Project.
