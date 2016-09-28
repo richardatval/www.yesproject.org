@@ -5,8 +5,6 @@ summary: Nihil impedit quo minus id quod maxime placea
 published: true
 ---
 
-### How it works
-
 When you join the YES project, you’ll be assigned a mentor who will support you throughout your journey and help you achieve your goals.
 
 Together you’ll create your unique learning journey that will be tailored to your needs and aspirations.
