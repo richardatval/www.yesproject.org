@@ -17,16 +17,4 @@ Working together as the YES Project means we can offer a range of courses, and s
 2.	Achieve qualifications and learn new skills
 3.	Prepare for work
 
-The organisations and charities involved in delivering the YES Project are:
-
-- Voluntary Action LeicesterShire
-- Soft Touch Arts
-- Seed Creativity
-- The Prince's Trust
-- TwentyTwenty
-- The Bridge
-- Flying Fish part of Leicestershire Cares
-- Warwickshire College
-- Bangladesh Youth & Cultural Shomiti
-
 {% include box.html title="Ready to get started?" buttontext="Get started" url="#" %}
