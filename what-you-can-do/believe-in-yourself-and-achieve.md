@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Believe in yourself and achieve 
-summary: TwentyTwenty’s mentoring service can help you to believe in yourself and achieve your education or employment goals.
+title: Achieve in education
+summary: >-
+  TwentyTwenty’s mentoring service can help you to believe in yourself and
+  achieve your education or employment goals.
 published: true
 ---
 
