@@ -12,11 +12,13 @@ Our project team is made up of nine youth organisation and charities from across
 Our purpose is to support local young people to overcome challenges and barriers that have prevented them from finding a job or seeking further education. 
 
 Working together as the YES Project means we can offer a range of courses, and support services tailored to an individuals needs that will them to:
+
 1.	Believe in themselves
 2.	Achieve qualifications and learn new skills
 3.	Prepare for work
 
 The organisations and charities involved in delivering the YES Project are:
+
 - Voluntary Action LeicesterShire
 - Soft Touch Arts
 - Seed Creativity
