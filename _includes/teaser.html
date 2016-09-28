@@ -4,6 +4,6 @@
 <h4><a href="{{ include.url }}">{{ include.title }}</a></h4>
 <div class="content">
 {% if include.text %}<p>{{ include.text }}</p>{% endif %}
-{% if include.buttontext %}<a class="button" {% if include.url %}href="{{ include.url }}{% else %}#{% endif %}">{{ include.buttontext }}</a></div>{% endif %}
+{% if include.buttontext %}<a class="button" {% if include.url %}href="{{ include.url }}{% else %}#{% endif %}">{{ include.buttontext }}</a>{% endif %}</div>
 </div>
 </div>

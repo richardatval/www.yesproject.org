@@ -10,29 +10,8 @@ hero-classes: "red"
 
 <section class="band" id="projects">
 <div class="container teasers-container">
-<div class="teaser-wrapper">
-<div class="teaser">
-<a href="/who-we-are/"><img src="/img/thumbnails/placeholder.png"></a>
-<h3><a href="/who-we-are/">Who we are</a></h3>
-<div class="content">
-<a class="button" href="/who-we-are/">Learn more</a></div>
-</div>
-</div>
-<div class="teaser-wrapper">
-<div class="teaser">
-<a href="/our-work/"><img src="/img/thumbnails/placeholder.png"></a>
-<h3><a href="/our-work/">Who we help</a></h3>
-<div class="content">
-<a class="button"  href="/our-work/">Learn more</a></div>
-</div>
-</div>
-<div class="teaser-wrapper"><div class="teaser">
-<a href="/get-involved/"><img src="/img/thumbnails/placeholder.png"></a>
-<h3><a href="/get-involved/">Courses</a></h3>
-<div class="content">
-<a class="button" href="/get-involved/">Learn more</a>
-</div>
-</div>
-</div>
+{% include teaser.html title="Who we are" img="/img/thumbnails/placeholder.png"  text="At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
+{% include teaser.html title="Who we help" img="/img/thumbnails/placeholder.png"  text="We provide mentoring and specialist support services to help you overcome barriers that are preventing you from getting a job." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
+{% include teaser.html title="Courses" img="/img/thumbnails/placeholder.png"  text="Our project team is made up of nine youth organisation and charities from across Leicester and Leicestershire. Together, we’re the YES Project." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
 </div>
 </section>
