@@ -23,6 +23,6 @@ Choose from a range of courses such as digital media, arts, functional skills, n
 
 Find out what it’s like to work and learn the skills you need to get a job through work placements, tours, job application support and business Start-Up. 
 
-To get started, just get in touch with us either using our online form or by calling 0116 257 4973. You can either get in touch about yourself or a young person you work with.
+**To get started, just get in touch with us either using our online form or by calling 0116 257 4973. You can either get in touch about yourself or a young person you work with.**
 
 {% include button.html buttontext="Contact us" url="/contact" class="red" %}
