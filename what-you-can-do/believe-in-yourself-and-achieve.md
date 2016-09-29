@@ -18,4 +18,4 @@ The mentoring scheme will support you throughout your journey with one-to-one co
 This will include the chance to work towards qualifications in Maths, English and Information, Communication and Technology (ICT) at one a Lifeskills Centres in Leicester or Loughborough.  You’ll also get to access work placements, career education and support to pursue further education and work.
 
 ### About TwentyTwenty
-TwentyTwenty has supported over 2000 young people to develop self-belief, achieve in education, learn work-ready skills and  nd and keep a job.
+TwentyTwenty is a local charity that has already supported over 2000 young people to develop self-belief, achieve in education, learn work-ready skills and find and keep a job.
