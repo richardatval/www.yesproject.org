@@ -45,6 +45,9 @@
   }
 
   .footer-copyright {
+	  a {
+	  	color: $footer-link-color;
+	  }
     padding: $gutter;
     clear: both;
     width: 100%;
