@@ -1,7 +1,9 @@
 ---
 layout: default
 title: What we do
-summary: At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment.
+summary: >-
+  At the Youth Employability Support (YES) Project, we support young people age
+  15-24 years old to take steps towards employment.
 published: true
 ---
 
@@ -17,5 +19,6 @@ Working together as the YES Project means we can offer a range of courses, and s
 2.	Achieve qualifications and learn new skills
 3.	Prepare for work
 
-{% include box.html title="See our range of courses" buttontext="Learn more" url="/what-you-can-do" %}
+Everyone enrolled on the YES Project will be assigned a mentor who will support them throughout their journey and help them to achieve their goals.
 
+{% include box.html title="See our range of courses" buttontext="Learn more" url="/what-you-can-do" %}
