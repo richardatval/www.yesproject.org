@@ -1,25 +1,22 @@
 ---
 layout: default
-title: Lead and inspire people like you
+title: Language and Cultural Suppport
 summary: >-
   Learn leadership, decision making and team building skills when you join the
   YES Youth Leadership Group.
 published: true
 ---
 
-#### Learn leadership, decision making and team building skills when you join the YES Youth Leadership Group.
+#### Bangladesh Youth & Cultural Shomiti is a learning provider that focuses on addressing language and cultural barriers. They will help you to:
 
-### What's in it for me?
+- Develop skills so you can progress on to further education or employment 
+- Study towards an accredited qualification in English, Maths and Information Communication Technology (ICT) up to Level 2
+- Study towards GCSE English and/or Mathematics qualification(s)
+- Identify skills you need to develop to move towards employment
+- Support you with job search, application and interview skills
+- Study towards an accredited qualification in Employability Skill up to Level 2  
+- Achieve a level 2 accredited qualifications in food safety, health and safety, first aid and principles of manual handling.
 
-As a member of the Youth Leadership Group you will be involved in making decisions, generating ideas and inspiring others to enrol on the YES Project.
 
-You will meet regularly with the group and work as a team on YES Project activities, workshops and events.
 
-This is a great way to develop leadership, team working, communications, negotiations and decision-making skills.
-During your time on the group you will receive one-to-one support, volunteering, work experience and excursion opportunities. 
 
-Being part of the Leadership group you will develop a range of new skills and achievements that you can showcase on your CV to potential employees.
-
-### About YES Youth Leadership Group
-
-YES Youth Leadership Group is a team of young people that make sure the YES Project is appealing, relevant and engaging to 15 to 24 year olds.  The group is co-ordinated by Voluntary Action LeicesterShire.
