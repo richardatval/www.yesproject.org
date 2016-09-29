@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Start Your Own Business 
-summary: Enhance your business skills and develop your business ideas so that you can create the future you want.
+title: Start Your Own Business
+summary: >-
+  Enhance your business skills and develop your business ideas so that you can
+  create the future you want.
 published: true
 ---
 
@@ -9,7 +11,7 @@ published: true
 
 ### What’s in it for me?
 
-The Enterprise team offers a range of support to help you make your business idea a reality.
+YES Enterprise team offers a range of support to help you make your business idea a reality.
 
 ### Enterprise challenges
 
@@ -26,3 +28,7 @@ These workshops are your opportunity to explore new ideas and learn about how to
 ### Test Trade Days
 
 We’ll offer you the opportunity to test your product or service in the real world on our Test Trade days. These days will give you the opportunity to pick up valuable feedback and help improve your offer.
+
+### About YES Enterprise Team
+
+YES Enterprise Team is made up of Voluntary Action LeicesterShire (VAL) and The Prince’s Trust. Together, these charities have already helped many people start up their own social enterprises or private ventures, and they’d love to work with you.
