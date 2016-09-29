@@ -18,3 +18,7 @@ Creative sessions run throughout the year and will help you build confidence and
 * The opportunity to work towards an accredited Arts Awards and to progress on to our mentoring scheme 
 
 You will be able to showcase your art at the annual YES exhibition and performance and receive recognition for all your hard work by visitors, mentors and creative organisations.
+
+### About Soft Touch Arts
+
+Soft Touch Arts is an award winning charity using arts, media and music activities as a tool to engage with and change the lives of disadvantaged young people.
