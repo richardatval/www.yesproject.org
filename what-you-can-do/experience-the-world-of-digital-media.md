@@ -26,3 +26,8 @@ With your film made, you’ll gain real-life experience by working with digital 
 The final step of the programme will focus on job applications, CV writing, interview skills and preparing you for work.
 
 On completion of the programme you will receive mentoring and support into employment, further education or training.
+
+###About Seed Creativity
+Seed Creativity is a fun, down-to-earth, hands-on digital marketing agency that creates visual communications for businesses. The company has a strong emphasis on working with local young people and helping them develop.
+
+
