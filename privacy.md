@@ -6,7 +6,7 @@ permalink: /privacy/
 scrollheadings:
   - title: "Overview"
   - title: "What we collect"
-  - title: "What information do we gather"
+  - title: "Why we gather this information"
   - title: "Security"
   - title: "How we use cookies"
   - title: "Links to other websites"
@@ -31,7 +31,7 @@ We may collect the following information:
 * contact information including email address
 * demographic information such as postcode, preferences and interests other information relevant to customer surveys and our work with the sector
 
-### What information do we gather
+### Why we gather this information
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -56,8 +56,6 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 This may prevent you from taking full advantage of the website.
 
-List of the main cookies used by the Voluntary Action LeicesterShire website:
-
 #### Google Analytics Tracking
 
 Google Analytics cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
@@ -72,6 +70,7 @@ You may choose to restrict the collection or use of your personal information in
 
 Whenever you are asked to fill in a form on the website your data will be for the use of Voluntary Action LeicesterShire’s work unless explicitly stated otherwise
 If you have previously agreed to us using your personal information for direct contact you may cancel it at any time by contacting us at helpline@valonline.org.uk
+
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:

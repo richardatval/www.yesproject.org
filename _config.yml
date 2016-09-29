@@ -40,6 +40,7 @@ paginate_path: "/news/:num/"
 timezone: Europe/London
 
 exclude: ['bower.json']
+exclude: ['grunt']
 
 # Conditional Stylesheets
 

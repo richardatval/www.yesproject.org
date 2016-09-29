@@ -10,8 +10,8 @@ hero-classes: "red"
 
 <section class="band" id="projects">
 <div class="container teasers-container">
-{% include teaser.html title="Who we are" img="/img/thumbnails/placeholder.png"  text="At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
-{% include teaser.html title="Who we help" img="/img/thumbnails/placeholder.png"  text="We provide mentoring and specialist support services to help you overcome barriers that are preventing you from getting a job." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
-{% include teaser.html title="Courses" img="/img/thumbnails/placeholder.png"  text="Our project team is made up of nine youth organisation and charities from across Leicester and Leicestershire. Together, we’re the YES Project." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
+{% include teaser.html title="Who we are" img="/img/thumbnails/outdoors.jpg"  text="At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
+{% include teaser.html title="Who we help" img="/img/thumbnails/specialist-support.jpg"  text="We provide mentoring and specialist support services to help you overcome barriers that are preventing you from getting a job." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
+{% include teaser.html title="Courses" img="/img/thumbnails/computers.jpg"  text="Our project team is made up of nine youth organisation and charities from across Leicester and Leicestershire. Together, we’re the YES Project." url="/what-you-can-do/get-creative" buttontext="Learn more" url="/who-we-are" %}
 </div>
 </section>
