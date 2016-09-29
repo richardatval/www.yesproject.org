@@ -20,3 +20,5 @@ The organisations and charities involved in delivering the YES Project are:
 - Flying Fish part of Leicestershire Cares
 - Warwickshire College
 - Bangladesh Youth & Cultural Shomiti
+
+{% include box.html title="See our range of courses" buttontext="Learn more" url="/what-you-can-do" %}
