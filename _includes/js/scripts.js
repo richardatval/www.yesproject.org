@@ -34,7 +34,7 @@ $(document).ready(function() {
 					email: "required",
 				},
 				messages: {
-					email: "We need your email to send you updates.",
+					email: "We need your email address to contact you.",
 				},
 				submitHandler: function(form) {
 					form.submit();
