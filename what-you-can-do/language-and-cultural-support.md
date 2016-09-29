@@ -21,4 +21,5 @@ During your time on the group you will receive one-to-one support, volunteering,
 Being part of the Leadership group you will develop a range of new skills and achievements that you can showcase on your CV to potential employees.
 
 ### About YES Youth Leadership Group
+
 YES Youth Leadership Group is a team of young people that make sure the YES Project is appealing, relevant and engaging to 15 to 24 year olds.  The group is co-ordinated by Voluntary Action LeicesterShire.
