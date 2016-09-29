@@ -7,7 +7,9 @@ summary: >-
 published: true
 ---
 
-#### Bangladesh Youth & Cultural Shomiti is a learning provider that focuses on addressing language and cultural barriers. They will help you to:
+#### Bangladesh Youth & Cultural Shomiti is a learning provider that focuses on addressing language and cultural barriers. 
+
+They will help you to:
 
 - Develop skills so you can progress on to further education or employment 
 - Study towards an accredited qualification in English, Maths and Information Communication Technology (ICT) up to Level 2
