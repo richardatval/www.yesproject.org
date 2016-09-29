@@ -1,24 +1,21 @@
 ---
 layout: default
-title: How it works
+title: What we do
 summary: Nihil impedit quo minus id quod maxime placea
 published: true
 ---
 
-When you join the YES project, you’ll be assigned a mentor who will support you throughout your journey and help you achieve your goals.
+### At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment.
 
-Together you’ll create your unique learning journey that will be tailored to your needs and aspirations.
+Our project team is made up of nine youth organisation and charities from across Leicester and Leicestershire. Together, we’re the YES Project. 
 
-Your journey will help you:
+Our purpose is to support local young people to overcome challenges and barriers that have prevented them from finding a job or seeking further education. 
 
-**Believe in a better you**
+Working together as the YES Project means we can offer a range of courses, and support services tailored to an individuals needs that will them to:
 
-Access a variety of specialised support packages and health and wellbeing programmes to help you build a brighter future.
+1.	Believe in themselves
+2.	Achieve qualifications and learn new skills
+3.	Prepare for work
 
-**Achieve qualifications and learn new skills**
+{% include box.html title="Ready to get started?" buttontext="Get started" url="#" %}
 
-Choose from range of courses such as digital media, arts, functional skills, nationally recognised quali cations and vocational skills.
-
-**Prepare for work**
-
-Find out what it’s like to work and learn the skills you need to get a job through work placements, tours, job application support and business Start-Up.
