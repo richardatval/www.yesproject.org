@@ -1,17 +1,19 @@
 ---
 layout: default
-title: Lead and inspire people like you 
-summary: Learn leadership, decision making and team building skills when you join the YES Youth Leadership Group.
+title: Lead and inspire people like you
+summary: >-
+  Learn leadership, decision making and team building skills when you join the
+  YES Youth Leadership Group.
 published: true
 ---
 
-#### Learn leadership, decision making and team building skills when you join the YES Youth Leadership Group.
+#### The Bridge is a local charity that will provide you with one-to-one intensive support and help you to:
 
-As a member of the Youth Leadership Group you will be involved in making decisions, generating ideas and inspiring others to enrol on the YES Project.
+- Find and access suitable accommodation and prevent homelessness
+- Mediate between you and your family
+- Refer and support you to access specialist statutory services 
+- Accompany you to appointments
+- Work with you to build your confidence, self-esteem and help to motivate you
+- Work with you to improve your health and wellbeing
 
-You will meet regularly with the group and work as a team on YES Project activities, workshops and events.
 
-This is a great way to develop leadership, team working, communications, negotiations and decision-making skills.
-During your time on the group you will receive one-to-one support, volunteering, work experience and excursion opportunities. 
-
-Being part of the Leadership group you will develop a range of new skills and achievements that you can showcase on your CV to potential employees.
