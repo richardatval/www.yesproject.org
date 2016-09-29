@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lead and inspire people like you
+title: Specialised Support Services
 summary: >-
   Learn leadership, decision making and team building skills when you join the
   YES Youth Leadership Group.
