@@ -5,8 +5,7 @@ summary: Experience the world of digital media
 published: true
 ---
 
-## Learn all you need to know about the world of digital media with Seed Creativity
-
+#### Learn all you need to know about the world of digital media with Seed Creativity
 
 ![Digital Media Students](/img/digital-media.jpg)
 
