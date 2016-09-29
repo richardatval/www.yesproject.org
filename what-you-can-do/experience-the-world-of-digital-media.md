@@ -5,7 +5,7 @@ summary: Experience the world of digital media
 published: true
 ---
 
-### Learn all you need to know about the world of digital media with Seed Creativity
+##  Learn all you need to know about the world of digital media with Seed Creativity
 
 
 ![Digital Media Students](/img/digital-media.jpg)
@@ -31,5 +31,3 @@ On completion of the programme you will receive mentoring and support into emplo
 ### About Seed Creativity
 
 Seed Creativity is a fun, down-to-earth, hands-on digital marketing agency that creates visual communications for businesses. The company has a strong emphasis on working with local young people and helping them develop.
-
-
