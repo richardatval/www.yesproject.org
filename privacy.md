@@ -19,7 +19,7 @@ This privacy policy sets out how Voluntary Action LeicesterShire uses and protec
 
 Voluntary Action LeicesterShire is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
 
-Voluntary Action LeicesterShire may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 11 August 2016.
+Voluntary Action LeicesterShire may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3 October 2016.
 
 ### What we collect
 

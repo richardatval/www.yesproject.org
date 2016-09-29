@@ -23,4 +23,4 @@ If you require others types of support such as childcare, travel costs or other 
 
 We’ll do our best to eliminate any barriers you may face to access or stay involved with the YES Project.
 
-{% include box.html title="Ready to get started?" buttontext="Get started" url="#" %}
+{% include box.html title="Ready to get started?" buttontext="Get started" url="/what-you-can-do" %}

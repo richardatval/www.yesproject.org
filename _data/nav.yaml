@@ -10,10 +10,10 @@
 - title: "About"
   href: "#"
   subcategories:
+    - subtitle: "What we do"
+      subhref: "/what-we-do"
     - subtitle: "Who we are"
       subhref: "/who-we-are"
-    - subtitle: "What we believe"
-      subhref: "/what-we-believe"
     - subtitle: "Who we help"
       subhref: "/who-we-help"
 - title: "News"
@@ -23,8 +23,6 @@
   subcategories:
     - subtitle: "What you can do"
       subhref: "/what-you-can-do"
-    - subtitle: "Courses"
-      subhref: "/courses"
     - subtitle: "Get started"
       subhref: "/get-started"
 - title: "Contact"

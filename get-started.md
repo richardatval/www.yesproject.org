@@ -10,8 +10,6 @@ Together we’ll create a learning journey that will be tailored to your needs a
 
 You can choose from a range of programmes on offer to create your journey. Thse programmes include courses in creative media, arts, work placements, business start-up, job application skills and qualifications.
 
-To get started, just get in touch with us either using our online form or by calling 0116 257 xxxx. You can either get in touch about yourself or a young person you work with.
+To get started, just get in touch with us either using our online form or by calling 0116 257 4973. You can either get in touch about yourself or a young person you work with.
 
 {% include button.html buttontext="Contact us" url="/contact" class="red" %}
-
-
