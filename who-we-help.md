@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Who we help
-summary: We support young people age 15-24 years old to take steps towards employment
+summary: We can help you if you’re aged 15-24 years old and not in education, employment or training.
+
 published: true
 ---
 

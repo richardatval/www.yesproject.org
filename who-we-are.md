@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Who we are
-summary: We support young people age 15-24 years old to take steps towards employment
+summary: The YES Project team is a partership of nine youth organisation and charities from across Leicester and Leicestershire. 
 published: true
 ---
 

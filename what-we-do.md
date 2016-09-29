@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What we do
-summary: Nihil impedit quo minus id quod maxime placea
+summary: At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment.
 published: true
 ---
 

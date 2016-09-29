@@ -1,7 +1,7 @@
 ---
 title: Privacy & Cookies
 layout: scroll
-summary: Privacy and cookie information for the Aylestone Allotments website
+summary: Privacy and cookie information
 permalink: /privacy/
 scrollheadings:
   - title: "Overview"

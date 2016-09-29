@@ -8,10 +8,8 @@
 #       subhref: "relative link of second level item"
 
 - title: "What we do"
-  href: "/about/what-we-do"
-- title: "News"
-  href: "/news"
-- title: "Events"
-  href: "/events"
+  href: "/what-we-do"
+- title: "What you can do"
+  href: "/what-you-can-do"
 - title: "Contact"
   href: "/contact"
