@@ -9,6 +9,8 @@ published: true
 
 #### Get equipped with the skills, tools, training and confidence you need to secure a job  with The Prince’s Trust.
 
+![Young man shows younger woman how to operate drill](/img/engineering.jpg)
+
 ### What’s in it for me?
 
 You’ll develop your employability skills and undertake a hands-on work placement and training with a local employer and have access to real job opportunities. 

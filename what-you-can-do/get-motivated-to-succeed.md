@@ -9,6 +9,8 @@ published: true
 
 #### Learn new skills; improve confidence, self-esteem and progress onto further education programmes or employment.
 
+![Group of young people hiking](/img/outdoors.jpg)
+
 ### What's in it for me?
 
 By signing up to the YES Team Programme you’ll benefit from a stable environment, get motivated to succeed and move on with your life.

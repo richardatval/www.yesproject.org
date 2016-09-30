@@ -9,6 +9,8 @@ published: true
 
 #### The Bridge is a local charity that will provide you with one-to-one intensive support and help you to:
 
+![Young man being counselled by woman](/img/specialist-support.jpg)
+
 - Find and access suitable accommodation and prevent homelessness
 - Mediate between you and your family
 - Refer and support you to access specialist statutory services 

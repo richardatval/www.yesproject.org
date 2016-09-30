@@ -7,6 +7,8 @@ published: true
 
 #### Do you have a passion for all things creative? If so, you can explore lots of exciting creative activities at Soft Touch Arts
 
+![Two young women crafting](/img/get-creative.jpg)
+
 ### What’s in it for me? 
 
 You’ll have the option to try out photography, Photoshop, stencil and graffiti art, print, music, sculpture, creative cooking and more.

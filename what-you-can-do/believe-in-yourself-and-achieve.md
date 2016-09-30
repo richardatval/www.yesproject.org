@@ -9,6 +9,8 @@ published: true
 
 #### TwentyTwenty’s mentoring service can help you to believe in yourself and achieve your education or employment goals.
 
+![Two young women working on computer](/img/computers.jpg)
+
 ### What’s in it for me? 
 
 Receive support every step of the way with TwentyTwenty’s Award Winning Mentoring Scheme.

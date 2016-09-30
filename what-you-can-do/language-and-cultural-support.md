@@ -9,6 +9,8 @@ published: true
 
 #### Bangladesh Youth & Cultural Shomiti is a learning provider that focuses on addressing language and cultural barriers. 
 
+![Two young muslim women talking](/img/cultural-support.jpg)
+
 They will help you to:
 
 - Develop skills so you can progress on to further education or employment 

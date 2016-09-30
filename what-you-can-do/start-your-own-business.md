@@ -9,6 +9,8 @@ published: true
 
 #### Enhance your business skills and develop your business ideas so that you can create the future you want.
 
+![Young woman working in a shop](/img/retail-2.jpg)
+
 ### What’s in it for me?
 
 YES Enterprise team offers a range of support to help you make your business idea a reality.

@@ -9,6 +9,8 @@ published: true
 
 #### Learn leadership, decision making and team building skills when you join the YES Youth Leadership Group. 
 
+![Young people at leadership group meeting](/img/meeting.jpg)
+
 ### What’s in it for me?
 
 As a member of the Youth Leadership Group you’ll be involved in making decisions, generating ideas, inspiring others to join the YES Project and you’ll play a key role in helping to shape and manage the YES Project. 
