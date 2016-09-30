@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Supporting you to take steps towards finding work
-summary: "Nihil impedit quo minus id quod maxime placea"
+summary: If you’re 15-24 years olds and not in education, employment or training the YES Project can help you."
 hero-copy: "If you’re 15-24 years olds and not in education, employment or training the YES Project can help you."
 hero-link-url: "/what-we-do"
 hero-link-copy: "Find out more"
