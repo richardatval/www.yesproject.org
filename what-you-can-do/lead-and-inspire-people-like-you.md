@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Lead and inspire people like you
 summary: >-
   Enhance your business skills and develop your business ideas so that you can

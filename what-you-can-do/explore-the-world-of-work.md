@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Explore the world of work
 summary: Experience the world of digital media
 published: true

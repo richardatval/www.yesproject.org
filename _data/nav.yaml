@@ -23,6 +23,8 @@
   subcategories:
     - subtitle: "What you can do"
       subhref: "/what-you-can-do"
+    - subtitle: "Course dates"
+      subhref: "/course-dates"
     - subtitle: "Get started"
       subhref: "/get-started"
 - title: "Contact"

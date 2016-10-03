@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Specialised Support Services
 summary: >-
   Learn leadership, decision making and team building skills when you join the

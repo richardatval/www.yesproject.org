@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Experience the world of digital media
 summary: Experience the world of digital media
 published: true

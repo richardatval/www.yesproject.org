@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Achieve in education
 summary: >-
   TwentyTwenty’s mentoring service can help you to believe in yourself and

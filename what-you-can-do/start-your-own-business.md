@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Lead and inspire people like you
 summary: >-
   Learn leadership, decision making and team building skills when you join the

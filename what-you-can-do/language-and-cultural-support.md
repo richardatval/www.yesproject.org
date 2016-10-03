@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Language and Cultural Suppport
+layout: course
+title: Language and Cultural Support
 summary: >-
   Learn leadership, decision making and team building skills when you join the
   YES Youth Leadership Group.

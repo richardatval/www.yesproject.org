@@ -105,5 +105,7 @@ prose:
           options:
             - name: 'Default'
               value: 'default'
+            - name: 'Course'
+              value: 'course'
             - name: 'No Sidebars'
               value: 'no-sidebars'

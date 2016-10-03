@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Get creative
 summary: Experience the world of digital media
 published: true

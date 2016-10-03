@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Get hands on experience and access to jobs
 summary: >-
   Get equipped with the skills, tools, training and confidence you need to

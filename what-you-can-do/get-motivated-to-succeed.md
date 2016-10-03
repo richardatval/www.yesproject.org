@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course
 title: Get motivated to succeed
 summary: >-
   Learn new skills; improve confidence, self-esteem and progress onto further
