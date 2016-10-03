@@ -24,7 +24,7 @@ If you require any other types of support such as childcare, travel costs or oth
 
 We’ll do our best to eliminate any barriers you may face to accessing or staying involved with the YES Project.
 
-## We have two partners offering specialist support
+### We have two partners offering specialist support
 
 #### The Bridge 
 
