@@ -7,11 +7,11 @@ summary: >-
 published: true
 ---
 
-#### You can access YES Specialised Support Services throughout your journey with the YES Project.
+#### YES specialist support services can provide you with the support you need to overcome the barriers that prevent you from getting a job.
 
 ![Young man being counselled by woman](/img/specialist-support.jpg)
 
-These services can provide you with the support you need to overcome the barriers that prevent you from getting a job. This could include issues such as:
+You can access YES Specialised Support Services throughout your journey with the YES Project for a range of issues such as:
 
 - Language and cultural barriers
 - Homelessness
@@ -22,7 +22,9 @@ These services can provide you with the support you need to overcome the barrier
 
 If you require any other types of support such as childcare, travel costs or other financial support then please let us know.
 
-### We have two partners offering specialist support
+We’ll do our best to eliminate any barriers you may face to accessing or staying involved with the YES Project.
+
+## We have two partners offering specialist support
 
 #### The Bridge 
 
