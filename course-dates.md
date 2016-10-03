@@ -5,7 +5,9 @@ summary: Dates for our upcoming training courses.
 published: true
 ---
 
-### Upcoming course start dates
+### Upcoming courses
+
+Here's the start dates for upcoming courses:
 
 - 10 October 2016 - [Experience the world of Digital Media](/what-you-can-do/experience-the-world-of-digital-media)
 - 23 November 2016 - [World of work tour at Sytner BMW](/what-you-can-do/explore-the-world-of-work)
@@ -15,9 +17,12 @@ published: true
 - 25 February 2017 - [Taster day for Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 06 March 2017 - [Start of Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 
-### On going courses
+### Ongoing courses 
 
-The following courses are ongoing throughout the year
+The following courses are ongoing throughout the year:
+
+- [Get Creative](/what-you-can-do/get-creative)
+- [Lanuaguage and cultural support for Functional Skills and GCSE Maths and English](/what-you-can-do/yes-specialised-support-services)
 
 
-If the course your interested in is not listed them please get it touch and we will inform you of the next
+If the course your interested in is not listed just get it touch and we will inform you of how you can get involved.
