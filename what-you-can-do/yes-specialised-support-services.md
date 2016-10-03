@@ -28,21 +28,23 @@ If you require any other types of support such as childcare, travel costs or oth
 
 The Bridge is a local charity that will provide you with one-to-one intensive support and help you to: 
 
-•	Find and access suitable accommodation and prevent homelessness 
-•	Mediate between you and your family
-•	Refer and support you to access specialist statutory services
-•	Accompany you to appointments 
-•	Work with you to build your confidence, self-esteem and help to motivate you
-•	Work with you to improve your health and wellbeing 
+- Find and access suitable accommodation and prevent homelessness 
+- Mediate between you and your family
+- Refer and support you to access specialist statutory services
+- Accompany you to appointments 
+- Work with you to build your confidence, self-esteem and help to motivate you
+- Work with you to improve your health and wellbeing
+
 
 #### Bangladesh Youth & Cultural Shomiti 
 
 Bangladesh Youth and Cultural Shomiti is a learning provider that provides educational support to people from a black, asian and minority ethnic (BAME) background and addresses language and cultural barriers. They will help you to: 
 
-•	Develop skills so you can progress on to further education or employment
-•	Study towards an accredited qualification in English, Maths and Information Communication Technology to Level 2
-•	Study towards GCSE English and/or Mathematics qualification(s)
-•	Identify the skills you need to develop to move towards employment
-•	Support you with job searches, application and interview skills
-•	Study towards an accredited qualification in Employability Skills up to Level 2
-•	Achieve Level 2 accredited qualifications in food safety, health and safety, first aid and principles of manual handling. 
+- Develop skills so you can progress on to further education or employment
+- Study towards an accredited qualification in English, Maths and Information Communication Technology to Level 2
+- Study towards GCSE English and/or Mathematics qualification(s)
+- Identify the skills you need to develop to move towards employment
+- Support you with job searches, application and interview skills
+- Study towards an accredited qualification in Employability Skills up to Level 2
+- Achieve Level 2 accredited qualifications in food safety, health and safety, first aid and principles of manual handling.
+
