@@ -7,7 +7,7 @@ summary: >-
 published: true
 ---
 
-#### Get equipped with the skills, tools, training and confidence you need to secure a job  with The Prince’s Trust.
+#### Get equipped with the skills, tools, training and confidence you need to secure a job with the Get into programme ran by The Prince’s Trust.
 
 ![Young man shows younger woman how to operate drill](/img/engineering.jpg)
 
@@ -15,7 +15,7 @@ published: true
 
 You’ll develop your employability skills and undertake a hands-on work placement and training with a local employer and have access to real job opportunities. 
 
-This programme is 4-6 weeks long and during that time you will receive:
+This programme called 'Get into' is 4-6 weeks long and during that time you will receive:
 
 * Targeted skills training and experience including employability skills, sector specific skills and a work placement 
 * Nationally recognised qualifications
