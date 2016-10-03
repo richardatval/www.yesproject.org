@@ -11,7 +11,7 @@ published: true
 
 ![Young man being counselled by woman](/img/specialist-support.jpg)
 
-You can access YES Specialised Support Services throughout your journey with the YES Project for a range of issues such as:
+You can access YES specialised support services throughout your journey with the YES Project for a range of issues such as:
 
 - Language and cultural barriers
 - Homelessness
