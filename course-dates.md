@@ -15,7 +15,7 @@ published: true
 - 25 February 2017 - [Taster day for Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 06 March 2017 - [Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 
-### The following courses are run throughout the year:
+### The following courses run throughout the year:
 
 - [Get Creative](/what-you-can-do/get-creative)
 - [Lanuaguage and cultural support for GCSE Maths and English and functional skills](/what-you-can-do/yes-specialised-support-services)
