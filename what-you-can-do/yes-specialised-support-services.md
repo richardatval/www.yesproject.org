@@ -37,7 +37,6 @@ The Bridge is a local charity that will provide you with one-to-one intensive su
 - Work with you to build your confidence, self-esteem and help to motivate you
 - Work with you to improve your health and wellbeing
 
-
 #### Bangladesh Youth & Cultural Shomiti 
 
 Bangladesh Youth and Cultural Shomiti is a learning provider that provides educational support to people from a black, asian and minority ethnic (BAME) background and addresses language and cultural barriers. They will help you to: 
