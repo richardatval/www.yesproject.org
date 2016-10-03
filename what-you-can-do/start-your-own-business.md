@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Lead and inspire people like you
+title: Start your own business
 summary: >-
   Learn leadership, decision making and team building skills when you join the
   YES Youth Leadership Group.
