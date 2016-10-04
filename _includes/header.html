@@ -7,11 +7,13 @@
 	<meta name="description" content="{{ site.description }}">
 	<meta property="og:site_name" content="{{ site.title }}" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="{{ site.baseurl }}" />
+	<meta property="og:url" content="{{ page.url | prepend: site.url}}" />
 	<meta property="og:title" content="{{ site.title }}" />
 	<meta property="og:description" content="{{ site.description }}" />
+	<meta property="og:image" content="{{ site.url}}/img/social/og-profile.jpg" />
 	<meta name="twitter:card" content="summary" />
-	<meta name="twitter:url" content="https://www.valonline.org.uk/" />
+	<meta name="twitter:url" content="{{ page.url | prepend: site.url }}" />
+	<meta name="twitter:image" content="{{ site.url}}/img/social/twitter-profile.jpg" />
 	<meta name="twitter:title" content="{{ site.title }}" />
 	<meta name="twitter:description" content="{{ site.description }}" />
 	<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {{ site.title }}</title>
