@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Lead and inspire people like you
+title: Start your own business
 summary: >-
   Learn leadership, decision making and team building skills when you join the
   YES Youth Leadership Group.
@@ -22,7 +22,8 @@ These team activities are your chance to understand whether or not enterprise is
 ### One to one support
 
 If you’re ready to move faster, we can help you accelerate your progress with bespoke help developing your business plan and accessing finance.
-Business start up workshops
+
+### Business start up workshops
 
 These workshops are your opportunity to explore new ideas and learn about how to set up your own business. They’ll cover key topics like getting your company structure right, marketing and sales.
 
