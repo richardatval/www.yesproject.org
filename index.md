@@ -7,7 +7,7 @@ summary: >-
 hero-copy: >-
   If you’re 15-24 years old and not in education, employment or training the YES
   Project can help you.
-hero-link-url: /what-we-do
+hero-link-url: /who-we-help
 hero-link-copy: Find out more
 hero-classes: red
 published: true
