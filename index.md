@@ -20,3 +20,6 @@ published: true
 {% include teaser.html title="Get started" img="/img/thumbnails/computers.jpg"  text="Join the YES Project and a mentor will support you throughout your journey and help you to achieve your goals." url="/get-started" buttontext="Learn more" url="/get-started" %}
 </div>
 </section>
+<div class="container">
+{% include box.html title="Contact" text="If you have any idea for a project or you'd like to get involved please get in touch." buttontext="Get in touch" url="/contact" %}
+</div>
