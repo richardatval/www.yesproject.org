@@ -21,5 +21,5 @@ published: true
 </div>
 </section>
 <div class="container">
-{% include box.html title="Contact" text="If you'd like to get involved please get in touch." buttontext="Get in touch" url="/contact" %}
+{% include box.html title="Contact" text="To find out how you can get invoved with the YES Project." buttontext="Get in touch" url="/contact" %}
 </div>
