@@ -55,13 +55,6 @@
     font-size: 0.8em;
     line-height: 1.5em;
     margin: auto;
-  }
-  
-  span.funder-logo {
-	  margin-bottom: $gutter;
-	  @include media($tablet) {
-		  float: right;
-		  margin-left: $gutter;
-	  }
+	padding-right: 110px;
   }
 }
