@@ -4,16 +4,19 @@ layout: scroll
 summary: Privacy and cookie information
 permalink: /privacy/
 scrollheadings:
-  - title: "Overview"
-  - title: "What we collect"
-  - title: "Why we gather this information"
-  - title: "Security"
-  - title: "How we use cookies"
-  - title: "Links to other websites"
-  - title: "Controlling your personal information"
+  - title: Overview
+  - title: What we collect
+  - title: Why we gather this information
+  - title: Security
+  - title: How we use cookies
+  - title: Links to other websites
+  - title: Controlling your personal information
+published: true
 ---
 
 ### Overview
+
+Voluntary Action LeicesterShire is the contract holder and management organisation for the YES Project.
 
 This privacy policy sets out how Voluntary Action LeicesterShire uses and protects any information that you give to us when you use this website.
 
