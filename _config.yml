@@ -31,10 +31,11 @@ analyticstracking: "UA-84927932-1"
 
 # Pagination
 
-paginate: 5
+paginate: 9
 paginate_path: "/news/:num/"
 
 #  Timezone
+
 timezone: Europe/London
 
 exclude: ['bower.json']
@@ -47,7 +48,9 @@ conditionalstylesheets:
     path: "/css/ie9.css"
 
 #  Configuration for prose.io online editor
+
 prose:
+  media: img
   ignore: 
     - '_includes'
     - 'assets'
@@ -69,7 +72,6 @@ prose:
     - '_config.yml'
     - 'bower.json'
     - 'favicon.ico'
-  media: img
   metadata:
     _posts:
       - name: "title"
@@ -95,8 +97,8 @@ prose:
         field:
           label: "Thumbnail Image"
           element: "text"
-          placeholder: "/img/thumbnails/case-study-thumbnail.jpg"
-          value: "/img/thumbnails/case-study-thumbnail.jpg"
+          placeholder: "/img/thumbnails/placeholder-thumbnail.png"
+          value: "/img/thumbnails/placeholder.jpg"
       - name: "layout"
         field:
           label: "Layout"
@@ -105,19 +107,7 @@ prose:
           options:
             - name: 'Default'
               value: 'default'
+            - name: 'Course'
+              value: 'course'
             - name: 'No Sidebars'
               value: 'no-sidebars'
-      - name: "category"
-        field:
-          label: "Category"
-          element: "select"
-          value: "default"
-          options:
-            - name: 'Coalville & Greenhill'
-              value: 'coalville-greenhill'
-            - name: 'Loughborough'
-              value: 'loughborough'
-            - name: 'Measham'
-              value: 'measham'
-            - name: 'Wigston'
-              value: 'wigston'
