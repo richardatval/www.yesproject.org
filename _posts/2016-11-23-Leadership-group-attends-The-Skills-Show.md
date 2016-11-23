@@ -11,7 +11,7 @@ The outing was an opportunity for the group to find out about careers and appren
 
 During their time at the event they were able to explore a range of job-related skills in web design, carpentry, TV production, forensic science and telecommunications. 
 
-There was also the opportunity to chat to employers about job opportunities, careers, CV writing and interviews as well as talk to skills advisors to find out more about apprenticeships and traineeships.
+There was also the chance to chat to employers about job opportunities, careers, CV writing and interviews as well as talk to skills advisors to find out more about apprenticeships and traineeships.
 
 Zuli Stannard, YES Youth Leadership Co-ordinator commented:
 
