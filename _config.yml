@@ -12,7 +12,7 @@ gems:
   - jekyll-feed
    
 #  Site settings
-title: GREAT Project
+title: YES Project
 description: Helping families move toward employment and training
 url: http://www.yesproject.org
 baseurl: 
