@@ -20,6 +20,7 @@ Zuli Stannard, YES Youth Leadership Co-ordinator commented:
 The YES Youth Leadership Group is a team of young people that make sure the YES Project is appealing, relevant and engaging to 15 to 24 year olds. 
 
 They work together on a range of activities that helps them to develop essential employability skills such as leadership, communications, negotiation and decision-making.  
+
 All group members have the opportunity to receive one-to-one support, volunteering, work experience and go on excursions.
 
 They meet regularly on Tuesdays 3-5pm and are always looking for new members to join. 
