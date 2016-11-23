@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+date: '2016-11-23 12:17 +0000'
+thumbnail-image: /img/thumbnails/placeholder.jpg
+layout: default
+title: Youth leadership group attends national skills show
 ---
 On Thursday 17 November the YES Youth Leadership Group went to the UK’s largest careers event The Skills Show at the NEC in Birmingham.
 
