@@ -95,8 +95,8 @@ prose:
         field:
           label: "Thumbnail Image"
           element: "text"
-          placeholder: "/img/thumbnails/placeholder-thumbnail.png"
-          value: "/img/thumbnails/placeholder.jpg"
+          placeholder: "/img/thumbnails/case-study-thumbnail.jpg"
+          value: "/img/thumbnails/case-study-thumbnail.jpg"
       - name: "layout"
         field:
           label: "Layout"
@@ -105,7 +105,19 @@ prose:
           options:
             - name: 'Default'
               value: 'default'
-            - name: 'Course'
-              value: 'course'
             - name: 'No Sidebars'
               value: 'no-sidebars'
+      - name: "category"
+        field:
+          label: "Category"
+          element: "select"
+          value: "default"
+          options:
+            - name: 'Coalville & Greenhill'
+              value: 'coalville-greenhill'
+            - name: 'Loughborough'
+              value: 'loughborough'
+            - name: 'Measham'
+              value: 'measham'
+            - name: 'Wigston'
+              value: 'wigston'
