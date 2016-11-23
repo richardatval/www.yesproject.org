@@ -25,4 +25,4 @@ All group members have the opportunity to receive one-to-one support, volunteeri
 
 They meet regularly on Tuesdays 3-5pm and they're always looking for new members to join. 
 
-Learn about the [Youth Leadership Group](http://www.yesproject.org/what-you-can-do/lead-and-inspire-people-like-you/) or contact [zuli.s@yesproject.org](mailto:zuli.s@yesproject.org) if you’re interested in joining.
+Learn more about the [Youth Leadership Group](http://www.yesproject.org/what-you-can-do/lead-and-inspire-people-like-you/) or contact [zuli.s@yesproject.org](mailto:zuli.s@yesproject.org) if you’re interested in joining.
