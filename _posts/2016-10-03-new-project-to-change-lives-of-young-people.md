@@ -3,6 +3,7 @@ title: New £1.94m project to change lives of young people
 layout: default
 published: true
 thumbnail-image: /img/thumbnails/meeting.jpg
+date: '2016-11-23 12:15 +0000'
 ---
 
 ![Alt text](/img/meeting.jpg)
@@ -32,4 +33,3 @@ Established by the European Union, the European Social Fund helps local areas st
 * The Big Lottery Fund is the largest funder of community activity in the UK. It puts people in the lead to improve their lives and communities, often through small, local projects.
 * It is responsible for giving out 40% of the money raised by National Lottery players for good causes. Every year it invests over £650 million and awards around 12,000 grants across the UK for health, education, environment and charitable purposes.
 * Since June 2004 it has awarded over £9 billion to projects that change the lives of millions of people. Since the National Lottery began in 1994, £34 billion has been raised and more than 450,000 grants awarded
-
