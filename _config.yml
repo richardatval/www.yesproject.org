@@ -98,7 +98,7 @@ prose:
         field:
           label: "Thumbnail Image"
           element: "text"
-          placeholder: "/img/thumbnails/placeholder-thumbnail.png"
+          placeholder: "/img/placeholder-thumbnail.png"
           value: "/img/thumbnails/placeholder.jpg"
       - name: "layout"
         field:
