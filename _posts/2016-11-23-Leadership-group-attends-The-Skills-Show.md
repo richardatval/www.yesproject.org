@@ -11,7 +11,7 @@ Zuli Stannard, YES Youth Leadership Co-ordinator commented:
 
 > "Many of the young people that join the YES Project find it difficult to decide what job or career path to take.  Attending The Skills Show was an ideal way for them to discover what carers are out there and to focus on the skills and experience they need to get a job in their chosen career."
 
-About YES Youth Leadership Group
+### About YES Youth Leadership Group
 
 The YES Youth Leadership Group is a team of young people that make sure the YES Project is appealing, relevant and engaging to 15 to 24 year olds. 
 
