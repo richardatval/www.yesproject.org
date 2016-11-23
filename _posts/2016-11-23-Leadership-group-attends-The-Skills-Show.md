@@ -9,7 +9,9 @@ On Thursday 17 November the YES Youth Leadership Group went to the UK’s larges
 
 The outing was an opportunity for the group to find out about careers and apprenticeships within a range of different industries.
 
-During their time at the event they were able to explore a range of job-related skills in web design, carpentry, TV production, forensic science and telecommunications. As well as chat to employers about job opportunities, career advice and hints and tips for CV writing and interviews. There was also the opportunity to talk to skills advisors and to find out more about apprenticeships and traineeships.
+During their time at the event they were able to explore a range of job-related skills in web design, carpentry, TV production, forensic science and telecommunications. 
+
+There was also the opportunity to chat to employers about job opportunities, careers, CV writing and interviews as well as talk to skills advisors to find out more about apprenticeships and traineeships.
 
 Zuli Stannard, YES Youth Leadership Co-ordinator commented:
 
