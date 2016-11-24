@@ -3,7 +3,7 @@ title: New £1.94m project to change lives of young people
 layout: default
 published: true
 thumbnail-image: /img/thumbnails/meeting.jpg
-date: '2016-11-23 12:15 +0000'
+date: '2016-10-03 12:15 +0000'
 ---
 
 ![Alt text](/img/meeting.jpg)
