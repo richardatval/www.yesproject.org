@@ -36,4 +36,4 @@ Flying Fish organise a range of world of work activities, which includes company
 
 These activities will give you a taste for type of job you would like to do in the future.
 
-Learn more about [world of work](http://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) or contact peter@leicestershirecares.co.uk if you’re interested in joining.
+Learn more about [world of work](http://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) or contact [peter@leicestershirecares.co.uk](mailto:peter@leicestershirecares.co.uk) if you’re interested in joining.
