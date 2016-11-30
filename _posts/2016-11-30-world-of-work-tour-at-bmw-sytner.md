@@ -17,10 +17,10 @@ The group of unemployed 15-24 years olds had an insightful morning finding out a
 John Fryer, Head of Business at Sytner, spoke about the key characteristics of a good employee and how attributes such as timekeeping and enthusiasm are just as important as qualifications.
 
 Heather, aged 17, commented:
-> I wanted to be a lifeguard, but the tour has made me realise I’d like to be a receptionist. I’m interested in people and I’d enjoy talking to customers.” We loved with a love that was more than love
+> "I wanted to be a lifeguard, but the tour has made me realise I’d like to be a receptionist. I’m interested in people and I’d enjoy talking to customers.” We loved with a love that was more than love."
 
 Tom, aged 17, started the day unsure on what job he would like to do, but after the tour he said:
-> I’ve really liked seeing the cars and I’d definitely be interested in working in the car bodyshop, spray painting the cars
+> "I’ve really liked seeing the cars and I’d definitely be interested in working in the car bodyshop, spray painting the cars."
 
 The tour was organised by YES Project partners Flying Fish, a local charity that supports young people in care or leaving care to take the next steps in life by introducing them to work.
 
