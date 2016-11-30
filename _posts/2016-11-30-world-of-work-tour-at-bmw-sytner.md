@@ -6,6 +6,9 @@ layout: default
 title: World of work tour at BMW Sytner
 ---
 
+![YES Project company tour BMW Sytner]({{site.baseurl}}/img/David Weight - VAL Sytner BMW Yes Project - November 2016 56-fullsize-web.jpg)
+
+
 On Thursday 24 November, we took a group of young people on a company tour of BMW Sytner to gain an insight into how a business operates.
 
 The group of unemployed 15-24 years olds had an insightful morning finding out about the jobs involved in running each department at the car dealership.
@@ -31,6 +34,3 @@ Flying Fish organise a range of world of work activities, which includes company
 These activities will give you a taste for type of job you would like to do in the future.
 
 Learn more about [world of work](http://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) or contact [peter@leicestershirecares.co.uk]() if you’re interested in joining.
-
-
-
