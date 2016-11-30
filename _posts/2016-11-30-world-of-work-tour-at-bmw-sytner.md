@@ -1,13 +1,14 @@
 ---
 date: '2016-11-30 14:01 +0000'
 published: true
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: >-
+  /img/David Weight - VAL Sytner BMW Yes Project - November 2016
+  56-thumbnail.jpg
 layout: default
 title: World of work tour at BMW Sytner
 ---
 
 ![YES Project company tour BMW Sytner]({{site.baseurl}}/img/David Weight - VAL Sytner BMW Yes Project - November 2016 56-fullsize-web.jpg)
-
 
 On Thursday 24 November, we took a group of young people on a company tour of BMW Sytner to gain an insight into how a business operates.
 
