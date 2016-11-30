@@ -1,6 +1,6 @@
 ---
 date: '2016-11-30 14:01 +0000'
-published: false
+published: true
 thumbnail-image: /img/placeholder.jpg
 layout: default
 title: World of work tour at BMW Sytner
