@@ -5,6 +5,8 @@ thumbnail-image: /img/placeholder.jpg
 layout: default
 title: The first YES Media course hailed a success
 ---
+![YES Media learners]({{site.baseurl}}/img/Yes Media Looking at Camera.jpg)
+
 In December, a group of ten unemployed young people, aged 15-24 completed the YES Media course.  The 9-week course, hosted by Seed Creativity focused on modern media as well as employability skills. 
 
 The young people attended the course twice a week at Seed Creative Academy in the heart of Leicester’s cultural quarter. 
