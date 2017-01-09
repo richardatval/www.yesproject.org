@@ -1,6 +1,6 @@
 ---
 date: '2017-01-09 14:03 +0000'
-published: false
+published: true
 thumbnail-image: /img/Yes Media Looking at Camera-thumbnail.jpg
 layout: default
 title: The first YES Media course hailed a success

@@ -90,7 +90,7 @@ prose:
         field:
           label: "Published"
           element: "checkbox"
-          value: false
+          value: true
       - name: "summary"
         field:
           label: "Summary"
