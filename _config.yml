@@ -86,11 +86,6 @@ prose:
           label: "Date"
           element: "text"
           value: CURRENT_DATETIME
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: true
       - name: "summary"
         field:
           label: "Summary"
