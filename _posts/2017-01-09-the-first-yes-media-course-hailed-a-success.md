@@ -1,11 +1,11 @@
 ---
 date: '2017-01-09 14:03 +0000'
-published: true
-thumbnail-image: /img/placeholder.jpg
+published: false
+thumbnail-image: /img/Yes Media Looking at Camera-thumbnail.jpg
 layout: default
 title: The first YES Media course hailed a success
 ---
-![YES Media learners]({{site.baseurl}}/img/Yes Media Looking at Camera.jpg)
+![YES Media students filming]({{site.baseurl}}/img/Yes Media Looking at Camera-fullsize-web.jpg)
 
 In December, a group of ten unemployed young people, aged 15-24 completed the YES Media course.  The 9-week course, hosted by Seed Creativity focused on modern media as well as employability skills. 
 
