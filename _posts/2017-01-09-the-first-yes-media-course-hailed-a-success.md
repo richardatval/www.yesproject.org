@@ -38,7 +38,6 @@ Participants have finished the YES Media Course with improved communication, tea
 
 This news item was written by the students on YES Media Course Oct-Dec 2016
 
-
 ## About YES Media
 
 YES Media is a nine week programme that will introduce you to the exciting and creative world of digital media. During the course you will:
