@@ -42,10 +42,10 @@ This news item was written by the students on YES Media Course Oct-Dec 2016
 
 YES Media is a nine week programme that will introduce you to the exciting and creative world of digital media. During the course you will:
 
-• Create, film, edit and maybe star in a short creative video
-• Explore the world of video CV’s.
-• Experience the thrill of working in a design agency
-• Learn about content marketing and social media
-• Develop your confidence, creativity and team working skills
+- Create, film, edit and maybe star in a short creative video
+- Explore the world of video CV’s.
+- Experience the thrill of working in a design agency
+- Learn about content marketing and social media
+- Develop your confidence, creativity and team working skills
 
 The next YES Media course start on 23 January 2017.  [Read more](https://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/) about the course or email [chris@seedcreativity.co.uk](mailto:chris@seedcreativity.co.uk)
