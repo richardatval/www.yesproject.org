@@ -31,6 +31,10 @@ Tejas Johal encouraged any young people thinking about joining:
 
 Participants have finished the YES Media Course with improved communication, teamwork and leadership skills as well as learning new methods of technology and communication to get employers attention.
 
+### Photos from the day
+
+{% include slideshare.html embed_code="66iTTEEYa3WtAU" %}
+
 ## About YES Media
 
 YES Media is a nine week programme that will introduce you to the exciting and creative world of digital media. During the course you will:
