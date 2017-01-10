@@ -35,7 +35,9 @@ Participants have finished the YES Media Course with improved communication, tea
 
 {% include slideshare.html embed_code="66iTTEEYa3WtAU" %}
 
+
 This news item was written by the students on YES Media Course Oct-Dec 2016
+
 
 ## About YES Media
 
