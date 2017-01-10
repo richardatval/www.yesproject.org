@@ -31,9 +31,11 @@ Tejas Johal encouraged any young people thinking about joining:
 
 Participants have finished the YES Media Course with improved communication, teamwork and leadership skills as well as learning new methods of technology and communication to get employers attention.
 
-### Photos from the day
+### Photos from the course
 
 {% include slideshare.html embed_code="66iTTEEYa3WtAU" %}
+
+This news item was written by the students on YES Media Course Oct-Dec 2016
 
 ## About YES Media
 
