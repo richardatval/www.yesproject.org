@@ -40,7 +40,7 @@ Lauren, declared her outlook for the future;
 
 All of the young people that completed the YES Team Programme was awarded with a Level 1 Prince’s Trust Certificate in Employment, Teamwork and Community Skills and a Level 1 BTEC Award in Personal and Social Development.
 
-## About YES Team Programme
+### About YES Team Programme
 
 The next YES Team Programme is starting in Leicester on 16 January.  
 
