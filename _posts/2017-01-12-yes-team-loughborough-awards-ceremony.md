@@ -1,8 +1,7 @@
 ---
 date: '2017-01-12 13:20 +0000'
 thumbnail-image: >-
-  /img/David Weight - VAL YES Project Prices Trust presentation December 2016
-  34-thumbnail.jpg)
+  /img/David%20Weight%20-%20VAL%20YES%20Project%20Prices%20Trust%20presentation%20December%202016%2034-thumbnail.jpg)
 layout: default
 published: true
 title: YES Team Loughborough Awards Ceremony
@@ -20,23 +19,18 @@ They also spent time developing interview and CV skills to ensure they have the 
 The awards ceremony, was attended by family and friends as well as the Deputy Mayor of Charnwood.  Each young person took turns to tell the audience of their experience of completing the programme and how it has helped them.
 
 Arran, addressed the audience by saying;
-
 > “Before I struggled talking to any strangers or crowds.”
 
 Ellie, told them what she most enjoyed;
-
 > “The thing I enjoyed the most on the programme is the people I have met and the friends I have made.”
 
 Liam, commented of how the programme has helped him; 
-
 > “Since I’ve done the course, I feel like a changed person”
 
 Stephen, spoke about his own personal development:
-
 > “This course has left me with skills such as how to work as a team, lead a team and become more confident. More importantly I am happy.”
 
 Lauren, declared her outlook for the future;
-
 > “I’m so looking forward to seeing what the future holds for me now.”
 
 All of the young people that completed the YES Team Programme was awarded with a Level 1 Prince’s Trust Certificate in Employment, Teamwork and Community Skills and a Level 1 BTEC Award in Personal and Social Development.
