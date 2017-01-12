@@ -4,7 +4,7 @@ thumbnail-image: >-
   /img/David Weight - VAL YES Project Prices Trust presentation December 2016
   34-thumbnail.jpg)
 layout: default
-published: false
+published: true
 title: YES Team Loughborough Awards Ceremony
 ---
 ![YES Team group photo]({{site.baseurl}}/img/David Weight - VAL YES Project Prices Trust presentation December 2016 34-fullsize-web.jpg)
