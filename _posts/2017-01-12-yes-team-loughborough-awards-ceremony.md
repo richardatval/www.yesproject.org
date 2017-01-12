@@ -14,7 +14,7 @@ The group of unemployed 15-24 years’ olds took part in the 13-week personal de
 
 During their time on the programme, they went on an action packed residential trip, got involved with a community project and gained two weeks’ work experience in a job role of interest. 
 
-They also spent time developing interview and CV skills to ensure they leave the programme with confidence to apply for jobs and further education opportunities.
+They also spent time developing interview and CV skills so they feel confident to apply for jobs and further education opportunities.
 
 The awards ceremony, was attended by family and friends as well as the Deputy Mayor of Charnwood.  Each young person took turns to tell the audience of their experience of completing the programme and how it has helped them.
 
