@@ -1,12 +1,13 @@
 ---
 date: '2017-01-12 13:20 +0000'
-thumbnail-image: >-
-  /img/David%20Weight%20-%20VAL%20YES%20Project%20Prices%20Trust%20presentation%20December%202016%2051-thumbnail.jpg)
+thumbnail-image: img/20161117_120549-thumbnail.jpg
 layout: default
 published: true
 title: YES Team Loughborough Awards Ceremony
 ---
 ![YES Team group photo]({{site.baseurl}}/img/David Weight - VAL YES Project Prices Trust presentation December 2016 51-fullsize-web.jpg)
+
+
 
 On 14 December, the YES Team Programme, Loughborough hosted an awards ceremony to celebrate the achievements of ten young people that completed the programme.  
 
