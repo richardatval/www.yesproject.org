@@ -8,8 +8,8 @@ published: true
 ### Here's the start dates for upcoming courses:
 
 - 16 January 2017 - [Get motivated to succeed with YES Team Programme Leicester](/what-you-can-do/get-motivated-to-succeed)
-- 23 January 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
 - 25 January 2017 - [Taster day for Get into hospitals at University Hospitals of Leicester](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
+- 30 January 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
 - 30 January 2017 - [Get into Hospitals with University Hospitals of Leicester](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 25 February 2017 - [Taster day for Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 06 March 2017 - [Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
