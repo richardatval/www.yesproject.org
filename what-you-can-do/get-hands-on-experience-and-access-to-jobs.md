@@ -26,7 +26,7 @@ To give you the best chance of getting a job after the programme, the courses ar
 
 ### When can I get started?
 
-The next 'Get into' programme are:
+The next 'Get into' programmes are:
 
 - 30 January 2017 - Get into Hospitals with University Hospitals of Leicester
 - 25 February 2017 - Taster day for Get into Logistics with M&S
