@@ -31,7 +31,7 @@ You’ll also get support to take the next step towards employment or education 
 
 ### When can I get started?
 
-Get in touch today if you're interested in mentored work placements and we'll find you a suitable work placement.
+[Get in touch](https://www.yesproject.org/contact/) today if you're interested in mentored work placements and we'll find you a suitable work placement.
 
 Upcoming world of work tours are advertised [here](https://www.yesproject.org/course-dates/) and on our [Facebook page](https://www.facebook.com/yourprojectyes/). 
 
