@@ -21,7 +21,7 @@ This will include the chance to work towards qualifications in Maths, English an
 
 ### When can I get started?
 
-TwentyTwenty run their programmes throughout the year, so you can get start at a time to suit you. Just let us know you're interested and we'll tell you more. Get in touch.
+TwentyTwenty run their programmes throughout the year. Just let us know you're interested and we'll tell you more. [Get in touch.](https://www.yesproject.org/contact/)
 
 ### About TwentyTwenty
 TwentyTwenty is a local charity that has already supported over 2000 young people to develop self-belief, achieve in education, learn work-ready skills and find and keep a job.
