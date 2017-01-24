@@ -22,7 +22,6 @@ This will include the chance to work towards qualifications in Maths, English an
 ### When can I get started?
 
 TwentyTwenty run their programmes throughout the year. 
-
 [Get in touch](https://www.yesproject.org/contact/) when you're ready to get started and we'll tell you more.
 
 ### About TwentyTwenty
