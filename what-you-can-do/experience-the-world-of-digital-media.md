@@ -27,6 +27,17 @@ The final step of the programme will focus on job applications, CV writing, inte
 
 On completion of the programme you will receive mentoring and support into employment, further education or training.
 
+### When can I get started?
+
+YES Media 9-week course start on:
+- 30 January 2017
+- 24 April 2017
+- 17 July 2017
+- 9 October 2017
+
+[Get in touch](https://www.yesproject.org/contact/) if you're interested and we'll tell you more.
+
+
 ### About Seed Creativity
 
 Seed Creativity is a fun, down-to-earth, hands-on digital marketing agency that creates visual communications for businesses. The company has a strong emphasis on working with local young people and helping them develop.
