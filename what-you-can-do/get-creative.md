@@ -23,7 +23,7 @@ You will be able to showcase your art at the annual YES exhibition and performan
 
 ### When can I get started? 
 
-Get Creative sessions run every Friday 1pm - 4pm at Soft Touch Arts on New Walk, Leicester. [Get in touch](https://www.yesproject.org/get-started/) if you'd like to attend a session and we’ll tell you more.
+Get Creative sessions run every Friday 1pm - 4pm at Soft Touch Arts located on New Walk, Leicester. [Get in touch](https://www.yesproject.org/get-started/) if you'd like to attend a session and we’ll tell you more.
 
 ### About Soft Touch Arts
 
