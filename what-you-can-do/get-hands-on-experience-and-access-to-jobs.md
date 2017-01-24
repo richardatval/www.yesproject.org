@@ -24,6 +24,17 @@ This programme called 'Get into' is 4-6 weeks long and during that time you will
 
 To give you the best chance of getting a job after the programme, the courses are in sectors where jobs are most likely to be available.
 
+### When can I get started?
+
+The next 'Get into' programme are:
+
+- 30 January 2017 - Get into Hospitals with University Hospitals of Leicester
+- 25 February 2017 - Taster day for Get into Logistics with M&S
+- 06 March 2017 - Get into Logistics with M&S
+
+[Get in touch](https://www.yesproject.org/contact/) if you’re interested and we’ll tell you more.
+
+
 ### About The Prince's Trust
 
 The Prince’s Trust helps thousands of young people transform their lives each year by supporting them to develop the skills and confidence needed to access jobs, education and training.
