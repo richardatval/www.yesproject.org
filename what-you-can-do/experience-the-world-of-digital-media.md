@@ -29,7 +29,7 @@ On completion of the programme you will receive mentoring and support into emplo
 
 ### When can I get started?
 
-YES Media 9-week course start on:}
+YES Media 9-week course start on:
 
 - 30 January 2017
 - 24 April 2017
