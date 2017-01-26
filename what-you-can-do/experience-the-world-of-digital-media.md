@@ -31,7 +31,7 @@ On completion of the programme you will receive mentoring and support into emplo
 
 YES Media 9-week course start on:
 
-- 30 January 2017
+- 13 February 2017
 - 24 April 2017
 - 17 July 2017
 - 9 October 2017
