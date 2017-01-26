@@ -23,6 +23,10 @@ During your time on the group you will receive one-to-one support, volunteering,
 
 As part of the Leadership Group you will develop a range of new skills and achievements that you can showcase on your CV to potential employees. 
 
+### When can I get started?
+
+The Youth Leadership Group meet on Tuesday afternoons.  If you would like to find out more and go along to a meeting then [get in touch.](https://www.yesproject.org/get-started/)
+
 ### About YES Youth Leadership Group
 
 The YES Leadership Group is a team of young people that make sure the YES Project is appealing, relevant and engaging to 15 to 24 year olds. Voluntary Action LeicesterShire (VAL) coordinates this group.
