@@ -11,7 +11,7 @@ In December, a group of ten unemployed young people, aged 15-24 completed the YE
 
 The young people attended the course twice a week at Seed Creative Academy in the heart of Leicester’s cultural quarter. 
 
-Chris Gray, Operations and Training Director at Seed led each session using digital media as a teaching aide to help the young people learn new skills, discover their talents and assit with their personal development. 
+Chris Gray, Operations and Training Director at Seed led each session using digital media as a teaching aide to help the young people learn new skills, discover their talents and assist with their personal development. 
 
 Chris' background as a mentor and careers advisor, combined with his media experience kept the group consistently engaged. During their time on the course, they were challenged to take part in team building activities, creating a film and, most notably, producing a video CV. 
 
