@@ -14,7 +14,7 @@ scrollheadings:
 published: true
 ---
 
-### Overview
+### Privacy - Youth Employability Support (YES) Project
 
 Voluntary Action LeicesterShire is the contract holder and management organisation for the YES Project.
 
