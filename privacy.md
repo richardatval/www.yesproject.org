@@ -100,13 +100,3 @@ You may request details of personal information which we hold about you under th
 </div>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
-
-
-<div class="vcard">
-<span class="street-address">Voluntary Action LeicesterShire</span><br>
-<span class="region">Leicester</span><br>
-<span class="postal-code">LE1 5SN</span><br>
-</div>
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
