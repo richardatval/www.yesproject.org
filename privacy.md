@@ -28,6 +28,7 @@ The YES Project may change this policy from time to time by updating this Privac
 
 ### 1.	What we collect
 We may collect the following information:
+
 - Participant ID number and Customer Reference number
 - Title, forename, surname 
 - Address, postcode, phone number, mobile number, email address
@@ -48,6 +49,7 @@ We may collect the following information:
 
 ### 2.	What we do with the information we gather
 We require this information to understand your needs and to provide you with a better service, and in particular for the following reasons:
+
 - Internal record keeping
 - To evidence your eligibility for receiving free support 
 - To share your information between our partners who provide the varied support packages (our partners are listed below in section 5)
@@ -59,6 +61,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### 4.	Controlling your personal information
 You may choose to restrict the collection or use of your personal information in the following ways:
+
 - whenever you are asked questions relating to sensitive data you can decide to select the ‘prefer not to say’ option
 - if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@yesproject.org](mailto:info@yesproject.org)
 
