@@ -14,7 +14,7 @@ gems:
 #  Site settings
 title: YES Project
 description: Supporting you to take steps towards finding work
-url: http://www.yesproject.org
+url: https://www.yesproject.org
 baseurl: 
 email: info@yesproject.org
 github: 
