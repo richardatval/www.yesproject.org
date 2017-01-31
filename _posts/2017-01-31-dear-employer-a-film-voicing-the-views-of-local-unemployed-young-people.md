@@ -3,7 +3,7 @@ date: '2017-01-31 11:30 +0000'
 thumbnail-image: /img/shutterstock_407235850-thumbnail.jpg
 layout: default
 published: true
-title: Dear Employer a film voicing the views of local unemployed young people
+title: 'Dear Employer, a film voicing the views of local unemployed young people'
 ---
 
 ![Girl sitting on grass with need a job sign]({{site.baseurl}}/img/shutterstock_407235850-fullsize-web.jpg)
