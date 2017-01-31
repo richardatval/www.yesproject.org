@@ -10,7 +10,7 @@ title: 'Dear Employer, a film voicing the views of local unemployed young people
 
 It’s the age-old paradigm of you need a job to get experience; you need experience to get a job.
 
-Back in October one of the Yes Project groups, with the help of Seed Creativity, kindly created a film on how they feel about the youth unemployment market and the future for young people in unemployment.
+Back in October one of the Yes Project groups, with the help of Seed Creativity, kindly created a [film](https://youtu.be/_3Li17AkFaU) on how they feel about the youth unemployment market and the future for young people in unemployment.
 
 The team were given a set of five questions ranging from ‘What barriers do you face when looking for employment?’ to ‘How do you feel about your immediate future?’.
 
@@ -30,8 +30,9 @@ Another person commented how Seed and the YES project would help in their future
 
 > ‘I feel positive about the future. I’ve got some media related things set-up. And with this Seed Creative giving me examples and experiences that I can use for these upcoming things to really try and shine.’
 
-The course was hailed a great success as three of the participants found paid work or experience within the next month, and others continuing on YES project courses to further their development.
-About The YES Project
+The course was hailed a great success as three of the participants found paid work or experience within the next month, and the others continued on to [YES Team Programme](https://www.yesproject.org/what-you-can-do/get-motivated-to-succeed/) to further their development.
+
+### About The YES Project
 
 The YES project runs programmes to help young people move into employment. The programmes, taught by selective delivery partners, aims to help learners with employability skills in a fun, practical environment. Learners get the chance to:
 
@@ -42,4 +43,4 @@ The YES project runs programmes to help young people move into employment. The p
 - Learn how to digital and online methods to reach employers
 - Have individual needs assessed to develop employability plans
 
-Visit YES Facebook page to find out about courses or read more
+Visit [YES Facebook page](https://www.facebook.com/yourprojectyes) to find out about courses or [read more](https://www.yesproject.org/course-dates/).
