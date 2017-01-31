@@ -1,10 +1,13 @@
 ---
 date: '2017-01-31 11:30 +0000'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/shutterstock_407235850-thumbnail.jpg
 layout: default
 published: false
 title: Dear Employer a film voicing the views of local unemployed young people
 ---
+
+![Girl sitting on grass with need a job sign]({{site.baseurl}}/img/shutterstock_407235850-fullsize-web.jpg)
+
 It’s the age-old paradigm of you need a job to get experience; you need experience to get a job.
 
 Back in October one of the Yes Project groups, with the help of Seed Creativity, kindly created a film on how they feel about the youth unemployment market and the future for young people in unemployment.
