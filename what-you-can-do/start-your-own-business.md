@@ -31,6 +31,10 @@ These workshops are your opportunity to explore new ideas and learn about how to
 
 We’ll offer you the opportunity to test your product or service in the real world on our Test Trade days. These days will give you the opportunity to pick up valuable feedback and help improve your offer.
 
+### When can I get started?
+
+If you have a business idea and not sure how to get started, [get in touch](https://www.yesproject.org/get-started/) and we'll help you turn your idea into a business.
+
 ### About YES Enterprise Team
 
 YES Enterprise Team is made up of Voluntary Action LeicesterShire (VAL) and The Prince’s Trust. Together, these charities have already helped many people start up their own social enterprises or private ventures, and they’d love to work with you.

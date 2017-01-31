@@ -11,7 +11,7 @@ In December, a group of ten unemployed young people, aged 15-24 completed the YE
 
 The young people attended the course twice a week at Seed Creative Academy in the heart of Leicester’s cultural quarter. 
 
-Chris Gray, Operations and Training Director at Seed led each session using digital media as a teaching aide to help the young people learn new skills, discover their talents and assit with their personal development. 
+Chris Gray, Operations and Training Director at Seed led each session using digital media as a teaching aide to help the young people learn new skills, discover their talents and assist with their personal development. 
 
 Chris' background as a mentor and careers advisor, combined with his media experience kept the group consistently engaged. During their time on the course, they were challenged to take part in team building activities, creating a film and, most notably, producing a video CV. 
 
@@ -31,18 +31,20 @@ Tejas Johal encouraged any young people thinking about joining:
 
 Participants have finished the YES Media Course with improved communication, teamwork and leadership skills as well as learning new methods of technology and communication to get employers attention.
 
-### Photos from the day
+### Photos from the course
 
 {% include slideshare.html embed_code="66iTTEEYa3WtAU" %}
 
-## About YES Media
+This news item was written by the students on YES Media Course Oct-Dec 2016
+
+### About YES Media
 
 YES Media is a nine week programme that will introduce you to the exciting and creative world of digital media. During the course you will:
 
-• Create, film, edit and maybe star in a short creative video
-• Explore the world of video CV’s.
-• Experience the thrill of working in a design agency
-• Learn about content marketing and social media
-• Develop your confidence, creativity and team working skills
+- Create, film, edit and maybe star in a short creative video
+- Explore the world of video CV’s.
+- Experience the thrill of working in a design agency
+- Learn about content marketing and social media
+- Develop your confidence, creativity and team working skills
 
 The next YES Media course start on 23 January 2017.  [Read more](https://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/) about the course or email [chris@seedcreativity.co.uk](mailto:chris@seedcreativity.co.uk)

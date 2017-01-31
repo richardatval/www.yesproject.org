@@ -29,6 +29,13 @@ Every tour includes activities that will help prepare you for work covering area
 
 You’ll also get support to take the next step towards employment or education with an application support service.  This includes help with job or college searches, completing application forms, CV’s, interview techniques and mock interviews.
 
+### When can I get started?
+
+[Get in touch](https://www.yesproject.org/contact/) today if you're interested in mentored work placements and we'll find you a suitable work placement.
+
+Upcoming world of work tours are advertised [here](https://www.yesproject.org/course-dates/) and on our [Facebook page](https://www.facebook.com/yourprojectyes/). 
+
+
 ### About Flying Fish
 
 Flying Fish (part of Leicestershire Cares) supports young people in care or leaving care on to the next steps in life by introducing them to the world of work.
