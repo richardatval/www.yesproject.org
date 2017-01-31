@@ -6,7 +6,7 @@ published: true
 title: 'Dear Employer, a film voicing the views of local unemployed young people'
 ---
 
-![Girl sitting on grass with need a job sign]({{site.baseurl}}/img/shutterstock_407235850-fullsize-web.jpg)
+{% include youtube.html url="https://www.youtube.com/embed/_3Li17AkFaU" %}
 
 It’s the age-old paradigm of you need a job to get experience; you need experience to get a job.
 
