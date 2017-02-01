@@ -10,7 +10,7 @@ title: 'Dear Employer, a film voicing the views of local unemployed young people
 
 It’s the age-old paradigm of you need a job to get experience; you need experience to get a job.
 
-Back in October one of the Yes Project groups, with the help of Seed Creativity, kindly created a [film](https://youtu.be/_3Li17AkFaU) on how they feel about the youth unemployment market and the future for young people in unemployment.
+Back in October one of the Yes Project groups, with the help of Seed Creativity, kindly created a short [Video](https://youtu.be/_3Li17AkFaU) on how they feel about the youth unemployment market and the future for young people in unemployment.
 
 The team were given a set of five questions ranging from ‘What barriers do you face when looking for employment?’ to ‘How do you feel about your immediate future?’.
 
