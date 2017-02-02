@@ -7,15 +7,16 @@ published: true
 
 ### Here's the start dates for upcoming courses:
 
-- 25 January 2017 - [Taster day for Get into hospitals at University Hospitals of Leicester](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
-- 30 January 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
-- 30 January 2017 - [Get into Hospitals with University Hospitals of Leicester](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
-- 13 February 2017 - [Get motivated to succeed with YES Team Programme Leicester](/what-you-can-do/get-motivated-to-succeed)
+- 22 February 2017 - [World of work tour at Ford & Slater Car Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) 
 - 25 February 2017 - [Taster day for Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 06 March 2017 - [Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 24 April 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
+- 10 May - [World of work tour at Sytner Audi Car Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
+- 7 June - [World of work tour at Sytner Bentley Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
 - 17 July 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
+- 22 September 2017 - [World of work tour Sytner Lexus Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
 - 9 October 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
+- 16 November 2017 - [World of work tour Sytner BMW Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
 
 ### You can access the following activities and support throughout the year:
 
