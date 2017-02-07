@@ -21,7 +21,7 @@ published: true
 ### You can access the following activities and support throughout the year:
 
 - [Get Creative](/what-you-can-do/get-creative)
-- [Lanuaguage and cultural support for GCSE Maths and English and functional skills](/what-you-can-do/yes-specialised-support-services)
+- [Language and cultural support for GCSE Maths and English and functional skills](/what-you-can-do/yes-specialised-support-services)
 - [Start your own business](https://www.yesproject.org/what-you-can-do/start-your-own-business/)
 - [Mentored workplacements](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) 
 - [Lead and inspire others on the Youth Leadership Group](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
