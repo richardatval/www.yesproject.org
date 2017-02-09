@@ -32,7 +32,6 @@ The next 'Get into' programmes are:
 
 [Get in touch](https://www.yesproject.org/contact/) if you’re interested and we’ll tell you more.
 
-
 ### About The Prince's Trust
 
 The Prince’s Trust helps thousands of young people transform their lives each year by supporting them to develop the skills and confidence needed to access jobs, education and training.
