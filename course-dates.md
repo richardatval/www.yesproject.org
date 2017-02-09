@@ -8,7 +8,6 @@ published: true
 ### Here's the start dates for upcoming courses:
 
 - 22 February 2017 - [World of work tour at Ford & Slater DAF Truck Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) 
-- 25 February 2017 - [Taster day for Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 06 March 2017 - [Get into Logistics with M&S](/what-you-can-do/get-hands-on-experience-and-access-to-jobs)
 - 24 April 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
 - 10 May - [World of work tour at Sytner Audi Car Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
