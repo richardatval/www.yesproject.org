@@ -28,8 +28,6 @@ To give you the best chance of getting a job after the programme, the courses ar
 
 The next 'Get into' programmes are:
 
-- 30 January 2017 - Get into Hospitals with University Hospitals of Leicester
-- 25 February 2017 - Taster day for Get into Logistics with M&S
 - 06 March 2017 - Get into Logistics with M&S
 
 [Get in touch](https://www.yesproject.org/contact/) if you’re interested and we’ll tell you more.
