@@ -2,7 +2,7 @@
 date: '2017-01-12 13:20 +0000'
 thumbnail-image: >-
   /img/David%20Weight%20-%20VAL%20YES%20Project%20Prices%20Trust%20presentation%20December%202016%2051-thumbnail.jpg
-layout: default
+layout: post
 published: true
 title: YES Team Loughborough Awards Ceremony
 ---

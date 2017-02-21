@@ -1,7 +1,7 @@
 ---
 date: '2017-01-31 11:30 +0000'
 thumbnail-image: /img/shutterstock_407235850-thumbnail.jpg
-layout: default
+layout: post
 published: true
 title: 'Dear Employer, a film voicing the views of local unemployed young people'
 ---

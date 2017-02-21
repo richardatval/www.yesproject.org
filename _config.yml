@@ -101,8 +101,10 @@ prose:
         field:
           label: "Layout"
           element: "select"
-          value: "default"
+          value: "post"
           options:
+            - name: 'Blog post'
+              value: 'post'
             - name: 'Default'
               value: 'default'
             - name: 'Course'

@@ -2,7 +2,7 @@
 date: '2017-01-09 14:03 +0000'
 published: true
 thumbnail-image: /img/Yes Media Looking at Camera-thumbnail.jpg
-layout: default
+layout: post
 title: The first YES Media course hailed a success
 ---
 ![YES Media students filming]({{site.baseurl}}/img/Yes Media Looking at Camera-fullsize-web.jpg)

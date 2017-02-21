@@ -1,0 +1,50 @@
+.socialsharingbox {
+	$twitter-color: #03b3ee;
+	$fb-color: #3067a3;
+	$mail-color: darken($medium-gray, 20%);
+	
+	h3 {
+		margin-bottom: 0.6em;
+	}
+	
+	ul {
+		height: $base-font-size*3;
+		li {
+			float: left;
+			display: block;
+			padding-right: 5px;
+		}
+	}
+	
+	a {
+		display: block;
+		width: $base-font-size*2;
+		height: $base-font-size*2;
+		border-radius: $base-font-size*2;
+		background-size: 27px 27px;
+		background-position: center center;
+		background-repeat: no-repeat;
+		@include hide-text;
+	}
+	.facebook {
+		background-color: $fb-color;
+		background-image: url('#{"" + $image-directory}/ui/fb-link.png');
+		&:hover {
+			background-color: darken($fb-color, 20%);
+		}
+	}
+	.twitter {
+		background-color: $twitter-color;
+		background-image: url('#{"" + $image-directory}/ui/twitter-link.png');
+		&:hover {
+			background-color: darken($twitter-color, 20%);
+		}
+	}
+	.mail {
+		background-color: $mail-color;
+		background-image: url('#{"" + $image-directory}/ui/mail-link.png');
+		&:hover {
+			background-color: darken($mail-color, 20%);
+		}
+	}
+}

@@ -27,11 +27,6 @@ min-width: em(320px - ($gutter * 2)) ;
       @include fill-parent;
     }
 
-    // Same logic for tablets.
-    @include media($tablet) {
-      @include span-columns(8);
-    }
-
     @include media($desktop) {
       @include span-columns(12);
     }
@@ -40,11 +35,6 @@ min-width: em(320px - ($gutter * 2)) ;
     // 100% width for mobile devices.
     @include media($mobile) {
       @include fill-parent;
-    }
-
-    // Same logic for tablets.
-    @include media($tablet) {
-      @include span-columns(5);
     }
 
     @include media($desktop) {
@@ -57,11 +47,6 @@ min-width: em(320px - ($gutter * 2)) ;
       @include fill-parent;
     }
 
-    @include media($tablet) {
-      @include span-columns(5);
-      @include shift(3);
-    }
-
     @include media($desktop) {
       @include span-columns(8);
       @include shift(4);
@@ -72,13 +57,6 @@ min-width: em(320px - ($gutter * 2)) ;
     @include media($mobile) {
       @include fill-parent;
     }
-
-    // Same logic for tablets.
-    @include media($tablet) {
-      @include span-columns(4);
-      @include shift(2);
-    }
-
     // Span this div 7 columns wide.
     @include media($desktop) {
       @include span-columns(8);
@@ -94,15 +72,6 @@ min-width: em(320px - ($gutter * 2)) ;
     @include fill-parent;
   }
 
-  // Similar logic for tablets.
-  @include media($tablet) {
-    @include span-columns(3);
-    @include shift(-5);
-    .sidebar-first & {
-      @include shift(-8);
-    }
-  }
-
   @include media($desktop) {
     @include span-columns(4);
     @include shift(-8);
@@ -116,12 +85,6 @@ min-width: em(320px - ($gutter * 2)) ;
   // 100% width for mobile devices.
   @include media($mobile) {
     @include fill-parent;
-  }
-
-  // Similar logic for tablets.
-  @include media($tablet) {
-    @include span-columns(3);
-    @include shift(0);
   }
 
   @include media($desktop) {

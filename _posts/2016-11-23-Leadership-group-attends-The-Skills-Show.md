@@ -2,7 +2,7 @@
 published: true
 date: '2016-11-23 12:17 +0000'
 thumbnail-image: /img/20161117_120549-thumbnail.jpg
-layout: default
+layout: post
 title: Youth leadership group attends national skills show
 ---
 ![Youth leadership group at The Skills Show NEC]({{site.baseurl}}/img/20161117_120549-fullsize-web.jpg)

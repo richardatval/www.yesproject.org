@@ -4,7 +4,7 @@ published: true
 thumbnail-image: >-
   /img/David Weight - VAL Sytner BMW Yes Project - November 2016
   56-thumbnail.jpg
-layout: default
+layout: post
 title: World of work tour at BMW Sytner
 ---
 
