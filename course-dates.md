@@ -7,14 +7,14 @@ published: true
 
 ### Here's the start dates for upcoming courses:
 
-- 22 March 2017 - [World of work tour at Ford & Slater DAF Truck Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) 
-- 24 April 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
-- 10 May - [World of work tour at Sytner Audi Car Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
-- 7 June - [World of work tour at Sytner Bentley Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
-- 17 July 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
-- 22 September 2017 - [World of work tour Sytner Lexus Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
-- 9 October 2017 - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
-- 16 November 2017 - [World of work tour Sytner BMW Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
+- **22 March 2017** - [World of work tour at Ford & Slater DAF Truck Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/) 
+- **24 April 2017** - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
+- **10 May 2017** - [World of work tour at Sytner Audi Car Dearlership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
+- **7 June 2017** - [World of work tour at Sytner Bentley Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
+- **17 July 2017** - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
+- **22 September 2017** - [World of work tour Sytner Lexus Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
+- **9 October 2017** - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
+- **16 November 2017** - [World of work tour Sytner BMW Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
 
 ### You can access the following activities and support throughout the year:
 
