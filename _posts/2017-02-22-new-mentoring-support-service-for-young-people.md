@@ -20,9 +20,11 @@ Over the course of the programme the mentors will build up trust and use coachin
 
 They will also work with the young person to change their perspectives and take positive steps for the future, as well as learning practical skills such as CV writing and interview techniques.
 
-Any young person wanting to access Kickstart mentoring will need to be motivated to work towards change and have identified some goals they would like support to work towards. 
+Ruth Northley, Kickstart Mentoring Co-ordinator at Soft Touch Arts commented on the characteristics young people need when accessing the service:
 
-They will also need to be willing to engage in a relationship based on two-way conversation and able to commit one hour a week to meet their mentor, along with extra time to work towards goals in their own time.
+> Any young person wanting to access Kickstart mentoring will need to be motivated to work towards change and have identified some goals they would like support to work towards. 
+
+> They will also need to be willing to engage in a relationship based on two-way conversation and able to commit one hour a week to meet their mentor, along with extra time to work towards goals in their own time.
  
 ### How to get started?
 
