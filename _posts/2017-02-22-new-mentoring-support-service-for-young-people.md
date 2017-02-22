@@ -25,6 +25,7 @@ Ruth Northley, Kickstart Mentoring Co-ordinator at Soft Touch Arts commented on 
 > Any young person wanting to access Kickstart mentoring will need to be motivated to work towards change and have identified some goals they would like support to work towards. 
 
 > They will also need to be willing to engage in a relationship based on two-way conversation and able to commit one hour a week to meet their mentor, along with extra time to work towards goals in their own time.
+
  
 ### How to get started?
 
