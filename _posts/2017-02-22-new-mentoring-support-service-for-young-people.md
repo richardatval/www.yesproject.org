@@ -2,7 +2,7 @@
 date: '2017-02-22 12:50 +0000'
 thumbnail-image: /img/mentoring-thumbnail.jpeg
 layout: post
-published: false
+published: true
 title: New mentoring support service for young people
 ---
 
@@ -33,4 +33,4 @@ Alternatively, you can [get in touch](https://www.yesproject.org/contact/) with 
 Ruth, Mentoring Co-ordinator 
 Soft Touch Arts
 0116 2552592 
-[ruth@soft-touch.org.uk](mailto:ruth@soft-touch.org.uk) 
+[ruth@soft-touch.org.uk](mailto:ruth@soft-touch.org.uk)
