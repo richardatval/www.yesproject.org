@@ -24,7 +24,7 @@ Any young person wanting to access Kickstart mentoring will need to be motivated
 
 They will also need to be willing to engage in a relationship based on two-way conversation and able to commit one hour a week to meet their mentor, along with extra time to work towards goals in their own time.
  
-How to get started?
+### How to get started?
 
 To access Kickstart mentoring you need to be referred by your YES Project Keyworker.  So, if you are interested mention it to them at your next meeting or contact them by phone.
 
