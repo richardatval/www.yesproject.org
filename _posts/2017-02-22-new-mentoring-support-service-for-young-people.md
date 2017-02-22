@@ -1,12 +1,12 @@
 ---
 date: '2017-02-22 12:50 +0000'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/mentoring-thumbnail.jpeg
 layout: post
 published: false
 title: New mentoring support service for young people
 ---
 
-
+![Young person and mentor]({{site.baseurl}}/img/mentoring-fullsize-web.jpeg)
 
 Kickstart mentoring offers young people accessing the YES Project a mentor who will meet with them once a week for an hour over a minimum of 6 months.
 
