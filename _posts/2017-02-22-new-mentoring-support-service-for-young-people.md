@@ -12,7 +12,7 @@ Kickstart mentoring offers young people accessing the YES Project a mentor who w
 
 The programme is a great opportunity for young people to invest in themselves by taking advantage of personalised one-to-one support from a local business person.
 
-Soft Touch Arts who are running Kickstart have just finished training up 9 mentors ready to start working with local young people age 15-24.
+Soft Touch Arts who run Kickstart have 9 mentors ready to start working with local young people aged 15-24.
 
 Each Mentor has been selected because they care and want to make a difference in a young person's life. They also have personal experience of overcoming challenges in their lives and have the skills to support young people do so too.
 
