@@ -28,7 +28,7 @@ Ruth Northley, Kickstart Mentoring Co-ordinator at Soft Touch Arts commented on 
  
 ### How to get started?
 
-To access Kickstart mentoring you need to be referred by your YES Project Keyworker.  So speak to your keyworker if you're interested.
+To access Kickstart mentoring you need to be referred by your YES Project Keyworker.
 
 Alternatively, you can [get in touch](https://www.yesproject.org/contact/) with us for more information.
 
