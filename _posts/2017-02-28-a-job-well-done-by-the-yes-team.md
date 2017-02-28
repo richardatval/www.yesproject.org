@@ -36,11 +36,7 @@ All of the young people that complete the YES Team Programme receive a Level 1 P
 
 Demetrius aged 21 spoke of his experience of being on the YES Team programme:
 
-> "I don’t usually like group situations but I’d been referred to the YES Team programme by the Job Centre. 
-
-> I went along with an open mind and the first week I felt a bit hesitant whether it was right for me. I soon got to know everyone and I feel more confident and sociable.
-
-> I’d now like to get a job in youth work and help to inspire young people.”
+> "I don’t usually like group situations but I’d been referred to the YES Team programme by the Job Centre. I went along with an open mind and the first week I felt a bit hesitant whether it was right for me. I soon got to know everyone and I feel more confident and sociable. I’d now like to get a job in youth work and help to inspire young people.”
 
 ### About YES Team Programme
 
