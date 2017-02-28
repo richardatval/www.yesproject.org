@@ -2,7 +2,7 @@
 date: '2017-02-28 14:19 +0000'
 thumbnail-image: /img/David Weight - YES Project Eyres Monsell February 2017 52-thumbnail.jpg)
 layout: post
-published: false
+published: true
 title: A job well done by the YES Team
 ---
 
