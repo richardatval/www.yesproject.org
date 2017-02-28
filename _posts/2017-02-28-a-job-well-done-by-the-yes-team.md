@@ -16,13 +16,7 @@ The young people that are half way through the 12-week programme had to raise mo
 
 Tracey Inchley, Eyres Monsell Community Centre Manager was thrilled that her project was chosen by the YES Team she commented: 
 
-> “Last year our community room was damaged by a flood, we replaced the carpets but were unable to decorate.
-
-> The room is used daily by a number of different groups so I wanted something warm, calm and relaxing.
-
-> The garden needed tidying up and I wanted a compost system for our cook and eat lunch clubs.
-
-> It’s amazing what the Yes Team have done for us and all for free.”
+> “Last year our community room was damaged by a flood, we replaced the carpets but were unable to decorate. The room is used daily by a number of different groups so I wanted something warm, calm and relaxing. The garden needed tidying up and I wanted a compost system for our cook and eat lunch clubs. It’s amazing what the Yes Team have done for us and all for free.”
 
 To get the jobs done efficiently the team split into small groups and assigned roles and responsibilities to each group.  
 
