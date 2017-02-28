@@ -1,12 +1,12 @@
 ---
 date: '2017-02-28 14:19 +0000'
-thumbnail-image: /img/David Weight - YES Project Eyres Monsell February 2017 52-thumbnail.jpg)
+thumbnail-image: /img/YESTEAMEyresMonsell-thumbnail.jpg
 layout: post
 published: true
 title: A job well done by the YES Team
 ---
 
-![YES Team Community Project Eyres Monsell Community Centre]({{site.baseurl}}/img/David Weight - YES Project Eyres Monsell February 2017 52-fullsize-web.jpg)
+![YES Team Eyres Monsell Community Project]({{site.baseurl}}/img/YESTEAMEyresMonsell-fullsize-web.jpg)
 
 On Friday 24 February, the YES Team completed their community project at Eyres Monsell Community Centre.
 
