@@ -1,10 +1,13 @@
 ---
 date: '2017-02-28 14:19 +0000'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/David Weight - YES Project Eyres Monsell February 2017 52-thumbnail.jpg)
 layout: post
 published: false
 title: A job well done by the YES Team
 ---
+
+![YES Team Community Project Eyres Monsell Community Centre]({{site.baseurl}}/img/David Weight - YES Project Eyres Monsell February 2017 52-fullsize-web.jpg)
+
 On Friday 24 February, the YES Team completed their community project at Eyres Monsell Community Centre.
 
 The team of twelve aged 16-24 worked tirelessly for over a week to decorate the community room, tidy up the garden and build a compost system. 
