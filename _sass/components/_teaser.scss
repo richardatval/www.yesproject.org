@@ -5,7 +5,7 @@
 		background: white;
 		border: 1px solid $light-gray;
 		padding: $gutter;
-		height: 28em;
+		height: 450px;
 		font-size: 0.88em;
 		h4 {
 			margin-bottom: 0;
@@ -34,12 +34,13 @@
 
     // Same logic for tablets.
     @include media($tablet) {
-		width: flex-grid(4, 8);
+		width: 49%;
 		padding-right: 0;
 		float: left;
     }
 
     @include media($desktop) {
-		width: flex-grid(4, 12);
+		
+		width: 32.5%;
     }
 }

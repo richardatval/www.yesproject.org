@@ -25,6 +25,40 @@ $(document).ready(function() {
 			$('#js-search-toggle').toggleClass('active');
 		});
 
+	    $('#calendar').fullCalendar({
+	        googleCalendarApiKey: 'AIzaSyB3lVlBUFAYDVTwWSohEqoAV_lyNbUeq_w',
+	        events: {
+	            googleCalendarId: '7u4co13oal6i4h99sp07bdtksk@group.calendar.google.com'
+	        },
+			timeFormat: 'h(:mm)a',
+		    eventRender: function(event, element) {
+				element.attr("href", event.description)
+		    }
+	    });
+		
+	    $('#calendarmini').fullCalendar({
+			header: false,
+			footer: false,
+			views: {
+		        listAll: {
+		              type: 'list',
+		              duration: { days: 365 },
+		              buttonText: '365 day'
+		          }
+			},
+			defaultView: 'listAll',
+			height: 280,
+	        googleCalendarApiKey: 'AIzaSyB3lVlBUFAYDVTwWSohEqoAV_lyNbUeq_w',
+	        events: {
+	            googleCalendarId: '7u4co13oal6i4h99sp07bdtksk@group.calendar.google.com'
+	        },
+			timeFormat: 'h(:mm)a',
+			displayEventEnd: false,
+		    eventRender: function(event, element) {
+				element.find('a').attr("href", event.description);
+		    }
+	    });
+
 //Initialise google form
 
 		// Validate Forms
@@ -40,6 +74,16 @@ $(document).ready(function() {
 					form.submit();
 				}
 		});
+});
+
+$("#Glide").glide({
+    type: "carousel"
+});
+
+$( window ).resize(function() {
+    var container_width = $('#fb-teaser').width();    
+    $('#fb-teaser').html('<div class="fb-page" data-href="https://www.facebook.com/yourprojectyes" data-width="' + container_width + '" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div>');
+    FB.XFBML.parse();    
 });
 
 (function (jQuery) {

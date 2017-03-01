@@ -75,18 +75,20 @@ input[type="file"] {
 }
 
 select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+     text-indent: 0.01px;
+     text-overflow: '';
   border: $base-border;
   border-radius: $base-border-radius;
   box-sizing: border-box;
   font-family: $base-font-family;
   font-size: $base-font-size;
   margin-bottom: $base-spacing / 2;
-  padding: $base-spacing / 3;
+  padding: $base-spacing / 3 ($base-spacing / 3)+ 2em $base-spacing / 3 $base-spacing / 3;
   transition: border-color;
   max-width: 100%;
-  width: 13em;
   line-height: 1;
-  -webkit-appearance: none;
   background: url('#{"" + $image-directory}/ui/caret.png') no-repeat 95% #fff;
 }
 

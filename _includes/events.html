@@ -1,11 +1,15 @@
-<div class="box box-default">
-<h2>Upcoming Events</h2>
+<div class="box box-default box-events">
+<h3>Upcoming Events</h3>
 <ul class="item-list">
-{% for post in site.data.events | sort 'start' | limit:3 %}
-  <li class="event event-{{ forloop.index }}">
-		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br>
-		{{ post.start | date_to_string }}
-  </li>
+{% for event in site.events | sort: 'startdate'  %}
+{% capture event_date %}{{ event.startdate | '%s' }}{% endcapture %}
+{% capture current_date %}{{ site.time | '%s' }}{% endcapture %}
+{% if event_date > current_date %}
+<li>
+<a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a><br>
+{{ event.startdate | date: "%-d %B %Y" }}
+</li>
+{% endif %}
 {% if forloop.last %}
 {% if forloop.index == 3 %}
 <a class="readmore" href="{{ site.baseurl }}/events">more</a>

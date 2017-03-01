@@ -3,25 +3,33 @@
 ---
 {% include header.html %}
 
-<main role="main" class="page-content m-scene one-sidebar sidebar-second">
+<main role="main" class="page-content m-scene one-sidebar sidebar-first">
 	<div  class="scene_element scene_element--fadein">
 		<div class="container">
-			<h1 class="title">{{ page.title }}</h1>
 			<section id="content">
+				<h1 class="title">{{ page.title }}</h1>
 				<article>
 					{{ content }}
 				</article>
-				<footer>
-				{% include eventbrite.html eid=page.eid %}
-			</footer>
 			</section>
-			<aside id="sidebar-second">
-				{% include events.html %}
-				{% include posts.html %}
-				{% include mailchimp.html %}
+			<aside id="sidebar-first">
+			<div class="box box-default">
+			<h3>Details</h3>
+			{% assign startday = page.startdate | date: "%-d %B %Y" %}
+			{% assign endday = page.enddate | date: "%-d %B %Y" %}
+			{% assign starttime = page.startdate | date: "%I:%M%P" | replace: "0","" %}
+			{% assign endtime = page.enddate | date: "%I:%M%P" | replace: "0", ""%}
+			{% if startday == endday %}
+			{{ startday }} {{ starttime }} - {{ endtime }}
+			{% else %}
+			{{ startday }} {{ starttime }} - {{ endday }} {{ endtime }}
+			{% endif %}
+			<br>
+			<h3>Location</h3>
+			{{ page.venue }}
+			</div>
+			{% include socialsharingbox.html %}
 			</aside>
 		</div>
 	</div>
 </main>
-{% include footer.html %}
-{% include closure.html %}

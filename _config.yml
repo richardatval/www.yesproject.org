@@ -48,6 +48,13 @@ conditionalstylesheets:
   - target: "ie9"
     path: "/css/ie9.css"
 
+# Events configuration
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+
 # Configuration for prose.io online editor
 
 prose:
@@ -111,3 +118,60 @@ prose:
               value: 'course'
             - name: 'No Sidebars'
               value: 'no-sidebars'
+    _events:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "summary"
+        field:
+          label: "Summary"
+          element: "textarea"
+          value: null
+      - name: "day"
+        field:
+          element: "number"
+          label: "Day"
+          value: 1
+      - name: "month"
+        field:
+          element: "select"
+          value: "01"
+          label: "Month"
+          options:
+            - name: 'January'
+              value: '01'
+            - name: 'February'
+              value: '02'
+            - name: 'March'
+              value: '03'
+            - name: 'April'
+              value: '04'
+            - name: 'May'
+              value: '05'
+            - name: 'June'
+              value: '06'
+            - name: 'July'
+              value: '07'
+            - name: 'August'
+              value: '08'
+            - name: 'September'
+              value: '09'
+            - name: 'October'
+              value: '10'
+            - name: 'November'
+              value: '11'
+            - name: 'December'
+              value: '12'
+      - name: "year"
+        field:
+          element: "select"
+          value: "2016"
+          label: "Year"
+          options:
+            - name: '2016'
+              value: '2016'
+            - name: '2017'
+              value: '2017'
+            - name: '2018'
+              value: '2018'

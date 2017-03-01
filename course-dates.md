@@ -16,6 +16,20 @@ published: true
 - **9 October 2017** - [Experience the world of Digital Media with Seed Creative Academy](http://www.yesproject.org/what-you-can-do/experience-the-world-of-digital-media/)
 - **16 November 2017** - [World of work tour Sytner BMW Car Dealership](https://www.yesproject.org/what-you-can-do/explore-the-world-of-work/)
 
+{% assign events = site.events | sort: 'year' %}
+{% assign events2 = events | sort: 'month' %}
+{% assign events3 = events2 | sort: 'day' %}
+
+<ul class="item-list">
+{% for event in events3 reversed %}
+  <li>
+<a href="{{ site.baseurl }}{{ event.url }}">{{ event.title }}</a><br>
+{% assign eventstart = my_var | append: event.year | append: "-" | append: event.month | append: "-" | append: event.day| append: " " | append: event.starttime | append: ' +0000' %}
+{{ eventstart | date: "%-d %B %Y"}}
+</li>
+{% endfor %}
+</ul>
+
 ### You can access the following activities and support throughout the year:
 
 - [Get Creative](/what-you-can-do/get-creative)

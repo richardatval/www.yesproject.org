@@ -17,9 +17,14 @@ published: true
 <div class="container teasers-container">
 {% include teaser.html title="What we do" img="/img/thumbnails/outdoors.jpg"  text="We support local young people to overcome challenges that prevent them from finding a job or seeking further education. " url="/what-we-do" buttontext="Learn more" url="/what-we-do" %}
 {% include teaser.html title="What you can do" img="/img/thumbnails/specialist-support.jpg"  text="You can achieve qualifications, learn new skills and prepare for work by enrolling on one of many courses." url="/what-you-can-do" buttontext="Learn more" url="/what-you-can-do" %}
-{% include teaser.html title="Get started" img="/img/thumbnails/computers.jpg"  text="Join the YES Project and a mentor will support you throughout your journey and help you to achieve your goals." url="/get-started" buttontext="Learn more" url="/get-started" %}
+<div class="teaser-wrapper">
+{% include facebookfeed.html %}
 </div>
 </section>
+<section class="band" id="updates">
 <div class="container">
-{% include box.html title="Contact" text="To find out how you can get involved with the YES Project." buttontext="Get in touch" url="/contact" %}
+{% include newsbox.html %}
+{% include calendarmini.html %}
+{% include box.html class="box-primary" title="Get started" text="Join the YES Project and a mentor will support you throughout your journey and help you to achieve your goals." buttontext="Get in touch" url="/contact" %}
 </div>
+</section>
