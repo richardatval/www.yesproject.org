@@ -6,7 +6,7 @@ summary: >-
   Find out what it's like to work in the motor industry on a company tour of
   truck dealership Ford and Slater.
 published: true
-when: 'Wednesday 22 March, 10am -1pm'
+when: 'Wed 22 March, 10am -1pm'
 ---
 
 Find out what it's like to work in the motor industry on a company tour of truck dealership Ford and Slater.
