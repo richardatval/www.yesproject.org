@@ -133,7 +133,7 @@ prose:
           label: "When"
           element: "text"
           value: ""
-      - name: "where"
+      - name: "venue"
         field:
           label: "Where"
           element: "text"
