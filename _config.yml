@@ -143,3 +143,8 @@ prose:
           label: "Layout"
           element: "hidden"
           value: "event"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
