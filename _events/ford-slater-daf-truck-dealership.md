@@ -25,7 +25,7 @@ Tom, aged 17, started the day unsure on what job he would like to do, but after 
 
 [Read more about their tour](http://bit.ly/2k3gecN)
 
-All world of work tours are organised by YES Project partners Flying Fish. To find out more or book a place on teh Ford and Slater company tour contact:
+All world of work tours are organised by YES Project partners Flying Fish. To find out more or book a place on the Ford and Slater company tour contact:
 
 Karla James
 T: 0116 464 5215
