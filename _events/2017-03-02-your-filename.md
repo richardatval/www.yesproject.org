@@ -19,8 +19,8 @@ Tom, aged 17, started the day unsure on what job he would like to do, but after 
 
     “I’ve really liked seeing the cars and I’d definitely be interested in working in the car bodyshop, spray painting the cars.”
 
-Read more about their tour
+[Read more about their tour](https://www.yesproject.org/2016/11/30/world-of-work-tour-at-bmw-sytner/)
 
 All world of work tours are organised by YES Project partners Flying Fish. To find out more or book a place on the Lexus Sytner company tour contact:
 
-Karla James T: 0116 464 5215 karla@leicestershirecares.co.uk
+Karla James T: 0116 464 5215 [karla@leicestershirecares.co.uk](karla@leicestershirecares.co.uk)
