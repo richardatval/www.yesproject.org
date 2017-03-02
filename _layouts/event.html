@@ -13,22 +13,13 @@
 				</article>
 			</section>
 			<aside id="sidebar-first">
-			<div class="box box-default">
-			<h3>Details</h3>
-			{% assign startday = page.startdate | date: "%-d %B %Y" %}
-			{% assign endday = page.enddate | date: "%-d %B %Y" %}
-			{% assign starttime = page.startdate | date: "%I:%M%P" | replace: "0","" %}
-			{% assign endtime = page.enddate | date: "%I:%M%P" | replace: "0", ""%}
-			{% if startday == endday %}
-			{{ startday }} {{ starttime }} - {{ endtime }}
-			{% else %}
-			{{ startday }} {{ starttime }} - {{ endday }} {{ endtime }}
-			{% endif %}
-			<br>
-			<h3>Location</h3>
-			{{ page.venue }}
-			</div>
-			{% include socialsharingbox.html %}
+				<div class="box box-default box-event-time">
+					<h4>When</h4>
+					<p>{{ page.when }}</p>
+					<h4>Location</h4>
+					<p>{{ page.venue }}</p>
+				</div>
+				{% include socialsharingbox.html %}
 			</aside>
 		</div>
 	</div>
