@@ -2,6 +2,11 @@
 layout: event
 published: true
 title: World of work tour Sytner Audi
+when: 'Wed 10 May '
+venue: 'Sytner Audi, Leicester'
+summary: >-
+  Find out what it’s like to work in the motor industry on a company tour of car
+  dealership Sytner Audi.
 ---
 Find out what it's like to work in the motor industry on a company tour of car dealership Sytner Audi.
 
