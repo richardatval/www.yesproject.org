@@ -23,7 +23,7 @@ Heather, aged 17, commented:
 Tom, aged 17, started the day unsure on what job he would like to do, but after the tour he said:
 “I’ve really liked seeing the cars and I’d definitely be interested in working in the car bodyshop, spray painting the cars.”
 
-Read more about their tour http://bit.ly/2k3gecN
+[Read more about their tour](http://bit.ly/2k3gecN)
 
 All world of work tours are organised by YES Project partners Flying Fish. To find out more or book a place on teh Ford and Slater company tour contact:
 
