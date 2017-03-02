@@ -138,3 +138,8 @@ prose:
           label: "Where"
           element: "text"
           value: ""
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "hidden"
+          value: "event"
