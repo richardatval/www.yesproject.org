@@ -50,7 +50,7 @@ $(document).ready(function() {
 			height: 280,
 	        googleCalendarApiKey: 'AIzaSyB3lVlBUFAYDVTwWSohEqoAV_lyNbUeq_w',
 	        events: {
-	            googleCalendarId: '7u4co13oal6i4h99sp07bdtksk@group.calendar.google.com'
+	            googleCalendarId: '6pqcuft524al8kcnb8v31tl0s4@group.calendar.google.com'
 	        },
 			timeFormat: 'h(:mm)a',
 			displayEventEnd: false,
