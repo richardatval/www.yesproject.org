@@ -1,12 +1,12 @@
 ---
 layout: event
 title: Ford & Slater DAF Truck Dealership
-when: Every Friday
-venue: Seed Creative
+venue: 'Ford & Slater DAF Truck Dealership, Leicester'
 summary: >-
   Find out what it's like to work in the motor industry on a company tour of
   truck dealership Ford and Slater.
 published: true
+when: 'Wednesday 22 March, 10am -1pm'
 ---
 
 Find out what it's like to work in the motor industry on a company tour of truck dealership Ford and Slater.
