@@ -2,6 +2,11 @@
 layout: event
 published: true
 title: World of work tour Lexus Sytner
+summary: >-
+  Find out what it’s like to work in the motor industry on a company tour of car
+  dealership Lexus Sytner.
+when: 'Fri 22 September, 10am - 1pm '
+venue: 'Lexus Sytner, Leicester'
 ---
 Find out what it’s like to work in the motor industry on a company tour of car dealership Lexus Sytner.
 
