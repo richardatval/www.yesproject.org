@@ -1,9 +1,12 @@
 ---
-title: Ford & Slater DAF Truck Dealership
-when: "Every Friday"
-venue: "Seed Creative Banana"
 layout: event
-summary: "Find out what it's like to work in the motor industry on a company tour of truck dealership Ford and Slater."
+title: Ford & Slater DAF Truck Dealership
+when: Every Friday
+venue: Seed Creative
+summary: >-
+  Find out what it's like to work in the motor industry on a company tour of
+  truck dealership Ford and Slater.
+published: true
 ---
 
 Find out what it's like to work in the motor industry on a company tour of truck dealership Ford and Slater.
