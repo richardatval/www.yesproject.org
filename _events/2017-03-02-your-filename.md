@@ -1,7 +1,7 @@
 ---
 layout: event
 published: true
-title: ''
+title: World of work tour Lexus Sytner
 ---
 Find out what it’s like to work in the motor industry on a company tour of car dealership Lexus Sytner.
 
