@@ -17,10 +17,12 @@ You'll also take part in activities that will help prepare you for work covering
 We recently took a group of young people on a tour of BMW Sytner, here's what they said:
 
 Heather, aged 17, commented:
-“I wanted to be a lifeguard, but the tour has made me realise I’d like to be a receptionist. I’m interested in people and I’d enjoy talking to customers.”
+
+> “I wanted to be a lifeguard, but the tour has made me realise I’d like to be a receptionist. I’m interested in people and I’d enjoy talking to customers.”
 
 Tom, aged 17, started the day unsure on what job he would like to do, but after the tour he said:
-“I’ve really liked seeing the cars and I’d definitely be interested in working in the car bodyshop, spray painting the cars.”
+
+> “I’ve really liked seeing the cars and I’d definitely be interested in working in the car bodyshop, spray painting the cars.”
 
 [Read more about their tour](http://bit.ly/2k3gecN)
 
