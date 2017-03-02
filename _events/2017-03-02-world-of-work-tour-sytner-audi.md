@@ -6,7 +6,7 @@ when: 'Wed 10 May, 10am - 1pm'
 venue: 'Audi Sytner, Leicester'
 summary: >-
   Find out what it’s like to work in the motor industry on a company tour of car
-  dealership Sytner Audi.
+  dealership Audi Sytner.
 ---
 Find out what it's like to work in the motor industry on a company tour of car dealership Audi Sytner.
 
