@@ -2,6 +2,11 @@
 layout: event
 published: true
 title: World of work tour Bentley Sytner
+summary: >-
+  Find out what it’s like to work in the motor industry on a company tour of car
+  dealership Bentley Sytner.
+when: 'Wed 7 June, 10am - 1pm'
+venue: Bentley Sytner
 ---
 Find out what it’s like to work in the motor industry on a company tour of car dealership Bentley Sytner.
 
@@ -15,8 +20,8 @@ Heather, aged 17, commented: “I wanted to be a lifeguard, but the tour has mad
 
 Tom, aged 17, started the day unsure on what job he would like to do, but after the tour he said: “I’ve really liked seeing the cars and I’d definitely be interested in working in the car bodyshop, spray painting the cars.”
 
-Read more about their tour
+[Read more about their tour](https://www.yesproject.org/2016/11/30/world-of-work-tour-at-bmw-sytner/)
 
 All world of work tours are organised by YES Project partners Flying Fish. To find out more or book a place on the Bentley Sytner company tour contact:
 
-Karla James T: 0116 464 5215 karla@leicestershirecares.co.uk
+Karla James T: 0116 464 5215 [karla@leicestershirecares.co.uk](mailto:karla@leicestershirecares.co.uk)
