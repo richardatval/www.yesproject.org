@@ -33,7 +33,7 @@ We’ll offer you the opportunity to test your product or service in the real wo
 
 ### When can I get started?
 
-If you have a business idea and not sure how to get started, [get in touch](https://www.yesproject.org/get-started/) and we'll help you turn your idea into a business.
+If you have a business idea and not sure how to get started, get in touch and we'll help you turn your idea into a business. Email [ricky.s@yesproject.org](mailto:ricky.s@yesproject.org) or call 07393 147104.
 
 ### About YES Enterprise Team
 
