@@ -24,7 +24,7 @@ If you require any other types of support such as childcare, travel costs or oth
 
 We’ll do our best to eliminate any barriers you may face to accessing or staying involved with the YES Project.
 
-## The Bridge is one of the YES Project partners. They are a local charity that can provide you with one-to-one intensive support and help you to: 
+## The Bridge is one of the YES Project partners that can provide you with one-to-one intensive support and help you to: 
 
 - Find and access suitable accommodation and prevent homelessness 
 - Mediate between you and your family
@@ -32,5 +32,3 @@ We’ll do our best to eliminate any barriers you may face to accessing or stayi
 - Accompany you to appointments 
 - Work with you to build your confidence, self-esteem and help to motivate you
 - Work with you to improve your health and wellbeing
-
-
