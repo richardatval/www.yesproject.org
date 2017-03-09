@@ -26,9 +26,7 @@ To give you the best chance of getting a job after the programme, the courses ar
 
 ### When can I get started?
 
-The next 'Get into' programmes are:
-
-- 06 March 2017 - Get into Logistics with M&S
+All Get in to programmes are advertised on our [calendar](https://www.yesproject.org/course-dates/)
 
 [Get in touch](https://www.yesproject.org/contact/) if you’re interested and we’ll tell you more.
 
