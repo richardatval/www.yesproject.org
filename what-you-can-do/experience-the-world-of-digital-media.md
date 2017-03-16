@@ -7,7 +7,7 @@ published: true
 
 #### Learn all you need to know about the world of digital media with Seed Creativity
 
-![Digital Media Students](/img/digital-media.jpg)
+{% include carousel.html slides="/img/yes-media.jpg|/img/yes-media-2.jpg|/img/yes-media-3.jpg" captions="Students filming|Young people doing lego project|Group filming"%}
 
 ### What’s in it for me? 
 

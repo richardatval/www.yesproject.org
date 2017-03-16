@@ -7,7 +7,7 @@ published: true
 
 #### Do you have a passion for all things creative? If so, you can explore lots of exciting creative activities at Soft Touch Arts
 
-![Two young women crafting](/img/get-creative.jpg)
+{% include carousel.html slides="/img/get-creative.jpg|/img/get-creative-2.jpg|/img/get-creative-3.jpg" captions="Girl in recording studio|Young man spray painting|Girl crafting"%}
 
 ### What’s in it for me? 
 

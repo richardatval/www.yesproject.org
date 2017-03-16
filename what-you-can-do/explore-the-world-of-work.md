@@ -7,7 +7,7 @@ published: true
 
 #### Find out what it is like to work, see how different companies operate and all the job roles within them.
 
-![Young woman working in shop](/img/retail.jpg)
+{% include carousel.html slides="/img/explore-the-world-of-work.jpg|/img/explore-the-world-of-work-2.jpg|/img/explore-the-world-of-work-3.jpg" captions="Young People on Sytner BMW Tour|Young people doing lego project|Group filming"%}
 
 Explore the world of work and get a taste for type of job you would like to do in the future by taking part in a tailor-made, personal programme which can include world of work tours, day job trials and mentored work placements.
 

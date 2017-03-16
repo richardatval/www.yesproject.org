@@ -9,7 +9,8 @@ published: true
 
 #### Learn new skills; improve confidence, self-esteem and progress onto further education programmes or employment.
 
-![Group of young people hiking](/img/outdoors.jpg)
+{% include carousel.html slides="/img/get-motivated-to-succeed.jpg|/img/get-motivated-to-succeed-2.jpg|/img/get-motivated-to-succeed-3.jpg" captions="Young man kayaking|Group of Young People|Group of Young People near waterside"%}
+
 
 ### What's in it for me?
 
