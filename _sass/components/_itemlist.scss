@@ -9,5 +9,7 @@ ul.item-list {
 }
 
 a.readmore {
-	float: right;
+	display: block;
+	width: 100%;
+	text-align: right;
 }
