@@ -2,10 +2,10 @@
 date: '2017-05-17 11:16 +0100'
 thumbnail-image: /img/liam-thumbnail.png
 layout: post
-published: true
+published: false
 title: Helping Liam to step out of his comfort zone and try new things
 ---
-![Liam on the YES Team]({{site.baseurl}}/img/liam-fullsize-web.png)
+
 
 Before joining the YES Project Liam had been a student at Brooksby College on an Animal welfare course.
 
