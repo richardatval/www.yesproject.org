@@ -1,11 +1,12 @@
 ---
 date: '2017-05-17 10:31 +0100'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/Gerard-thumbnail.png)
 layout: post
 published: false
 title: Supporting Gerard to get a job
 ---
- 
+![Gerard at BMW Sytner comany tour]({{site.baseurl}}/img/Gerard-fullsize-web.png)
+
 In October 2016 Gerard approached YES Project partners Flying Fish for help after his brother advised him of upcoming vacancies with a local fencing firm.  
 
 Gerard expressed an interest in applying but needed to obtain a Construction Skills Certification Scheme (CSCS) card to do so.  All tradespeople working on a UK construction site require a CSCS card to prove they have had adequate training and qualifications to work on a building site.
