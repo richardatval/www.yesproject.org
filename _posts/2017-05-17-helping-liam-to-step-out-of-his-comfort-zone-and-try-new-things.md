@@ -20,3 +20,9 @@ Liam, aged 22 says he likes to be busy and get out of the house. He is an active
 > “Before accessing the YES Project I didn’t really talk much or communicate to other.  The project has supported me to step out of my comfort zone and shell, on the YES Team final presentation I had to get up and talk in front of others, this is something I never thought I’d be able to do.”
 
 Liam would encourage others to sign up for the YES Project as it’s enjoyable and gives young people a purpose and routine.
+
+### About The YES Project
+
+The Youth Employability Support (YES) Project's purpose is to support local young people aged 15-24 to overcome challenges and barriers that have prevented them from finding a job or seeking further education.
+
+[Learn more](https://www.yesproject.org/what-we-do/) about how we can help you or [get in touch](https://www.yesproject.org/contact/)
