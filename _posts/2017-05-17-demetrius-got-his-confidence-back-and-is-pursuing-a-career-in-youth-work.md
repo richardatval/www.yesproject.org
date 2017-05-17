@@ -2,7 +2,7 @@
 date: '2017-05-17 10:45 +0100'
 thumbnail-image: /img/Demetrius-thumbnail.png
 layout: post
-published: false
+published: true
 title: Demetrius got his confidence back and is pursuing a career in youth work
 ---
 ![Demetrius taking parting in the YES Team]({{site.baseurl}}/img/Demetrius-fullsize-web.png)
