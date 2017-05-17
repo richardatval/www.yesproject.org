@@ -2,7 +2,7 @@
 date: '2017-05-17 10:58 +0100'
 thumbnail-image: /img/BYCS-thumbnail.png
 layout: post
-published: false
+published: true
 title: Farzana felt supported throughout her journey to employment
 ---
 
@@ -27,5 +27,3 @@ Farzana now works as a Health Trainer, Packwood Healthcare Ltd
 Bangladeshi Youth & Cultural Shomiti (BYCS) is a community learning provider that will enable you to achieve qualifications and develop skills to progress on to futher education or work. It provides a learning environment that is culturally sensitive.
 
 Learn more or contact [ebrahim@bycs.org.uk](mailto:ebrahim@bycs.org.uk)
-
-
