@@ -14,7 +14,7 @@ She started applying for paid work but due to her lack of work experience she wa
 
 Farzana was aware of the services offered at BYCS as it has been a community organisation for many years.  She met with the YES Project Officer who suggested she carry out voluntary work to gain experience.
 
-She completed 4 months’ voluntary work as a classroom assistant and says it helped her improve self-confidence and motivation. 
+She completed 4 months’ voluntary work as a classroom assistant and says it helped improve her self-confidence and motivation. 
 
 Farzana, age 22, comments about BYSC and YES Project:
 
