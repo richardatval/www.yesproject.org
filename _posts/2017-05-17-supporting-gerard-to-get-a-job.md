@@ -1,6 +1,6 @@
 ---
 date: '2017-05-17 10:31 +0100'
-thumbnail-image: /img/Gerard-thumbnail.png)
+thumbnail-image: /img/Gerard-thumbnail.png
 layout: post
 published: true
 title: Supporting Gerard to get a job
