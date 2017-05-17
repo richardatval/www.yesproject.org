@@ -2,7 +2,7 @@
 date: '2017-05-17 10:31 +0100'
 thumbnail-image: /img/Gerard-thumbnail.png)
 layout: post
-published: false
+published: true
 title: Supporting Gerard to get a job
 ---
 ![Gerard at BMW Sytner comany tour]({{site.baseurl}}/img/Gerard-fullsize-web.png)
