@@ -7,13 +7,13 @@ title: Supporting Gerard to get a job
 ---
 ![Gerard at BMW Sytner comany tour]({{site.baseurl}}/img/Gerard-fullsize-web.png)
 
-In October 2016 Gerard approached YES Project partners Flying Fish for help after his brother advised him of upcoming vacancies with a local fencing firm.  
+In October 2016, Gerard approached YES Project partners Flying Fish for help after his brother advised him of upcoming vacancies at a local fencing firm.  
 
-Gerard expressed an interest in applying but needed to obtain a Construction Skills Certification Scheme (CSCS) card to do so.  All tradespeople working on a UK construction site require a CSCS card to prove they have had adequate training and qualifications to work on a building site.
+Gerard expressed an interest in applying but needed to obtain a Construction Skills Certification Scheme (CSCS) card to do so.  All tradespeople working on a UK construction site require a CSCS card to prove they have had adequate training and all the correct qualifications to work on a building site.
 
 Gerard agreed to prove his motivation and undertake a two-week mentored work placement at Saffron Hill Cemetery in exchange for support to get his CSCS card.
 
-The placement went well with Gerard scoring excellent in all areas including attendance, time keeping, communication and team work.  Cemetery manager, Sam Whitfield commented
+The placement went well, with Gerard scoring excellent in all areas including attendance, time keeping, communication and team work.  Cemetery manager, Sam Whitfield commented
 
 > “We are all very happy with the level of commitment shown by Gerard.  He would be an asset to any potential employer”.
 
@@ -27,7 +27,7 @@ Gerard aged 18, commented about the YES Project
 
 ### About Flying Fish
 
-Flying Fish organise a range of world of work activities, which includes work placements, work tours and work shadowing.
+Flying Fish organise a range of 'world of work' activities, which includes work placements, work tours and work shadowing.
 
 These activities will give you a taste for type of job you would like to do in the future.
 
