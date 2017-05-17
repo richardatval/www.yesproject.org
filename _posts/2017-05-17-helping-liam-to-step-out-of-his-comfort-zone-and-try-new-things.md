@@ -2,7 +2,7 @@
 date: '2017-05-17 11:16 +0100'
 thumbnail-image: /img/liam-thumbnail.png
 layout: post
-published: false
+published: true
 title: Helping Liam to step out of his comfort zone and try new things
 ---
 ![Liam on the YES Team]({{site.baseurl}}/img/liam-fullsize-web.png)
