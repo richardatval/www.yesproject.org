@@ -13,7 +13,7 @@ He had fallen into a bad routine of staying up late playing video games until 4a
 
 The Job Centre referred Demetrius to the YES Project where he enrolled for the YES Team programme that started in January 2017.
 
-At first Demetrius was apprehensive about the programme as he doesn’t like group situations.  However, he went along with an open mind.
+At first, Demetrius was apprehensive about the programme as he doesn’t like group situations.  However, he went along with an open mind.
 
 The programme has helped Demetrius get his confidence back, make friends and become more sociable.  From his experience, Demetrius would now like to pursue a career in youth work and help to inspire other young people.
 
