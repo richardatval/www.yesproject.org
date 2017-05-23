@@ -2,6 +2,8 @@
 layout: event
 published: true
 title: Taster Day Get into M&S
+when: Wednesday 20 June
+venue: 'M&S Stores '
 ---
 #### Come along to 'Get into Marks & Spencers' Taster Day to find out if you would like a career in retail.
 
