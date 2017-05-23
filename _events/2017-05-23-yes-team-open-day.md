@@ -6,7 +6,7 @@ when: Tuesday 4 July 10am - 2.30pm
 venue: Leicester or Hinckley
 ---
 
-Come along to the YES Team programme open day on **Tuesday 4 July 10am - 2.30pm** to find out about the next 12 week programmes starting on 10 July in Leicester and in Hinckley.  
+Come along to the [YES Team programme](https://www.yesproject.org/what-you-can-do/get-motivated-to-succeed/) open day on **Tuesday 4 July 10am - 2.30pm** to find out about the next 12 week programmes starting on 10 July in Leicester and in Hinckley.  
 
 At the open day you will meet the course leaders, find out about the programme, how it will benefit you as well as have the opportunity to ask any questions. 
 
