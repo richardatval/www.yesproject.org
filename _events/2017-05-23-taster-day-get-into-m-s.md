@@ -11,7 +11,7 @@ The taster day is taking place on **Wednesday 20 June** to find out more or to b
 
 If you're successful in securing a place on the 'Get into M&S' programme you will start on 26 June until 21 July 2017.
 
-#### Get into M&S is a 4-week programme where you'll meet new people, improve your confidence as well as gain indepth training in the retail industry.
+**Get into M&S is a 4-week programme where you'll meet new people, improve your confidence as well as gain indepth training in the retail industry.**
 
 During the programme you'll gain in-depth training by completing work experience with Marks and Spencer. Here you'll learn about good customer service, selling skills, stock rotation and control.
 
