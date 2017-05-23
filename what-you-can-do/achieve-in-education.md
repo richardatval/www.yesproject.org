@@ -34,8 +34,6 @@ J2W is a 6 month programme which will help you to:
 - Move on to get a good job, or apprenticeship, or study at college
 - Gain qualifications in Maths, English and ICT
 
-
-
 ### When can I get started?
 
 TwentyTwenty run their programmes throughout the year. Check out our [calendar](https://www.yesproject.org/course-dates/) to find out when the next Engage and J2W course start or email [brightfuture@twentytwenty.org.uk](mailto:brightfuture@twentytwenty.org.uk)
