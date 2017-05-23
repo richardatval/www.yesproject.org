@@ -43,5 +43,3 @@ TwentyTwenty run their programmes throughout the year. Check out our [calendar](
 ### About TwentyTwenty
 
 TwentyTwenty is a local charity that has already supported over 2000 young people to develop self-belief, achieve in education, learn work-ready skills and find and keep a job.
-
-
