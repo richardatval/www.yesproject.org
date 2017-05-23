@@ -2,6 +2,8 @@
 layout: event
 published: true
 title: Get into M&S
+when: Monday 26 June
+venue: M&S Store to be advised
 ---
 
 ### Get into M&S is a 4-week programme where you’ll meet new people, improve your confidence as well as gain indepth training in the retail industry.
