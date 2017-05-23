@@ -12,23 +12,23 @@ At the open day you will meet the course leaders, find out about the programme, 
 
 The open day will be held at both venues, so attend the one that you want to join. Contact the team leaders directly if you require any futher information:
 
-Leicester Central Fire Station
-Lancaster Road
-Leicester
-LE1 7HB
-Team Leader:  Charlotte Varnam
-Tel: 07793588920
+Leicester Central Fire Station<br>
+Lancaster Road<br>
+Leicester<br>
+LE1 7HB<br>
+Team Leader:  Charlotte Varnam<br>
+Tel: 07793588920<br>
 Email:[cvarnam@warwickshire.ac.uk](mailto:cvarnam@warwickshire.ac.uk)
 
 
-The Pathways Centre
-Hinckley Baptist Church
-6 Hollier's Walk
-Hinckley
-Leicestershire
-LE10 1QW
-Team Leader:  Jordan Lutchman
-Tel:  07740419315
+The Pathways Centre<br>
+Hinckley Baptist Church<br>
+6 Hollier's Walk<br>
+Hinckley<br>
+Leicestershire<br>
+LE10 1QW<br>
+Team Leader:  Jordan Lutchman<br>
+Tel:  07740419315<br>
 Email:  [jlutchman@warwickshire.ac.uk](mailto:jlutchman@warwickshire.ac.uk)
 
 Learn more about the [**YES Team Programme**](https://www.yesproject.org/what-you-can-do/get-motivated-to-succeed/)
