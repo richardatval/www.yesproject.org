@@ -20,7 +20,7 @@ Farzana, age 22, comments about BYSC and YES Project:
 
 > “BYCS helped me to undertake one to one job search. I found the advert for my job and the YES Project Advisor encouraged me to consider and apply for this role. I was given practical interview technique sessions to help me improve my skills. I felt reassured that someone was there for me throughout my journey to employment. “
 
-Farzana now works as a Health Trainer at Packwood Healthcare Ltd 
+Farzana now works as a Health Trainer. 
 
 ### About BYCS
 
