@@ -17,27 +17,28 @@ Benefit from a positive and interactive learning environment where additional su
 
 Choose the right programme for you:
 
-#### Engage
+#### Engage<br>
 This 8-week course will help you to: 
-•	Build your self confidence 
-•	Learn to deal with difficult situations 
-•	Try new things and meet new people 
-•	Make positive choices about what to do next 
+- Build your self confidence 
+- Learn to deal with difficult situations 
+- Try new things and meet new people 
+- Make positive choices about what to do next
+
 
 You’ll receive certificates to recognise your achievements and be awarded with an accredited qualification in Employability Skills.
 
-#### Journey to work (J2W)
+#### Journey to work (J2W)<br>
 J2W is a 6 month programme which will help you to: 
-•	Get real work experience and gain vital skills
-•	Meet local employers and learn about great job opportunities
-•	Move on to get a good job, or apprenticeship, or study at college
-•	Gain qualifications in Maths, English and ICT
+- Get real work experience and gain vital skills
+- Meet local employers and learn about great job opportunities
+- Move on to get a good job, or apprenticeship, or study at college
+- Gain qualifications in Maths, English and ICT
+
 
 
 ### When can I get started?
 
-TwentyTwenty run their programmes throughout the year. 
-[Get in touch](https://www.yesproject.org/contact/) when you're ready to get started and we'll tell you more.
+TwentyTwenty run their programmes throughout the year. Check out our [calendar](https://www.yesproject.org/course-dates/) to find out when the next Engage and J2W course start or email [brightfuture@twentytwenty.org.uk](mailto:brightfuture@twentytwenty.org.uk)
 
 ### About TwentyTwenty
 
