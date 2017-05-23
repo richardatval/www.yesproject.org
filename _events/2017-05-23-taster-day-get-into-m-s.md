@@ -7,7 +7,7 @@ venue: 'M&S Stores '
 ---
 #### Come along to 'Get into Marks & Spencers' Taster Day to find out if you would like a career in retail.
 
-The taster day is taking place on **Wednesday 20 June** to find out more or to book your place contact Nutan 07717 488 544 nutan.patel@princes-trust.org.uk
+The taster day is taking place on **Wednesday 20 June** to find out more or to book your place contact Nutan 07717 488 544 [nutan.patel@princes-trust.org.uk](mailto:nutan.patel@princes-trust.org.uk)
 
 If you're successful in securing a place on the 'Get into M&S' programme you will start on 26 June until 21 July 2017.
 
