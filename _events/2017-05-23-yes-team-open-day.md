@@ -2,6 +2,8 @@
 layout: event
 published: true
 title: YES Team Open Day
+when: Tuesday 4 July 10am - 2.30pm
+venue: Leicester or Hinckley
 ---
 
 Come along to the YES Team programme open day on **Tuesday 4 July 10am - 2.30pm** to find out about the next 12 week programmes starting on 10 July in Leicester and in Hinckley.  
