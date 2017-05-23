@@ -1,23 +1,38 @@
 ---
 layout: course
-title: Achieve in education
+title: Create a brighter future
 summary: >-
   TwentyTwenty’s mentoring service can help you to believe in yourself and
   achieve your education or employment goals.
 published: true
 ---
 
-#### TwentyTwenty’s mentoring service can help you to believe in yourself and achieve your education or employment goals.
+#### Learn to believe in yourself and achieve your education or employment goals with TwentyTwenty.
 
 ![Two young women working on computer](/img/computers.jpg)
 
 ### What’s in it for me? 
 
-Receive support every step of the way with TwentyTwenty’s Award Winning Mentoring Scheme.
+Benefit from a positive and interactive learning environment where additional support is available to help you achieve. 
 
-The mentoring scheme will support you throughout your journey with one-to-one coaching, counselling and a mentoring programme to help you achieve your goals.
+Choose the right programme for you:
 
-This will include the chance to work towards qualifications in Maths, English and Information, Communication and Technology (ICT) at one a Lifeskills Centres in Leicester or Loughborough.  You’ll also get to access work placements, career education and support to pursue further education and work.
+#### Engage
+This 8-week course will help you to: 
+•	Build your self confidence 
+•	Learn to deal with difficult situations 
+•	Try new things and meet new people 
+•	Make positive choices about what to do next 
+
+You’ll receive certificates to recognise your achievements and be awarded with an accredited qualification in Employability Skills.
+
+#### Journey to work (J2W)
+J2W is a 6 month programme which will help you to: 
+•	Get real work experience and gain vital skills
+•	Meet local employers and learn about great job opportunities
+•	Move on to get a good job, or apprenticeship, or study at college
+•	Gain qualifications in Maths, English and ICT
+
 
 ### When can I get started?
 
@@ -25,4 +40,7 @@ TwentyTwenty run their programmes throughout the year.
 [Get in touch](https://www.yesproject.org/contact/) when you're ready to get started and we'll tell you more.
 
 ### About TwentyTwenty
+
 TwentyTwenty is a local charity that has already supported over 2000 young people to develop self-belief, achieve in education, learn work-ready skills and find and keep a job.
+
+
