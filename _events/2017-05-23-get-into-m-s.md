@@ -14,6 +14,6 @@ If you show a good work ethic and complete the programme you could be offered a 
 
 You will also receive 6-months support from a Prince’s Trust mentor to help you uncover your next steps.
 
-**A taster day is taking place on Wednesday 20 June, you will need to attend this to secure a place on the programme.**
+A taster day is taking place on **Wednesday 20 June**, you will need to attend this to secure a place on the programme.
 
 #### For more information or to book your place on the taster day contact [nutan.patel@princes-trust.org.uk](mailto:nutan.patel@princes-trust.org.uk) 07717 488 544
