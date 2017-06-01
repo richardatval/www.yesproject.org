@@ -11,33 +11,29 @@ published: true
 
 ### What’s in it for me? 
 
-Over the course of nine weeks, you’ll learn about digital media while also improving your confidence, motivation and team working skills. The course is broken down into three steps:
+Over the course of nine weeks, you’ll learn about short film production and experience the thrill of working for a creative media company. 
 
-#### Step 1: Introduction to Digital Media 
+On the YES Media course, you will: 
+- Create, film and edit a short film on a topic of your choice
+- Work with digital media professionals on a live brief
+- Explore the world of digital CVs
+- Learn about different digital media channels, content marketing and social media
+- Develop your confidence, creativity, and team working skills
 
-During this step you will be introduced to different digital media channels, how to create content and media production.  You’ll then create a short film on a topic of your choice.
 
-#### Step 2: Work Experience 
+### What support will I receive?
 
-With your film made, you’ll gain real-life experience by working with digital media professionals on a live project.  Working as a team, you will experience the full media process from client brief to end product.
-
-#### Step 3: Employability Skills
-
-The final step of the programme will focus on job applications, CV writing, interview skills and preparing you for work.
-
-On completion of the programme you will receive mentoring and support into employment, further education or training.
+On completion of the programme you will receive mentoring and support into employment, further education or training
 
 ### When can I get started?
 
-YES Media 9-week course start on:
+YES Media 9-week courses start in the following months:
 
-- 13 February 2017
-- 24 April 2017
-- 17 July 2017
-- 9 October 2017
+- May 2017
+- July 2017
+- October 2017
 
-[Get in touch](https://www.yesproject.org/contact/) if you're interested and we'll tell you more.
-
+To find out more or apply for the next YES Media course contact [chris@seedcreativity.co.uk](mailto:chris@seedcreativity.co.uk) or 07758 252 301.
 
 ### About Seed Creativity
 
