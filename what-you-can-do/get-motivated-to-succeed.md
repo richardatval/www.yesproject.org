@@ -22,10 +22,14 @@ You will then progress through the course by learning preparation for work skill
 
 At the end of the programme you’ll receive a level 1 Prince’s Trust Certificate in Employment, Teamwork and Community Skills and a level 1 BTEC Award in Personal and Social Development.
 
+### What support will I receieve?
+
+A team leader will mentor you and your team throughout the programme.  You'll also get help to write a CV, full out job applications and practice your interview skills.
+
 ### When can I get started?
 
-[Get in touch](https://www.yesproject.org/get-started/) if you're interested in taking part in the next YES Team Programme. We'll give you more information and let you know when the next programme is starting.
+The next YES Team Programme starts on 10 July 2017 in Leicester and Hinckley. If you're interested and would like more information contact Mat 07887 480 885 or [mjesson@warwickshire.ac.uk](mailto:mjesson@warwickshire.ac.uk)
 
 ### About YES Team Programme
 
-YES Team Programme lead by Warwickshire College helps young people develop life skills and motivates them to take the next steps in life.  The programme is a partnership with a range of YES Project organisations.
+YES Team Programme lead by Warwickshire College in partnership with The Prince's Trust, helps young people develop life skills and motivates them to take the next steps in life. 
