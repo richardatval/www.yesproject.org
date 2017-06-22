@@ -28,7 +28,7 @@ A team leader will mentor you and your team throughout the programme.  You'll al
 
 ### When can I get started?
 
-The next YES Team Programme starts on 10 July 2017 in Leicester and Hinckley. If you're interested and would like more information contact Mat 07887 480 885 or [mjesson@warwickshire.ac.uk](mailto:mjesson@warwickshire.ac.uk)
+The next YES Team Programme starts on **10 July 2017 in Leicester and Hinckley**. If you're interested and would like more information contact Mat 07887 480 885 or [mjesson@warwickshire.ac.uk](mailto:mjesson@warwickshire.ac.uk)
 
 ### About YES Team Programme
 
