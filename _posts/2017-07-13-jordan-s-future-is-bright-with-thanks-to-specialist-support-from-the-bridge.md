@@ -7,7 +7,7 @@ title: Jordan's future is bright after receiving specialist support
 ---
 ![JP_Pic-fullsize-web.jpg]({{site.baseurl}}/img/JP_Pic-fullsize-web.jpg)
 
-Jordan, was referred by the YES Project to The Bridge for specialist support as he has autism and suffers with anxiety and depression. 
+Jordan was referred by the YES Project to The Bridge for specialist support as he has autism and suffers with anxiety and depression. 
 
 The Bridge’s Intensive Young Person’s Support Worker Vickee Kainth, started to meet with Jordan and his mum who would be present to support him. 
 
