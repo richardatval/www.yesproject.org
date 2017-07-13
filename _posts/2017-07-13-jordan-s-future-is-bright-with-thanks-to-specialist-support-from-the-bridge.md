@@ -1,12 +1,11 @@
 ---
 date: '2017-07-13 11:58 +0100'
-thumbnail-image: /img/JP%20Pic-thumbnail.jpg
+thumbnail-image: /img/JP_Pic-thumbnail.jpg
 layout: post
 published: true
 title: Jordan's future is bright after receiving specialist support
 ---
-
-![]({{site.baseurl}}/img/JP%20Pic-fullsize-web.jpg)
+![JP_Pic-fullsize-web.jpg]({{site.baseurl}}/img/JP_Pic-fullsize-web.jpg)
 
 Jordan, was referred by the YES Project to The Bridge for specialist support as he has autism and suffers with anxiety and depression. 
 
