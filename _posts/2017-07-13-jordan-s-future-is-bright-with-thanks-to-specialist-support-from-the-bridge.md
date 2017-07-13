@@ -2,7 +2,7 @@
 date: '2017-07-13 11:58 +0100'
 thumbnail-image: /img/JP Pic-thumbnail.jpg
 layout: post
-published: false
+published: true
 title: 'Jordan''s future is bright with thanks to specialist support from The Bridge '
 ---
 
