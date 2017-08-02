@@ -19,4 +19,4 @@ To book your place contact Anna or Peter from Leicestershire Cares:
 Peter: 0116 27506500 / 07809164897
 Anna: 0116 366 6639 / 07738403732
 
-Learn more about Walker & Son http://www.walkerspies.co.uk/
+Learn more about Walker & Son [www.walkerspies.co.uk](www.walkerspies.co.uk)
