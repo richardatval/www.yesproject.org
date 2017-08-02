@@ -2,7 +2,7 @@
 layout: event
 published: true
 title: World of work tour at Walker & Son bakery
-when: Wednesday 9 August
+when: 'Wed 9 Aug 10am - 12pm '
 venue: 'Walker & Son, 200 Madeline Road, Beaumont Leys , Leicester,  LE4 1EX   '
 ---
 Find out what it’s like to work in the food industry on a company tour of Walker & Son bakery in Beaumont Leys.
