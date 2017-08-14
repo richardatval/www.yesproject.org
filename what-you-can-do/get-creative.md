@@ -11,21 +11,27 @@ published: true
 
 ### What’s in it for me? 
 
-You’ll have the option to try out photography, Photoshop, stencil and graffiti art, print, music, sculpture, creative cooking and more.
-
-Creative sessions run throughout the year and will help you build confidence and learn new skills. You’ll also have:
-
-* A personal development plan 
-* One-to-one support 
-* The opportunity to work towards an accredited Arts Awards and to progress on to our mentoring scheme 
+Learn new skills and gain confidence whilst trying out various activities such as:
+- Photography
+- Digital arts, including Photoshop
+- Stencil and graffiti art
+- Print-making
+- Music
+- Sculpture
 
 You will be able to showcase your art at the annual YES exhibition and performance and receive recognition for all your hard work by visitors, mentors and creative organisations.
 
+### What support will I receive?
+
+- A personal development plan 
+- One-to-one support 
+- The opportunity to work towards an accredited Arts Awards and to progress on to our mentoring scheme 
+
 ### When can I get started? 
 
-Get Creative sessions run every Friday 1pm - 4pm at Soft Touch Arts located on New Walk, Leicester. 
+Get Creative sessions run every Friday 1pm - 4pm at Soft Touch Arts located on New Walk, Leicester, LE1 6TF. 
 
-[Get in touch](https://www.yesproject.org/get-started/) if you'd like to attend a session and we’ll tell you more.
+If you'd like to attend a session contact [kieran@soft-touch.org.uk](kieran@soft-touch.org.uk) or call 0116 255 2592
 
 ### About Soft Touch Arts
 
