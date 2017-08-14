@@ -1,26 +1,37 @@
 ---
 layout: course
-title: Language and Cultural Support
+title: Enhance your employability
 summary: >-
   Learn leadership, decision making and team building skills when you join the
   YES Youth Leadership Group.
 published: true
 ---
 
-#### Bangladesh Youth & Cultural Shomiti is a learning provider that focuses on addressing language and cultural barriers. 
+#### Improve your work chances by gaining an accredited qualification with BYCS 
 
 ![Two young muslim women talking](/img/cultural-support.jpg)
 
-They will help you to:
 
-- Develop skills so you can progress on to further education or employment 
-- Study towards an accredited qualification in English, Maths and Information Communication Technology (ICT) up to Level 2
-- Study towards GCSE English and/or Mathematics qualification(s)
-- Identify skills you need to develop to move towards employment
-- Support you with job search, application and interview skills
-- Study towards an accredited qualification in Employability Skill up to Level 2  
-- Achieve a level 2 accredited qualifications in food safety, health and safety, first aid and principles of manual handling.
+### What’s in it for me?
+Benefit from a supportive and informal learning environment that’ll enable you to achieve a qualification and develop your skills and abilities to progress on to
+further education or work.
 
+Choose from a range of qualifications:
+•	Functional Skills Level 1 and 2 in Maths, English and ICT
+•	GCSEs in English and Maths
+•	Vocational Level 2 qualifications in food safety, health and safety, first aid and principles of manual handling
 
+BYCS can also find you a suitable volunteering placement to develop
+your skills, boost your confidence and enhance your CV.
 
+### What support will I receive?
+Whilst learning at BYCS, you will receive support with job search, application and interview skills.
+
+We can also help you to address any language or cultural barriers you may have.
+
+### When can I get started?
+To find out more or apply contact Ebrahim by email [ebrahim@bycs.org.uk](ebrahim@bycs.org.uk) or call 0116 275 5855
+
+### About BYCS
+Bangledesh Youth & Cultural Shomiti (BYCS) is a community learning provider that promotes fairness, equality, personal development and progression for its learners in a culturally sensitive and supportive environment.
 
