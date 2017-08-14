@@ -34,4 +34,3 @@ To find out more or apply contact Ebrahim by email [ebrahim@bycs.org.uk](ebrahim
 
 ### About BYCS
 Bangledesh Youth & Cultural Shomiti (BYCS) is a community learning provider that promotes fairness, equality, personal development and progression for its learners in a culturally sensitive and supportive environment.
-
