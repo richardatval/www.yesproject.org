@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Who we help
-summary: We can help you if you’re aged 15-24 years old and not in education, employment or training.
-
+summary: >-
+  We can help you if you’re aged 15-24 years old and not in education,
+  employment or training.
 published: true
 ---
 
-### We can help you if you’re aged 15-24 years old and not in education, employment or training.
+### We can help you if you’re aged 15-24 years old and not in education, employment or training and live in Leicester or Leicestershire.
 
 We provide mentoring and specialist support services to help you overcome barriers that are preventing you from getting a job. 
 
