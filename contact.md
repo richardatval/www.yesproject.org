@@ -5,8 +5,9 @@ summary: Contact the YES Project
 published: true
 ---
 
-If you're aged 15-24 years old, not in education, employment or training and live in Leicester and Leicestershire. 
+The Youth Employability Support (YES) Project can support you if you’re 15-24 years old, not in education, employment or training and live in Leicester and Leicestershire.
 
-Complete the form below and we'll be intouch with more information about how you can access support from the YES Project.
+For more information on how to access the YES Project complete the form below:
+
 
 {% include contact.html %}
