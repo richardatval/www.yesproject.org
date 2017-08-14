@@ -20,7 +20,6 @@ On the YES Media course, you will:
 - Learn about different digital media channels, content marketing and social media
 - Develop your confidence, creativity, and team working skills
 
-
 ### What support will I receive?
 
 On completion of the programme you will receive mentoring and support into employment, further education or training
@@ -28,9 +27,6 @@ On completion of the programme you will receive mentoring and support into emplo
 ### When can I get started?
 
 YES Media 9-week courses start in the following months:
-
-- May 2017
-- July 2017
 - October 2017
 
 To find out more or apply for the next YES Media course contact [chris@seedcreativity.co.uk](mailto:chris@seedcreativity.co.uk) or 07758 252 301.
