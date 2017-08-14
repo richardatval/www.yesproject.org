@@ -17,9 +17,10 @@ Benefit from a supportive and informal learning environment that’ll enable you
 further education or work.
 
 Choose from a range of qualifications:
-•	Functional Skills Level 1 and 2 in Maths, English and ICT
-•	GCSEs in English and Maths
-•	Vocational Level 2 qualifications in food safety, health and safety, first aid and principles of manual handling
+- Functional Skills Level 1 and 2 in Maths, English and ICT
+- GCSEs in English and Maths
+- Vocational Level 2 qualifications in food safety, health and safety, first aid and principles of manual handling
+
 
 BYCS can also find you a suitable volunteering placement to develop
 your skills, boost your confidence and enhance your CV.
