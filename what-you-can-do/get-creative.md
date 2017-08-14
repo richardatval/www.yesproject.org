@@ -19,7 +19,7 @@ Learn new skills and gain confidence whilst trying out various activities such a
 - Music
 - Sculpture
 
-You will be able to showcase your art at the annual YES exhibition and performance and receive recognition for all your hard work by visitors, mentors and creative organisations.
+You will have the oportunity to work towards an accredited Arts Award and showcase your art at the annual YES exhibition and performance.
 
 ### What support will I receive?
 
