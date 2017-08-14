@@ -24,7 +24,6 @@ This 8-week course will help you to:
 - Try new things and meet new people 
 - Make positive choices about what to do next
 
-
 You’ll receive certificates to recognise your achievements and be awarded with an accredited qualification in Employability Skills.
 
 #### Journey to work (J2W)<br>
@@ -36,7 +35,9 @@ J2W is a 6 month programme which will help you to:
 
 ### When can I get started?
 
-TwentyTwenty run their programmes throughout the year. Check out our [calendar](https://www.yesproject.org/course-dates/) to find out when the next Engage and J2W course start or email [brightfuture@twentytwenty.org.uk](mailto:brightfuture@twentytwenty.org.uk)
+TwentyTwenty run their programmes throughout the year. Check out our [calendar](https://www.yesproject.org/course-dates/) to find out when the next Engage and J2W course start.
+
+You can contact TwentyTwenty directly by emailing [brightfuture@twentytwenty.org.uk](mailto:brightfuture@twentytwenty.org.uk)or call 0116 261 9790
 
 ### About TwentyTwenty
 
