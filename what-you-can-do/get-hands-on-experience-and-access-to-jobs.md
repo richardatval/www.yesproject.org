@@ -28,7 +28,7 @@ To give you the best chance of getting a job after the programme, the courses ar
 
 All Get in to programmes are advertised on our [calendar](https://www.yesproject.org/course-dates/)
 
-[Get in touch](https://www.yesproject.org/contact/) if you’re interested and we’ll tell you more.
+To find out more or to apply contact [nutan.patel@princes-trust.org.uk](nutan.patel@princes-trust.org.uk) or call 07717 488 544
 
 ### About The Prince's Trust
 
