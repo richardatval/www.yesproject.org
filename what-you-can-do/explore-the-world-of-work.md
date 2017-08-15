@@ -9,21 +9,24 @@ published: true
 
 {% include carousel.html slides="/img/explore-the-world-of-work.jpg|/img/explore-the-world-of-work-2.jpg|/img/explore-the-world-of-work-3.jpg" captions="Young People on Sytner BMW Tour|Young people doing lego project|Group filming"%}
 
-### What’s in it for me?
+### What's in it for me?
 
-Get a taste for the type of job you would like to do in the future by taking part in our tailor-made programme:
+YES Enterprise team offers a range of support to help you make your business idea a reality.
 
-### Work placements
+##### Enterprise Challenges
+These team activities are your chance to understand whether or not enterprise is for you and what starting a business involves. You will enhance
+your existing skills and find skills you never knew you had.
 
-Find out what it is like to be employed and see what type of job you would like to have. We will find you a suitable work placement based on what you would like to do and a trained mentor will support you throughout your placement. On completion, you will receive an achievement certificate and a reference to show employers you’re work ready.
+##### Business Start-up Workshops
+These workshops are your opportunity to explore new ideas and learn how to set up your own business. They’ll cover key topics like getting your company structure right, marketing and sales.
 
-### Work tours
-
-A work tour will guide you through the various departments and job roles that are involved in running a company. Tours are available in various industries including shops, car dealerships, restaurants and hotels. You will also take part in activities to help you prepare for work.
+##### Test Trade Days
+We’ll offer you the opportunity to test your product or service in the real world on our test trade days. You will pick up valuable feedback that will
+help to improve your offer.
 
 ### What support will I receive?
 
-You will receive support with job or college searches, completing application forms, CVs and interview techniques.
+You will receive one-to-one support to devlop your business plan, access finance and accelerate your business.
 
 ### When can I get started?
 
