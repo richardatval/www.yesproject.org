@@ -17,7 +17,7 @@ Benefit from a positive and interactive learning environment where additional su
 
 Choose the right programme for you:
 
-#### Engage<br>
+##### Engage<br>
 This 8-week course will help you to: 
 - Build your self confidence 
 - Learn to deal with difficult situations 
@@ -26,7 +26,7 @@ This 8-week course will help you to:
 
 You’ll receive certificates to recognise your achievements and be awarded with an accredited qualification in Employability Skills.
 
-#### Journey to work (J2W)<br>
+##### Journey to work (J2W)<br>
 J2W is a 6 month programme which will help you to: 
 - Get real work experience and gain vital skills
 - Meet local employers and learn about great job opportunities
