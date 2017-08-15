@@ -24,11 +24,15 @@ If you require any other types of support such as childcare, travel costs or oth
 
 We’ll do our best to eliminate any barriers you may face to accessing or staying involved with the YES Project.
 
-#### The Bridge is one of the YES Project partners that can provide you with one-to-one intensive support and help you to: 
+#### The Bridge East Midlands is a charity that can provide you with one-to-one intensive support including:
 
-- Find and access suitable accommodation and prevent homelessness 
-- Mediate between you and your family
-- Refer and support you to access specialist statutory services
-- Accompany you to appointments 
-- Work with you to build your confidence, self-esteem and help to motivate you
-- Work with you to improve your health and wellbeing
+- Finding and accessing suitable accommodation and preventing homelessness
+- Mediating between you and your family
+- Referring you to and supporting you in accessing specialist statutory services
+- Accompanying you to appointments
+- Working with you to build your confidence, self-esteem and motivation.
+
+To find out more or to access support contact Vickee:[vickinder.kainth@thebridge-eastmidlands.org.uk](vickinder.kainth@thebridge-eastmidlands.org.uk)or call
+01509 260500 / 07717 847118
+
+
