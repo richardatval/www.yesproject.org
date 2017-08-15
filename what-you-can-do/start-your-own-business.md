@@ -15,15 +15,15 @@ published: true
 
 YES Enterprise team offers a range of support to help you make your business idea a reality.
 
-#### Enterprise Challenges
+##### Enterprise Challenges
 
 These team activities are your chance to understand whether or not enterprise is for you and what starting a business involves. You will enhance your existing skills and find skills you never knew you had.
 
-#### Business Start-up Workshops
+##### Business Start-up Workshops
 
 These workshops are your opportunity to explore new ideas and learn how to set up your own business. They’ll cover key topics like getting your company structure right, marketing and sales.
 
-#### Test Trade Days
+##### Test Trade Days
 
 We’ll offer you the opportunity to test your product or service in the real world on our test trade days. You will pick up valuable feedback that will help to improve your offer.
 
