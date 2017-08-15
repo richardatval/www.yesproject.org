@@ -7,7 +7,7 @@ summary: >-
 published: true
 ---
 
-#### Get equipped with the skills, tools, training and confidence you need to secure a job with the Get into programme ran by The Prince’s Trust.
+#### Get equipped with the skills, training and confidence you need to secure a job with the 'Get into' ran by The Prince’s Trust.
 
 ![Young man shows younger woman how to operate drill](/img/engineering.jpg)
 
