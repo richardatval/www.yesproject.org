@@ -3,7 +3,7 @@ date: '2017-08-16 11:05 +0100'
 thumbnail-image: /img/Ricky-thumbnail.png
 layout: post
 published: true
-title: More young people are starting there own businesses - Ricky tells us why
+title: More young people are starting their own businesses - Ricky tells us why
 ---
 
 ![Ricky Shah YES Enterpise]({{site.baseurl}}/img/Ricky-fullsize-web.png)
