@@ -1,6 +1,6 @@
 ---
 date: '2017-08-16 11:05 +0100'
-thumbnail-image: /img/Ricky-thumbnail.png
+thumbnail-image: /img/ricky2-thumbnail.png
 layout: post
 published: true
 title: >-
@@ -8,7 +8,7 @@ title: >-
   why
 ---
 
-![Ricky Shah YES Enterpise]({{site.baseurl}}/img/Ricky-fullsize-web.png)
+![Ricky Shah YES Enterprise Officer]({{site.baseurl}}/img/ricky2-fullsize-web.png)
 
 ###### Ricky Shah (pictured), YES Project Enterprise Officer tells us why more and more young people are starting their own business and how you can too.
 
