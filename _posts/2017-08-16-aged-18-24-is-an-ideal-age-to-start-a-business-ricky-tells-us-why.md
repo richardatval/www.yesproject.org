@@ -51,5 +51,5 @@ Individuals who truly love entrepreneurship end up starting multiple businesses,
 Starting early means you have a longer timeframe to start other businesses! 
 None of these reasons is meant to imply that you cannot start a business later on in life but the skills and experience you pick up whether you succeed or fail at a young age – actually makes you more employable!
 
-Starting a business is not for everyone and it is certainly not easy, but the support available has certainly never been so good.   Speak to Ricky at YES Enterprise to find out more
-Either by email: [ricky.s@yesproject.org](ricky.s@yesproject.org) or mobile: 07393 147104
+**Starting a business is not for everyone and it is certainly not easy, but the support available has certainly never been so good.   Speak to Ricky at YES Enterprise to find out more
+Either by email: [ricky.s@yesproject.org](ricky.s@yesproject.org) or mobile: 07393 147104**
