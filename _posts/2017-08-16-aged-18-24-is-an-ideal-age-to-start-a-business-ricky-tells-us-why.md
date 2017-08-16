@@ -10,13 +10,13 @@ title: >-
 
 ![Ricky Shah YES Enterpise]({{site.baseurl}}/img/Ricky-fullsize-web.png)
 
-###### Ricky Shah (pictured), YES Project Enterprise Officer tells us why more and more young people are starting their own business and how he can help you start-up too.
+###### Ricky Shah (pictured), YES Project Enterprise Officer tells us why more and more young people are starting their own business and how he can help do the same.
 
 One in five 18-34 year-olds already have a business idea.  Young people nearly three times more likely to be unemployed than the rest of the population – the highest level in 20 years – and the volume of new companies rising each year, starting a business is becoming a more popular option.
 
 The number of self-employed young people has risen dramatically since the start of the economic crisis.
 
-Don’t be like me! Who had an idea when I was 20 but just did not have the belief to even look into it, never mind starting it.  With YES Enterprise – you have support to not only look into it but also get it off the ground.
+> Don’t be like me! Who had an idea when I was 20 but just did not have the belief to even look into it, never mind starting it.  With YES Enterprise – you have support to not only look into it but also get it off the ground.
 
 Whatever your own motivation, if you are going to start a business, there is an ideal time to do it -- while you are still in your youth. Why is that? – Well here are 5 Reasons!
 
