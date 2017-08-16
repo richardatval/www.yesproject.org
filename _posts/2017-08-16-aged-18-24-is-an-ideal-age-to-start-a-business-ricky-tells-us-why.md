@@ -3,7 +3,9 @@ date: '2017-08-16 11:05 +0100'
 thumbnail-image: /img/Ricky-thumbnail.png
 layout: post
 published: true
-title: More young people are starting their own business - Ricky tells us why
+title: >-
+  Young people starting their own business is more popular than ever - Ricky
+  tells us why
 ---
 
 ![Ricky Shah YES Enterpise]({{site.baseurl}}/img/Ricky-fullsize-web.png)
