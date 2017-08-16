@@ -2,7 +2,7 @@
 date: '2017-08-16 11:05 +0100'
 thumbnail-image: /img/Ricky-thumbnail.png
 layout: post
-published: false
+published: true
 title: Aged 18-24 is an ideal age to start a business - Ricky tells us why
 ---
 
