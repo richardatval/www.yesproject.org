@@ -10,7 +10,7 @@ title: >-
 
 ![Ricky Shah YES Enterpise]({{site.baseurl}}/img/Ricky-fullsize-web.png)
 
-###### Ricky Shah (pictured), YES Project Enterprise Officer tells us why more and more young people are starting their own business and how he can help do the same.
+###### Ricky Shah (pictured), YES Project Enterprise Officer tells us why more and more young people are starting their own business and how you can too.
 
 One in five 18-34 year-olds already have a business idea.  Young people nearly three times more likely to be unemployed than the rest of the population – the highest level in 20 years – and the volume of new companies rising each year, starting a business is becoming a more popular option.
 
