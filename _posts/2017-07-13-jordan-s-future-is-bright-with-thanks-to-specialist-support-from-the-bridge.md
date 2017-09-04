@@ -18,4 +18,6 @@ Jordan was supported to attend the GP to obtain a gym pass and counselling to he
 
 Jordan and his mum also improved their communication through the support of mediation, which resulted in less arguments at home.
 
-Jordan went on to enrolling with a college to achieve his functional skills in Maths and English and he is now working towards achieving his GCSE’s. Upon leaving the Yes Project, Vickee referred Jordan to the Social Inclusion Team at his college to ensure he is being provided support going forward
+Jordan went on to enrolling with a college to achieve his functional skills in Maths and English and he is now working towards achieving his GCSE’s. Upon leaving the Yes Project, Vickee referred Jordan to the Social Inclusion Team at his college to ensure he is being provided support going forward.
+
+> The YES Project has supported me in so many ways...I can take part in a range of activities such as creating music, graffiti and other arts and it also helped me to get back into the gym. It has helped me get my confidence back.
