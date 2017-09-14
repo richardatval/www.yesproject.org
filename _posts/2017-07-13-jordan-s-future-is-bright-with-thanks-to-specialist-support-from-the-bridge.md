@@ -1,11 +1,11 @@
 ---
 date: '2017-07-13 11:58 +0100'
-thumbnail-image: /img/JP_Pic-thumbnail.jpg
+thumbnail-image: /img/BenSTA-thumbnail.png
 layout: post
 published: true
 title: Ben's future is bright after receiving specialist support
 ---
-![JP_Pic-fullsize-web.jpg]({{site.baseurl}}/img/JP_Pic-fullsize-web.jpg)
+![Soft Touch Arts Music]({{site.baseurl}}/img/BenSTA-fullsize-web.png)
 
 Ben was referred by the YES Project to The Bridge for specialist support as he has autism and suffers with anxiety and depression. 
 
