@@ -27,7 +27,7 @@ summary: Latest news from the YES Project.
   {% else %}
   {% endif %}
   {% for item in (1..paginator.total_pages) %}
-  <li><a {% if paginator.page == item %}class="active" href="#"{% else %} href="{{ site.baseurl }}/news{% if item != 1%}/{{ item }}{% endif %}"{% endif %}>{{item}}</a></li>
+  <li><a {% if paginator.page == item %}class="active" href="#"{% else %} href="{% if item !=1 %}{{ site.baseurl }}/news/{{ item }}{% else %}{{ site.baseurl }}/news/{% endif %}"{% endif %}>{{item}}</a></li>
   {% endfor %}
   {% if paginator.next_page %}
     <li><a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">Next</a></li>
