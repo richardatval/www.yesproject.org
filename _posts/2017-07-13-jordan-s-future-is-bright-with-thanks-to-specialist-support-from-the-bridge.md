@@ -7,7 +7,7 @@ title: Ben's future is bright after receiving specialist support
 ---
 ![Soft Touch Arts Music]({{site.baseurl}}/img/BenSTA-fullsize-web.png)
 
-Ben was referred by the YES Project to The Bridge for specialist support as he has autism and suffers with anxiety and depression. 
+Ben (not pictured) was referred by the YES Project to The Bridge for specialist support as he has autism and suffers with anxiety and depression. 
 
 The Bridge’s Intensive Young Person’s Support Worker Vickee Kainth, started to meet with Ben and his mum who would be present to support him. 
 
