@@ -3,7 +3,7 @@ date: '2017-07-13 11:58 +0100'
 thumbnail-image: /img/JP_Pic-thumbnail.jpg
 layout: post
 published: true
-title: Jordan's future is bright after receiving specialist support
+title: Ben's future is bright after receiving specialist support
 ---
 ![JP_Pic-fullsize-web.jpg]({{site.baseurl}}/img/JP_Pic-fullsize-web.jpg)
 
