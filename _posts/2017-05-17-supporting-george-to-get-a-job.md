@@ -5,7 +5,7 @@ thumbnail-image: >-
   35-thumbnail.jpg
 layout: post
 published: true
-title: Supporting Gerard to get a job
+title: Supporting George to get a job
 ---
 ![David Weight - VAL Sytner BMW Yes Project - November 2016 35-fullsize-web.jpg]({{site.baseurl}}/img/David Weight - VAL Sytner BMW Yes Project - November 2016 35-fullsize-web.jpg)
 
