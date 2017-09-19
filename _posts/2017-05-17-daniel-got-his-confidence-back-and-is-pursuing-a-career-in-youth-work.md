@@ -28,3 +28,5 @@ Daniel, aged 21 commented:
 The YES Team programme lead by Warwickshire College helps young people develop lide skills and motivates them to take the next steps in life.
 
 If you’re interested in finding out more email [mjesson@warwickshire.ac.uk](mailto:mjesson@warwickshire.ac.uk) or [read more.](https://www.yesproject.org/what-you-can-do/get-motivated-to-succeed/)
+
+The name of the person in this case study has been changed.
