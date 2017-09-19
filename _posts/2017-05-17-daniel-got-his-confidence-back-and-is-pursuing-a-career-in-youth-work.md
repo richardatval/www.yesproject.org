@@ -7,7 +7,7 @@ title: Daniel got his confidence back and is pursuing a career in youth work
 ---
 ![David Weight - YES Project Eyres Monsell February 2017 74-fullsize-web.jpg]({{site.baseurl}}/img/David Weight - YES Project Eyres Monsell February 2017 74-fullsize-web.jpg)
 
-Daniel had been out of work for 6 months since losing his job at British Gas.  The experience had made him feel depressed, lose his confidence and not want to leave the house.
+Daniel had been out of work for 6 months since losing his job at British Gas.  The experience had made him feel depressed, lose his confidence and not want to leave the house. 
 
 He had fallen into a bad routine of staying up late playing video games until 4am as he had nothing to get up for in the morning.
 
