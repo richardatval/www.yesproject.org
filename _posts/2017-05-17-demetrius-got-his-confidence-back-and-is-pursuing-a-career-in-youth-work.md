@@ -1,25 +1,25 @@
 ---
 date: '2017-05-17 10:45 +0100'
-thumbnail-image: /img/Demetrius-thumbnail.png
+thumbnail-image: /img/David Weight - YES Project Eyres Monsell February 2017 74-thumbnail.jpg
 layout: post
 published: true
-title: Demetrius got his confidence back and is pursuing a career in youth work
+title: Daniel got his confidence back and is pursuing a career in youth work
 ---
-![Demetrius taking parting in the YES Team]({{site.baseurl}}/img/Demetrius-fullsize-web.png)
+![David Weight - YES Project Eyres Monsell February 2017 74-fullsize-web.jpg]({{site.baseurl}}/img/David Weight - YES Project Eyres Monsell February 2017 74-fullsize-web.jpg)
 
-Demetrius had been out of work for 6 months since losing his job at British Gas.  The experience had made him feel depressed, lose his confidence and not want to leave the house.
+Daniel had been out of work for 6 months since losing his job at British Gas.  The experience had made him feel depressed, lose his confidence and not want to leave the house.
 
 He had fallen into a bad routine of staying up late playing video games until 4am as he had nothing to get up for in the morning.
 
 The Job Centre referred Demetrius to the YES Project where he enrolled for the YES Team programme that started in January 2017.
 
-At first, Demetrius was apprehensive about the programme as he doesn’t like group situations.  However, he went along with an open mind.
+At first, Daniel was apprehensive about the programme as he doesn’t like group situations.  However, he went along with an open mind.
 
-The programme has helped Demetrius get his confidence back, make friends and become more sociable.  From his experience, Demetrius would now like to pursue a career in youth work and help to inspire other young people.
+The programme has helped Demetrius get his confidence back, make friends and become more sociable.  From his experience, Daniel would now like to pursue a career in youth work and help to inspire other young people.
 
-Demetrius is currently on work experience with the Princes Trust as an assistant to the Youth Co-ordinator on a Team 119 programme working with 16-25 year olds.
+Daniel is currently on work experience with the Princes Trust as an assistant to the Youth Co-ordinator on a Team 119 programme working with 16-25 year olds.
 
-Demetrius, aged 21 commented:
+Daniel, aged 21 commented:
 
 > “YES Team gave me a purpose to get out the house. I’ve got my confidence back and I’m more sociable. I’d like a career in youth work.”
 
