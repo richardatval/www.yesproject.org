@@ -15,7 +15,7 @@ published: true
 
 <section class="band" id="projects">
 <div class="container teasers-container">
-{% include teaser.html title="YES Event" img="/img/thumbnail.png"  text="Come along to the YES Event on Friday 8 December 2pm-5pm. Find out what support is available to help you find employment and get inspired by the YES Young Person of the Year Awards. " url="/_posts/2017-11-02-yes-event" buttontext="Learn more"%}
+{% include teaser.html title="YES Event" img="/img/thumbnail.png"  text="Come along to the YES Event on Friday 8 December. Find out what support is available to help you find employment and get inspired by the YES Young Person of the Year Awards. " url="/_posts/2017-11-02-yes-event" buttontext="Learn more"%}
 {% include teaser.html title="What you can do" img="/img/thumbnails/yes-media-thumbnail.jpg"  text="You can achieve qualifications, learn new skills and prepare for work by enrolling on one of many courses." url="/what-you-can-do" buttontext="Learn more" url="/what-you-can-do" %}
 <div class="teaser-wrapper">
 {% include facebookfeed.html %}
