@@ -1,11 +1,12 @@
 ---
 date: '2017-12-19 12:35 +0000'
-thumbnail-image: /img/LEE Web-thumbnail.png
+thumbnail-image: /img/LEE-Web1-thumbnail.png
 layout: post
 published: true
 title: YES Young Person of the Year Awards 2017
 ---
-![LEE Web-fullsize-web.png]({{site.baseurl}}/img/LEE Web-fullsize-web.png)
+![LEE-Web1-fullsize-web.png]({{site.baseurl}}/img/LEE-Web1-fullsize-web.png)
+Pictured Chris Gray, Lee Miles and Dave Sharpe 
 
 #### Ten young people overcoming obstacles to employment have been named as winners at Leicestershire’s first YES Young Person of the Year Awards.
 
