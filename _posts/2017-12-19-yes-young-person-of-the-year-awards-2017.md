@@ -2,7 +2,7 @@
 date: '2017-12-19 12:35 +0000'
 thumbnail-image: /img/placeholder.jpg
 layout: post
-published: false
+published: true
 title: YES Young Person of the Year Awards 2017
 ---
 ### Ten young people overcoming obstacles to employment have been named as winners at Leicestershire’s first YES Young Person of the Year Awards.
@@ -46,6 +46,3 @@ More than 80 young people attended the event, designed for the winners’ storie
 ### About the YES Project
 
 The YES Project (Youth Employability Support) helps people aged 15 to 24 and is backed by nine youth organisations and charities. It is managed by Voluntary Action LeicesterShire (VAL). VAL, a local charity, secured £1.9m funding from The Big Lottery and European Social Fund in early 2016 with the aim to transform the futures of 400 local young people who are currently the furthest from being able to move into employment.
-
-
-
