@@ -1,10 +1,12 @@
 ---
 date: '2017-12-19 12:35 +0000'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/LEE Web-thumbnail.png
 layout: post
 published: true
 title: YES Young Person of the Year Awards 2017
 ---
+![LEE Web-fullsize-web.png]({{site.baseurl}}/img/LEE Web-fullsize-web.png)
+
 ### Ten young people overcoming obstacles to employment have been named as winners at Leicestershire’s first YES Young Person of the Year Awards.
 
 At an event at Leicester Adult Education College the ten winners were celebrated as inspirations for other Leicestershire young people struggling to get into work or further education.
