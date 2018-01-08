@@ -6,21 +6,20 @@ section.band#projects {
 	background: whitesmoke;
 	padding-top: $gutter;
 	padding-bottom: $gutter; 
-	
-	#fb-teaser {
-		blockquote {
-			text-indent: -1000%;
-			&:before {
-				content: "";
-			}
+}
+
+#fb-teaser {
+	blockquote {
+		text-indent: -1000%;
+		&:before {
+			content: "";
 		}
-		overflow: hidden;
-		margin-left: 0;
-		margin-right: 0;
-		min-height: 400px;
-		padding: 0;
 	}
-	
+	overflow: hidden;
+	margin-left: 0;
+	margin-right: 0;
+	min-height: 600px;
+	padding: 0;
 }
 
 section.band#updates {

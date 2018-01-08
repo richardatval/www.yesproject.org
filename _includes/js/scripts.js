@@ -88,7 +88,6 @@ var lastWindowWidth = $window.width();
 $(window).resize(function() {
     var windowWidth = $window.width();
 
-
     if (lastWindowWidth !== windowWidth) {
     var container_width = $('#fb-teaser').width();    
     $('#fb-teaser').html('<div class="fb-page" data-href="https://www.facebook.com/yourprojectyes" data-width="' + container_width + '" data-height="450" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div></div>');
