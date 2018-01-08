@@ -3,6 +3,7 @@ date: '2017-12-19 12:35 +0000'
 thumbnail-image: /img/LEE-Web3-thumbnail.png
 layout: post
 published: true
+summary: On 14 December, the YES Team Programme, Loughborough hosted an awards ceremony to celebrate the achievements of ten young people that completed the programme.
 title: YES Young Person of the Year Awards 2017
 ---
 ![LEE-Web3-fullsize-web.png]({{site.baseurl}}/img/LEE-Web3-fullsize-web.png)

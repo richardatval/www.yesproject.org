@@ -2,7 +2,7 @@
 # Layouts must stay in HTML
 ---
 {% include header.html %}
-<main role="main" class="page-content m-scene no-sidebars page-news">
+<main role="main" class="page-content m-scene sidebar-second  one-sidebar page-news">
 	<div  class="scene_element scene_element--fadein">
 		<div class="container">
 			<section id="content">
@@ -11,6 +11,11 @@
 					{{ content }}
 				</div>
 			</section>
+			<aside id="sidebar-second">
+				<div class="box box-default">
+				{% include facebookfeed.html %}
+			</aside>
+		</div>
 		</div>
 	</div>
 </main>

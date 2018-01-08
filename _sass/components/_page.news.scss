@@ -4,4 +4,15 @@ h1 {
 margin-bottom: $gutter;
 }
 }
+.teaser-wrapper {
+@include media($desktop) {
+		width: 49%;
+}
+}
+
+#sidebar-second {
+	@include media($tablet) {
+		margin-top: 70px;
+	}
+}
 }
