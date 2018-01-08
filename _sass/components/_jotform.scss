@@ -1,0 +1,27 @@
+input[name="website"] {
+	display: none;
+}
+
+form.jotform-form {
+	ul {
+		list-style: none;
+		padding-left: 0;
+		li {
+			padding-left: 0;
+		}
+	}
+	.form-checkbox-item {
+		input[type="checkbox"] {
+			margin-top: 0.5em;
+			float: left;
+		}
+		label {
+			margin-top: 0;
+			float: left;
+		}
+	}
+	.form-buttons-wrapper {
+		padding-top: 1em;
+		clear: both;
+	}
+}
