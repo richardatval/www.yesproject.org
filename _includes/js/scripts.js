@@ -95,6 +95,22 @@ $(window).resize(function() {
 }
 });
 
+$(function() {
+	$('.modal-trigger').click(function(){
+		$('.modal').toggleClass('is-active');
+});
+
+  $(".modal-fade-screen, .modal-close").on("click", function() {
+    $('.modal').removeClass('is-active');
+  });
+
+  $(".modal-inner").on("click", function(e) {
+    e.stopPropagation();
+	$('iframe')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');    
+  });
+});
+
+
 (function (jQuery) {
   jQuery.mark = {
     jump: function (options) {

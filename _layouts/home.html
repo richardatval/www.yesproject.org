@@ -11,9 +11,7 @@
 					<div class="hero-copy">
 						<h1>{{ page.title }}</h1>
 						<p>{{ page.hero-copy }}</p>	
-						{% if page.hero-link-copy and page.hero-link-url != "" %}
-						<p><a href="{{ page.hero-link-url }}" class="button">{{ page.hero-link-copy }}</a></p>
-						{% endif %}
+					     <p><a href="javascript:void(0)" class="button modal-trigger">Watch the video</a></p>
 					</div>
 				</div>
 			</div>
@@ -23,5 +21,15 @@
 </div>
 {{ content }}
 </main>
+<div class="modal">
+  <div class="modal-fade-screen">
+    <div class="modal-inner">
+      <a href="javascript:void(0)" class="modal-close" for="modal-1"></a>
+      <div class="modal-content">
+      	{% include youtube.html url="https://www.youtube.com/embed/Ro6BH9toqko" %}
+      </div>
+    </div>
+  </div>
+</div>
 {% include footer.html %}
 {% include closure.html %}

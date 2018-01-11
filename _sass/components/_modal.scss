@@ -18,7 +18,7 @@
   $medium-screen: em(640) !default;
   $large-screen: em(860) !default;
   $base-font-color: $dark-gray !default;
-  $modal-padding: 3em;
+  $modal-padding: 1.5em;
   $modal-background: $base-background-color;
   $modal-close-color: $light-gray;
   $modal-image-height: 135px;
@@ -40,6 +40,7 @@
   }
 
   .modal-trigger {
+	  display: inline; 
   }
 
   .modal-fade-screen { // overlay
@@ -53,7 +54,7 @@
     z-index: -99999999999;
 
     @include media($large-screen) {
-      padding-top: 10em;
+      padding-top: 4em;
     }
 
     .modal-bg {
@@ -63,8 +64,9 @@
   }
 
   .modal-close {
-    @include position(absolute, ($modal-padding /2) ($modal-padding /2) null null);
-    @include size(1.5em);
+	  z-index: 100000;
+    @include position(absolute, ($modal-padding /4) ($modal-padding /4) null null);
+    @include size(1em);
     background: $modal-background;
     cursor: pointer;
 
@@ -72,7 +74,7 @@
     &:before {
       @include position(absolute, 3px 3px 0 50%);
       @include transform(rotate(45deg));
-      @include size(0.15em 1.5em);
+      @include size(0.15em 1em);
       background: $modal-close-color;
       content: '';
       display: block;
@@ -95,20 +97,18 @@
     border-radius: $base-border-radius;
     margin-top: 0;
     margin: auto;
-    max-height: 95%;
     overflow: auto;
     padding: $modal-padding / 2;
     position: relative;
     width: 95%;
 
     @include media($medium-screen) {
-      max-height: 70%;
       padding: $modal-padding;
-      width: 80%;
+      width: 90%;
     }
 
     @include media($large-screen) {
-      width: 80%;
+      width: 980px;
     }
 
     h1 {
@@ -130,7 +130,6 @@
       color: $base-font-color;
 
       @include media($medium-screen) {
-        @include columns(2 8em);
       }
     }
 
@@ -146,15 +145,16 @@
     }
   }
 
-  .modal-state:checked + .modal-fade-screen {
-    opacity: 1;
-    visibility: visible;
-    z-index: 99999999999;
-  }
+}
 
-  .modal-state:checked + .modal-fade-screen .modal-inner {
-    top: 0.5em;
-  }
+.modal.is-active .modal-fade-screen {
+  opacity: 1;
+  visibility: visible;
+  z-index: 99999999999;
+}
+
+.modal.is-active .modal-fade-screen .modal-inner {
+  top: 0.5em;
 }
 
 .modal-open {

@@ -8,7 +8,7 @@ published: true
 ---
 ### At the Youth Employability Support (YES) Project, we support young people age 15-24 years old to take steps towards employment.
 
-{% include youtube.html url="https://www.youtube.com/embed/_UOQhY6rdPc" %}
+{% include youtube.html url="https://www.youtube.com/embed/Ro6BH9toqko" %}
 
 Our project team is made up of nine youth organisation and charities from across Leicester and Leicestershire. Together, we’re the YES Project.
 
