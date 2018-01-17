@@ -20,9 +20,11 @@ By taking part in Get Into Retail, YES Media, and Soft Touch Arts, Andrew has ga
 
 In addition, Andrew has become a member of the Youth Leadership Group (YLG) for the YES Project. This has given him the opportunity to have his voice heard in shaping the project and provided him with leadership experience and a network of friends. 
 
-Andrew says, “the YLG has helped me by keeping me busy and being part of a chain of situations that has since led to a paid part time job”
+Andrew says, 
 
-For Andrew, the Yes Project “came along at the right time.” He said, 
+> “The YLG has helped me by keeping me busy and being part of a chain of situations that has since led to a paid part time job”
+
+For Andrew, the Yes Project came along at the right time. He said, 
 
 > “It’s made me feel a lot happier, made me feel determined and helped with my confidence. I think I’ve come a long way. I’m proud of the video CV I created with Seed and I have been working on a short film with Soft Touch Arts.”
 
