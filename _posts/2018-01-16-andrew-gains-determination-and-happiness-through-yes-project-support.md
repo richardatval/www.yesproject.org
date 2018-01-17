@@ -34,6 +34,6 @@ For any young person thinking of joining the YES Project, Andrew advises:
 
 > “Do it.  It’s a great boost to get you closer to what you want to do. You will make new friends and most of all, it will make you happy.”
 
-In December 2017 Andrew was a finalist in the YES Young Person of the Year Awards where 10 young people received awards for overcoming obstacles to work. Read more http://bit.ly/2DleE0x
+In December 2017 Andrew was a finalist in the YES Young Person of the Year Awards where 10 young people received awards for overcoming obstacles to work. [Read more about the awards.](http://bit.ly/2DleE0x)
 
 _This article written by Siân Hewitt Youth Leadership Group_
