@@ -5,8 +5,8 @@ layout: post
 published: true
 title: Young people starting their own business is on the increase
 summary: >-
-  Ricky Shah, YES Project Enterprise Officer tells us why more and more young
-  people are starting their own business and how you can too.
+  Ricky Shah, YES Project Enterprise Officer tells us why more young people are
+  starting their own business and how you can too.
 ---
 
 ![Ricky Shah YES Enterprise Officer]({{site.baseurl}}/img/ricky2-fullsize-web.png)
