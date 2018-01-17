@@ -1,12 +1,12 @@
 ---
 date: '2018-01-16 14:11 +0000'
-thumbnail-image: /img/Andrew%20Plant-thumbnail.jpg
+thumbnail-image: /img/Andrew-Plant-thumbnail.png
 layout: post
 published: true
 title: Andrew gains happiness through YES Project support
 summary: 'Before joining the YES Project, Andrew, aged 23, was unemployed and unhappy.'
 ---
-![]({{site.baseurl}}/img/Andrew%20Plant-fullsize-web.jpg)
+![Andrew-Plant-fullsize-web.png]({{site.baseurl}}/img/Andrew-Plant-fullsize-web.png)
 
 Before joining the YES Project, Andrew, aged 23, was unemployed and unhappy.  He said, 
 
