@@ -4,8 +4,8 @@ thumbnail-image: /img/LEE-Web3-thumbnail.png
 layout: post
 published: true
 summary: >-
-  Ten young people overcoming obstacles to employment have been named as winners
-  at Leicestershire’s first YES Young Person of the Year Awards.
+  Ten young people overcoming obstacles to employment have been named as
+  winners.
 title: YES Young Person of the Year Awards 2017
 ---
 ![LEE-Web3-fullsize-web.png]({{site.baseurl}}/img/LEE-Web3-fullsize-web.png)
