@@ -6,6 +6,8 @@ published: true
 title: Andrew gains happiness through YES Project support
 summary: 'Before joining the YES Project, Andrew, aged 23, was unemployed and unhappy.'
 ---
+Andrew Plant pictured with Zuli Stannard from the YES Project 
+
 ![Andrew-Plant-fullsize-web.png]({{site.baseurl}}/img/Andrew-Plant-fullsize-web.png)
 
 Before joining the YES Project, Andrew, aged 23, was unemployed and unhappy.  He said, 
