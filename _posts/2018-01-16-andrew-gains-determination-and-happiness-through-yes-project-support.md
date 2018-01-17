@@ -36,4 +36,4 @@ For any young person thinking of joining the YES Project, Andrew advises:
 
 In December 2017 Andrew was a finalist in the YES Young Person of the Year Awards where 10 young people received awards for overcoming obstacles to work. Read more http://bit.ly/2DleE0x
 
-This article written by Siân Hewitt Youth Leadership Group
+_This article written by Siân Hewitt Youth Leadership Group_
