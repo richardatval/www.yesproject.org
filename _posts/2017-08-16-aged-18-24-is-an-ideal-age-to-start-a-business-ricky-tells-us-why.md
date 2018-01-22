@@ -3,9 +3,10 @@ date: '2017-08-16 11:05 +0100'
 thumbnail-image: /img/ricky2-thumbnail.png
 layout: post
 published: true
-title: >-
-  Young people starting their own business is on the increase - Ricky tells us
-  why
+title: Young people starting their own business is on the increase
+summary: >-
+  Ricky Shah, YES Project Enterprise Officer tells us why more young people are
+  starting their own business and how you can too.
 ---
 
 ![Ricky Shah YES Enterprise Officer]({{site.baseurl}}/img/ricky2-fullsize-web.png)
