@@ -1,10 +1,20 @@
+#videos {
+    .teaser-wrapper {
+        .teaser {
+            height: auto;
+        }
+        @include media($desktop) {
+            width: 49%;
+        }
+    }
+}
+
 .video-wrapper {
   height: 0;
   margin-bottom: $gutter;
   overflow: hidden;
   padding-bottom: 56.25%; // For ratio 16:9. 75% if ratio is 4:3
   position: relative;
-
   embed,
   object,
   iframe {
