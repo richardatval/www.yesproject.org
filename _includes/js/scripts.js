@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    if (document.location.pathname == "/videos/") {
+    if (document.location.pathname == "/yes-films/") {
         $.getJSON("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=30&playlistId=PLpaj2LoHcuo-QKBv3L0NKWPZX0Dq5qwre&fields=items&key=AIzaSyB3lVlBUFAYDVTwWSohEqoAV_lyNbUeq_w", function(result) {
             $.each(result.items, function(i, item) {
                 $("#videos").append('<div class="teaser-wrapper"><div class="teaser">' + '<a data-id="' + item.contentDetails.videoId + '" class="modal-trigger" href="javascript:void(0);"><img src="https://img.youtube.com/vi/' + item.contentDetails.videoId + '/0.jpg"></a><a data-id="' + item.contentDetails.videoId + '" class="modal-trigger" href="javascript:void(0);"><h4>'+ item.snippet.title + '</a></h4><p>' + item.snippet.description.split(' ', 15).join(' ') + '…</p></div></div>');

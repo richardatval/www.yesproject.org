@@ -27,5 +27,7 @@
       subhref: "/course-dates"
     - subtitle: "Get started"
       subhref: "/get-started"
+- title: "Yes Films"
+  href: "/yes-films"
 - title: "Contact"
   href: "/contact"
