@@ -1,0 +1,14 @@
+.page-videos {
+    h1.title {
+        margin-bottom: $gutter;
+    }
+    h3.summary {
+        padding-left: 20px;
+        max-width: 900px;
+    }
+    .teaser-wrapper {
+        @include media($desktop) {
+            width: 49%;
+        }
+    }
+}

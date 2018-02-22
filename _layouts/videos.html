@@ -1,0 +1,26 @@
+---
+# Layouts must stay in HTML
+---
+{% include header.html %}
+
+<main role="main" class="page-videos m-scene no-sidebars">
+	<div  class="scene_element scene_element--fadein">
+		<div class="container">
+			<h1 class="title">{{ page.title }}</h1>
+			<section id="content">
+					{{ content }}
+			</section>
+		</div>
+	</div>
+</main>
+<div class="modal">
+  <div class="modal-fade-screen">
+    <div class="modal-inner">
+      <a href="javascript:void(0)" class="modal-close" for="modal-1"></a>
+      <div class="modal-content">
+      </div>
+    </div>
+  </div>
+</div>
+{% include footer.html %}
+{% include closure.html %}
