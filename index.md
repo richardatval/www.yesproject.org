@@ -15,7 +15,7 @@ published: true
 
 <section class="band" id="projects">
 <div class="container teasers-container">
-{% include teaser.html title="YES Young Person of the Year 2017" img="/img/LEE-Web3-thumbnail.png"  text="Ten young people overcoming obstacles to employment have been named as winners." url="/2017/12/19/yes-young-person-of-the-year-awards-2017" buttontext="Learn more"%}
+{% include teaser.html title="Social Boost" img="/img/thumbnails/social-boost-thumbnail.png"  text="Learn how to make money from social media by joining Social Boost. This 3-month programme will give you the experience and skills to run your own social media company." url="/boost" %}
 {% include teaser.html title="What you can do" img="/img/thumbnails/yes-media-thumbnail.jpg"  text="You can achieve qualifications, learn new skills and prepare for work by enrolling on one of many courses." url="/what-you-can-do" buttontext="Learn more" url="/what-you-can-do" %}
 {% include teaser.html title="Specialist support" img="/img/thumbnails/specialist-support-2.jpg"  text="Our mentoring and specialist support services will help you overcome challenges that are preventing you from finding a job." url="/who-we-help/" buttontext="Learn more"%}
 </div>
