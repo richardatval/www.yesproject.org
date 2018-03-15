@@ -3,7 +3,7 @@ date: '2018-03-15 12:03 +0000'
 thumbnail-image: /img/socialboosthumbnail.png
 layout: post
 published: true
-title: New course teaching you how to make money from social media
+title: Learn how to make money from social media
 summary: >-
   Social Boost is a three-month programme that will teach unemployed young
   people how to use social media professionally
