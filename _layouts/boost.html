@@ -1,0 +1,35 @@
+---
+# Layouts must stay in HTML
+---
+{% include header.html %}
+<main role="main" class="page-content m-scene no-sidebars page-boost">
+	<div  class="scene_element scene_element--fadein">
+		<section class="band hero-band">
+		<div class="container">
+			<header class="hero {{ page.hero-classes }}">
+				<div class="hero-inner">
+					<div class="hero-copy">
+						<h1>{{ page.title }}</h1>
+						<p>{{ page.hero-copy }}</p>	
+					     <p><a href="javascript:void(0)" class="button modal-trigger">Watch the Ad</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	</header>
+</div>
+{{ content }}
+</main>
+<div class="modal">
+  <div class="modal-fade-screen">
+    <div class="modal-inner">
+      <a href="javascript:void(0)" class="modal-close" for="modal-1"></a>
+      <div class="modal-content">
+      	{% include youtube.html url="https://www.youtube.com/embed/VS6xGmipVqQ" %}
+      </div>
+    </div>
+  </div>
+</div>
+{% include footer.html %}
+{% include closure.html %}

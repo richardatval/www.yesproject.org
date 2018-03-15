@@ -1,0 +1,131 @@
+.page-boost {
+    
+    section {
+        h1, h2, h3, h4  {
+            color: $brand-primary;
+        }
+    }
+    
+    section.hero-band {
+        background: #1D1E1C;
+        background-image: url("/img/banners/space.png");
+    }
+    
+    .introtext {
+        font-size: modular-scale(1);
+    }
+    
+    
+    #maintext {
+        .container {
+            > div {
+                @include fill-parent();
+                @include media($desktop) {
+                    @include span-columns(8);
+                    @include shift(2);
+                }
+                > div {
+                    padding-left: 20px;
+                    padding-right: 20px;
+                    >ul {
+                        padding-left: 20px;
+                        list-style: none;
+                        margin-bottom: 20px;
+                        li {
+                            padding-left: 1em;
+                        }
+                        li:before {
+                            content: "–";
+                            color: $brand-primary;
+                            width: 5px;
+                            padding-right: 1.15em;
+                            margin-left: -1.65em;
+                        }
+                    }
+                }
+            } 
+        }
+    }
+    
+    .hero {  
+        background: transparent;
+        background-position: top right;
+        background: transparent url("/img/banners/spaceship.png") no-repeat top center;
+        background-size: 100%;
+        @include media(950px) {
+            background-size: auto;
+            background-position: top right;
+        }
+        
+        h1 {
+            text-shadow: 0px 3px 9px rgba(0, 0, 0, 1);
+        }
+        
+      
+        .hero-inner {
+            .hero-copy {
+                padding: 20px;
+                background: transparent;
+                text-align: center;
+                @include media(950px) {
+                    text-align: left;
+                }
+                @include media(1020px) {
+                    width: 50%;
+                    h1 {
+                        font-size: 2.5em;
+                    }
+                }
+            }
+        }
+    }
+    
+
+    section.band#maintext {
+        background: #fff;
+        padding-top: $gutter*2;
+        padding-bottom: $gutter; 
+    }
+    
+    section.band#boostfooter {
+        .container {
+            > div {
+                @include fill-parent();
+                @include media($desktop) {
+                    @include span-columns(8);
+                    @include shift(2);
+                }
+                > div {
+                    padding-left: 20px;
+                    @include media(670px)  {
+                        padding-right: 40%;
+                    }
+                }
+            }
+            
+            @include media(670px) {
+                background: url("/img/ui/spaceship-footer.png") no-repeat 80% bottom;
+                min-height: 313px;
+            }
+        }
+        padding-bottom: 40px;
+         @include media(670px) {
+             padding-bottom: 0;
+         }
+        padding-top: 40px;
+        background-color: lighten($brand-primary, 50%);
+        border-bottom: 60px solid $green;
+    }
+}
+
+.page-boost {
+    .hero-copy {
+        a.button {
+            background: $brand-primary;
+            color: #fff;
+            &:hover, &:focus {
+                background: darken($brand-primary, 20%);
+            }
+        }
+    }
+}
