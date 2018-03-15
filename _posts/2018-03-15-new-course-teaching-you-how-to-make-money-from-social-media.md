@@ -1,10 +1,12 @@
 ---
 date: '2018-03-15 12:03 +0000'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/socialboosthumbnail.png
 layout: post
 published: false
 title: New course teaching you how to make money from social media
 ---
+![socialboostlarge.png]({{site.baseurl}}/img/socialboostlarge.png)
+
 The YES Project has launched a new enterprise course for 15-24-year olds called Social Boost.
 
 Social Boost is a three-month programme that will teach unemployed young people how to use social media professionally and set up their own social media business.
