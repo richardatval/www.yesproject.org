@@ -4,6 +4,9 @@ thumbnail-image: /img/socialboosthumbnail.png
 layout: post
 published: false
 title: New course teaching you how to make money from social media
+summary: >-
+  Social Boost is a three-month programme that will teach unemployed young
+  people how to use social media professionally
 ---
 ![socialboostlarge.png]({{site.baseurl}}/img/socialboostlarge.png)
 
