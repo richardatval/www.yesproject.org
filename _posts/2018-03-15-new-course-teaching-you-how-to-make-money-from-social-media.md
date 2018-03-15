@@ -2,7 +2,7 @@
 date: '2018-03-15 12:03 +0000'
 thumbnail-image: /img/socialboosthumbnail.png
 layout: post
-published: false
+published: true
 title: New course teaching you how to make money from social media
 summary: >-
   Social Boost is a three-month programme that will teach unemployed young
@@ -26,6 +26,3 @@ He comments;
 > I will be working closely and supporting the young people throughout the course. I've already had lots of interest from local businesses that are willing to work with young person on YES Enterprise."
 
 [Learn more about Social Boost and how to become a Booster](https://www.yesproject.org/boost/)
-
-
-
