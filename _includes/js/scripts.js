@@ -13,16 +13,12 @@ $(document).ready(function() {
                 $('.modal').toggleClass('is-active');
             });
 
-            $(".modal-fade-screen, .modal-close").on("click", function() {
+            $(".modal-fade-screen, .modal-close").on("click", function(e) {
                 $('.modal').removeClass('is-active');
                 $('.modal-content').empty();
-            });
-
-            $(".modal-inner").on("click", function(e) {
                 e.stopPropagation();
-                $('iframe')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+                $('iframe#youtube')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
             });
-        
         });
     }
 
@@ -130,11 +126,8 @@ $(function() {
         $('.modal').toggleClass('is-active');
     });
 
-    $(".modal-fade-screen, .modal-close").on("click", function() {
+    $(".modal-fade-screen, .modal-close").on("click", function(e) {
         $('.modal').removeClass('is-active');
-    });
-
-    $(".modal-inner").on("click", function(e) {
         e.stopPropagation();
         $('iframe')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
     });

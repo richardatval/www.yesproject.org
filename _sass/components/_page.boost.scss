@@ -109,8 +109,10 @@
             }
         }
         padding-bottom: 40px;
+        padding-right: 20px;
          @include media(670px) {
              padding-bottom: 0;
+             padding-right: 0;
          }
         padding-top: 40px;
         background-color: lighten($brand-primary, 50%);
