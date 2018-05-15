@@ -2,7 +2,7 @@
 date: '2018-05-15 11:38 +0100'
 thumbnail-image: /img/Yes Media Looking at MacBook-thumbnail.jpg
 layout: post
-published: false
+published: true
 title: 69 young people have now got jobs
 ---
 ![Yes Media Looking at MacBook-fullsize-web.jpg]({{site.baseurl}}/img/Yes Media Looking at MacBook-fullsize-web.jpg)
@@ -35,4 +35,3 @@ The £1.94m YES Project is funded by the European Social Fund and the National L
  
 These partners are The Prince’s Trust, Seed Creativity, Soft Touch Arts, TwentyTwenty, Leicestershire Cares, Bangladesh Youth and Cultural Shomiti, The
 Bridge and Warwickshire College.
- 
