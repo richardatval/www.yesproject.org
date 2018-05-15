@@ -6,7 +6,7 @@ published: true
 title: 69 young people have now got jobs
 summary: >-
   Since the YES Project launched 18 months ago it has helped 69 young people
-  that were the furthest from the job market into employment and 38 into futher
+  that were the furthest from the job market into employment and 38 into further
   education.
 ---
 ![Yes Media Looking at MacBook-fullsize-web.jpg]({{site.baseurl}}/img/Yes Media Looking at MacBook-fullsize-web.jpg)
