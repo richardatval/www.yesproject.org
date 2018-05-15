@@ -4,10 +4,13 @@ thumbnail-image: /img/Yes Media Looking at MacBook-thumbnail.jpg
 layout: post
 published: true
 title: 69 young people have now got jobs
+summary: >-
+  69 young people that were the furthest from the job market last year are now
+  all in employment thanks to the Youth Employability Support (YES) Project.
 ---
 ![Yes Media Looking at MacBook-fullsize-web.jpg]({{site.baseurl}}/img/Yes Media Looking at MacBook-fullsize-web.jpg)
 
-### 69 young people that were the furthest from the job market last year are now all in employment thanks to the Youth Employability Support (YES) Project.
+69 young people that were the furthest from the job market last year are now all in employment thanks to the Youth Employability Support (YES) Project.
  
 The YES Project provides specialist support to disadvantaged 15 -24-year olds to overcome barriers such as mental health problems, homelessness and substance abuse.
  
