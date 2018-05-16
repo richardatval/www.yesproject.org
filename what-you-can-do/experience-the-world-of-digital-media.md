@@ -27,7 +27,8 @@ On completion of the programme you will receive mentoring and support into emplo
 ### When can I get started?
 
 YES Media 9-week courses start in the following months:
-- October 2017
+- 31 July 2018
+- 23 October 2018
 
 To find out more or apply for the next YES Media course contact [chris@seedcreativity.co.uk](mailto:chris@seedcreativity.co.uk) or 07758 252 301.
 
