@@ -28,9 +28,9 @@ As part of the Leadership Group you will develop a range of new skills and achie
 To join our friendly group, have fun, have your say and make a difference to other young people.
 
 Contact Faye Coward:
-[faye.c@yesproject.org](mailto:faye.c@yesproject.org)
-Text or call: 07741 330 997
-[https://www.facebook.com/faye.val.7509](https://www.facebook.com/faye.val.7509)
+- [faye.c@yesproject.org](mailto:faye.c@yesproject.org)
+- Text or call: 07741 330 997
+- Facebook: Faye Val(https://www.facebook.com/faye.val.7509)
 
 ### About YES Youth Leadership Group
 
