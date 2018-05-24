@@ -30,7 +30,6 @@ To join our friendly group, have fun, have your say and make a difference to oth
 Contact Faye Coward:
 - Email: [faye.c@yesproject.org](mailto:faye.c@yesproject.org)
 - Text or call: 07741 330 997
-- Facebook: [Faye Val](https://www.facebook.com/faye.val.7509)
 
 ### About YES Youth Leadership Group
 
