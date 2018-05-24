@@ -1,3 +1,5 @@
+ga('set', 'anonymizeIp', true);
+
 $(document).ready(function() {
 
     if (document.location.pathname == "/yes-films/") {
