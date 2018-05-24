@@ -110,7 +110,7 @@ We will also communicate directly with you by phone, text message or email about
 
 You have the right at any time to ask us what information we have about you, request amendments or updates to that information, or to ask us to delete information we hold on you.
 
-You can submit an information request by emailing info@yesproject.org
+You can submit an information request by completing our [data request form](https://www.valonline.org.uk/forms/submit-data-access-request).
 
 ### Cookies
 
@@ -126,7 +126,7 @@ You can find out more about cookies on the Information Commissioner's Office (IC
 
 Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
 
-Changes to this privacy policy
+### Changes to this privacy policy
 
 We regularly review our privacy policies, and any updates will be made to this page. Please check back from time to time to ensure that you have read the most up-to-date version of this policy.
 
