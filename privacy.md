@@ -23,7 +23,7 @@ VAL is a charity based in Leicester. VAL manages and delivers a range of contrac
 
 VAL is registered as a data controller with the Information Commissioner's Office (ICO). Our registration number is Z9829723.
 
-### Lawful basis for processing data
+### Lawful basis for processing data
 
 We use the following lawful bases for processing your data:
 
