@@ -1,5 +1,5 @@
 <div class="video">
 <div class="video-wrapper">
-<iframe id="#youtube" src="{{ include.url}}?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe>
+<iframe id="#youtube" src="{{ include.url | replace: 'www.youtube.com', 'www.youtube-nocookie.com' }}?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe>
 </div>
 </div>

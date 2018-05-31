@@ -22,6 +22,8 @@
 	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr.js"></script>
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/application.css">
 	{% for stylesheet in site.conditionalstylesheets %}<!--[{{ stylesheet.target }}]><style type="text/css" media="all">@import url("{{ site.baseurl }}{{ stylesheet.path }}");</style><![endif]-->{% endfor %}
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 </head>
 <body>
 	<header class="navigation" role="banner">

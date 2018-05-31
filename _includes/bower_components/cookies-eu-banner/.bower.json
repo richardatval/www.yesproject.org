@@ -1,0 +1,32 @@
+{
+  "name": "cookies-eu-banner",
+  "main": "dist/cookies-eu-banner.js",
+  "version": "1.2.11",
+  "homepage": "http://alex-d.github.io/Cookies-EU-banner/",
+  "authors": [
+    "Alex-D <contact@alex-d.fr>"
+  ],
+  "description": "Manage display of banner to accept/reject cookies from tracking services like Google Analytics.",
+  "keywords": [
+    "cookies",
+    "analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "demo",
+    "src"
+  ],
+  "_release": "1.2.11",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.11",
+    "commit": "2ae2ee4512c69d947c3dd00251ec2b4a9316ab01"
+  },
+  "_source": "https://github.com/Alex-D/cookies-eu-banner.git",
+  "_target": "^1.2.11",
+  "_originalSource": "cookies-eu-banner",
+  "_direct": true
+}

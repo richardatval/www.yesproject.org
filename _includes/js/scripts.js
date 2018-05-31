@@ -1,5 +1,3 @@
-ga('set', 'anonymizeIp', true);
-
 $(document).ready(function() {
 
     if (document.location.pathname == "/yes-films/") {
@@ -11,7 +9,7 @@ $(document).ready(function() {
         
             $('.modal-trigger').click(function() {
                 var id = $(this).data("id");
-                $('.modal-content').append('<div class="video"><div class="video-wrapper"><iframe id="#youtube" src="https://www.youtube.com/embed/' + id + '?enablejsapi=1&amp;version=3&amp;playerapiid=ytplayer" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe></div></div>');
+                $('.modal-content').append('<div class="video"><div class="video-wrapper"><iframe id="#youtube" src="https://www.youtube-nocookie.com/embed/' + id + '?enablejsapi=1&amp;version=3&amp;playerapiid=ytplayer" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe></div></div>');
                 $('.modal').toggleClass('is-active');
             });
 
@@ -165,3 +163,5 @@ $(function() {
 jQuery(function() {
     jQuery.mark.jump();
 });
+
+

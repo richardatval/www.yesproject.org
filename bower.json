@@ -21,6 +21,7 @@
     "fullcalendar": "~3.2.0",
     "lunr.js": "~0.7.0",
     "smoothstate": "~0.7.2",
-    "jquery-validation": "~1.15.0"
+    "jquery-validation": "~1.15.0",
+    "cookies-eu-banner": "^1.2.11"
   }
 }

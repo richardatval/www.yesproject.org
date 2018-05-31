@@ -28,6 +28,9 @@
 	a.button {
 		@extend a.button.white
 	}
+    a {
+	    color: #fff;
+    }
 }
 
 @each $name, $color in $colors {
