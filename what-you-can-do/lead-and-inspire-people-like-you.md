@@ -25,7 +25,11 @@ As part of the Leadership Group you will develop a range of new skills and achie
 
 ### When can I get started?
 
-The Youth Leadership Group meet on Tuesday afternoons.  If you would like to find out more and go along to a meeting then [get in touch.](https://www.yesproject.org/get-started/)
+To join our friendly group, have fun, have your say and make a difference to other young people.
+
+Contact Faye Coward:
+- Email: [faye.c@yesproject.org](mailto:faye.c@yesproject.org)
+- Text or call: 07741 330 997
 
 ### About YES Youth Leadership Group
 

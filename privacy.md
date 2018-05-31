@@ -13,93 +13,121 @@ scrollheadings:
   - title: Controlling your personal information
 published: true
 ---
+The YES Project is managed and delivered by Voluntary Action LeicesterShire (VAL). The project operates as a partnership, led by VAL. Current delivery partners can be found on our Partners page.
 
-### Privacy - Youth Employability Support (YES) Project
+This privacy policy covers what we do with any information we collect about you when accessing the YES Project. Other projects managed by VAL have their own websites, where you will find their own specific privacy policies.
 
-We are Voluntary Action Leicester. Our data protection registration number is Z9829723
+### About VAL
 
-This Privacy Notice sets out how the YES Project uses and protects any information that you, as a participant in the project, provide us with. 
+VAL is a charity based in Leicester. VAL manages and delivers a range of contracts and projects, including VAL Voluntary Sector Support, VAL Volunteering, VAL Directory, VALUES, Orange Rooms, Technical Assistance, SENDIASS Leicester, SENDIASS Rutland, Choice Advice, and the GREAT Project.
 
-The YES Project is committed to ensuring that your privacy is protected and you can be assured that your personal information will only be used in accordance with this privacy statement.
+VAL is registered as a data controller with the Information Commissioner's Office (ICO). Our registration number is Z9829723.
 
-By taking part in the YES Project you consent that we may process your personal data. If you do not wish to provide this data, we may unable to provide you with the service.
+### Lawful basis for processing data
 
-The YES Project may change this policy from time to time by updating this Privacy Notice. We will notify you by email of any changes to the policy from time to time.
+We use the following lawful bases for processing your data:
 
-### 1.	What we collect
-We may collect the following information:
+**The performance of a public task, meaning a task carried out in the public interest.**
+1. This is the lawful basis chosen by the Department for Work and Pensions, who are the Managing Authority of the Building Better Opportunities (BBO) Programme which funds this project.
 
-- Participant ID number and Customer Reference number
-- Title, forename, surname 
-- Address, postcode, phone number, mobile number, email address
+**Based on our legitimate interests:**
+1. To assess your suitability before entering the programme
+2. To contact you about the activities you are undertaking as part of the programme
+
+**Based on your consent:**
+1. To process special categories of your personal data (e.g. data concerning your health, ethnicity, biometric data)
+2. To send you marketing emails
+
+### What we collect
+
+We collect the data which we need in order to successfully deliver and report on our services:
+
+- Title
+- Forename
+- Surname
+- Address
+- Postcode
+- Phone number
+- Mobile number
+- Email address
 - Date of birth 
-- Gender, ethnicity, sexual orientation
-- Employment status, whether claiming benefits, length of time out of work
+- Gender
+- Employment status
 - Highest education qualifications
+- Length of time out of work
 - Household situation
 - Offender or ex-offender
-- Limiting long-term health condition, disability, work limiting health condition, disability
-- Evidence of right to live and work in the UK, evidence of employment status
+- Evidence of right to live and work in the UK
+- Evidence of employment status
 - Leaving date from the project
 - Employment status on leaving the project
+- Length of time unemployed on leaving the project
 - Details of individual’s needs
 - Details of individual’s progress
 - Details of individual’s achievements
 - Any additional information which is captured in the individual’s Participant File or logged on the YES Project database
 
-### 2.	What we do with the information we gather
-We require this information to understand your needs and to provide you with a better service, and in particular for the following reasons:
+We may also request more sensitive information (known as special categories of personal data):
 
-- Internal record keeping
-- To evidence your eligibility for receiving free support 
-- To share your information between our partners who provide the varied support packages (our partners are listed below in section 5)
-- To provide our funders (The Big Lottery and the European Social Fund) with details of who we support and the impact of our support along with other key stakeholders who adhere to our Data Sharing Agreement
-- From time to time, we may also use your information to contact you to offer additional support and to make you aware of upcoming opportunities
+- Information around health and disability
+- Ethnicity
+- Copies of passports
+- Copies of documents showing eligibility to work in the UK e.g. biometric document from the Home Office showing leave to remain or right to work status of a foreign national
 
-### 3.	Security
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect.
+From time to time we may also ask for you to voluntarily provide additional information as part of surveys, polls, feedback or competitions. 
 
-### 4.	Controlling your personal information
-You may choose to restrict the collection or use of your personal information in the following ways:
+When you visit our website, we collect data about your visit using Google Analytics cookies.
 
-- whenever you are asked questions relating to sensitive data you can decide to select the ‘prefer not to say’ option
-- if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@yesproject.org](mailto:info@yesproject.org)
+### How we use your information
 
-We will not sell, distribute or lease your personal information to third parties under any circumstances. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please email info@yesproject.org
-You may ask us to rectify your personal data. If you believe that any information we are holding on you is incorrect or incomplete, please contact us and we will promptly correct any information found to be incorrect.
+Your information will only ever be used to help us deliver and report on our services.
 
-### 5.	How long we will hold your personal data
+Information about your family situation and health conditions are used to determine your eligibility for access to the YES Project.
 
-We will hold your personal data until 31st September 2029.
+### Data sharing
 
-### 6.	Our partners
+We will share your personal data with appropriate delivery partners in order to enable them to deliver their support services. 
 
-The YES Project is managed  by Voluntary Action Leicester who are the lead organisation. Eight other agencies provide support to young people in the YES project, these are:
+Partners may collect additional information about you which they need in order to support you. This will not be shared with the YES Project.
 
-1. Charnwood 20:20
-2. SEED Creativity Ltd
-3. The Prince’s Trust 
-4. The Bridge (East Midlands)
-5. Soft Touch Arts Limited 
-6. Bangladesh Youth & Cultural Shomiti
-7. Leicestershire Cares Limited 
-8. Warwickshire College
+We don't share any personal data with third party organisations outside of our partners.
 
-Please address any questions, comments and requests regarding our data processing practices to: YES Project, Voluntary Action Leicester, 9 Newarke Street, Leicester LE1 5SN or email [info@yesproject.org.](mailto:info@yesproject.org)
+We do use your information to help with the statistics in our reporting. Our reporting never includes personal data or anything that could identify a specific person, only anonymous statistical data which helps us to monitor and improve the performance of our services.
 
-If you have any complaint which we cannot resolve, you have a right to complain to the Information Commissioner’s Office. You can find out more at the following contact point:
+### Data retention period
 
-[https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
+Personal data will be stored for 10 years after the end of the project. The project is currently due to end in 2019. This is a requirement of the project funders.
 
-Helpline: 0303 123 1113, Monday to Friday between 9am and 5pm.
+### Marketing
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+We would like to send you information about news and events relating to the YES Project.
 
-<div class="vcard">
-<span class="street-address">Voluntary Action LeicesterShire</span><br>
-<span class="region">Leicester</span><br>
-<span class="postal-code">LE1 5SN</span><br>
-</div>
+If you consent to receive marketing, you can opt out at any time by clicking the 'Unsubscribe' link at the bottom of our emails.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+We will also communicate directly with you by phone, text message or email about the activities you are doing as part of the YES Project.
+
+### Access to your information
+
+You have the right at any time to ask us what information we have about you, request amendments or updates to that information, or to ask us to delete information we hold on you.
+
+You can submit an information request by completing our [data request form](https://www.valonline.org.uk/forms/submit-data-access-request).
+
+### Cookies
+
+Cookies are small text files placed on your computer by websites you visit to help track your behaviour on those sites. For example, we use Google Analytics tracking cookies to understand how you use our site, which allows us to improve the overall website experience.
+
+You can configure your browser to block websites from accepting cookies and to delete any existing cookies that have already been downloaded. However, please note that blocking cookies may stop some features of our website from working correctly.
+
+Please note: Cookies cannot be used to run code or programs, or to deliver viruses to your computer.
+
+You can find out more about cookies on the Information Commissioner's Office (ICO) website: https://ico.org.uk/for-the-public/online/cookies/
+
+### Other websites
+
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
+
+### Changes to this privacy policy
+
+We regularly review our privacy policies, and any updates will be made to this page. Please check back from time to time to ensure that you have read the most up-to-date version of this policy.
+
+Policy last updated: May 2018
