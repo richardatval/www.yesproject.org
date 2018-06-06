@@ -1,6 +1,6 @@
 ---
 date: '2018-06-06 13:17 +0100'
-thumbnail-image: /img/Hayley_edited-2-thumbnail.png
+thumbnail-image: img/Hayley_edited-2-thumbnail.png
 layout: post
 published: true
 title: Hayley's YES Project journey to employment
