@@ -1,12 +1,15 @@
 ---
 date: '2018-06-06 13:17 +0100'
-thumbnail-image: /img/Hayley-thumbnail.png
+thumbnail-image: /Hayley_edited-2-thumbnail.png
 layout: post
 published: true
 title: Hayley's YES Project journey to employment
+summary: >-
+  In just over a year Hayley has transformed her life with support from the YES
+  Project.
 ---
 
-![Hayley-fullsize-web.png]({{site.baseurl}}/img/Hayley-fullsize-web.png)
+![Hayley_edited-2-fullsize-web.png]({{site.baseurl}}/img/Hayley_edited-2-fullsize-web.png)
 
 Before joining the YES, Project Hayley (aged 22), spent her time sitting indoors. She barely had any interaction with anyone beside her immediate family and she felt her confidence decreasing by the day.
 
