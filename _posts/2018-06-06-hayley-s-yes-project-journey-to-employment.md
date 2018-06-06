@@ -2,7 +2,7 @@
 date: '2018-06-06 13:17 +0100'
 thumbnail-image: /img/Hayley-thumbnail.png
 layout: post
-published: false
+published: true
 title: Hayley's YES Project journey to employment
 ---
 
@@ -29,4 +29,3 @@ Hayley is now looking forward to the future where she plans to become more indep
 Summarising her YES Project journey, Hayley said: 
 
 > “Honestly, looking back from how I was starting the first day of YES Team programme to now, I can hardly recognise myself. I am so much more active, sociable, finally have a job, confident in my own mind and I stick up for myself. The YES Project has helped me accept who I am as a person and strive to achieve more things in my life."
-
