@@ -17,7 +17,7 @@ In January 2017, Hayley decided to join the YES Project in the hope it would hel
 
 She signed up to do YES Team's 12-week programme ran by the Princes Trust.  During her time on the programme she went on a residential, took part in team building activities such as abseiling and raft building, fundraised, did community work and presented her experience to an audience in the final presentation.
 
-Hayley continued her YES Project journey in April 2017 by enrolling on the Get into Retail 4-week course where she gained work experience at Marks and Spencer.
+Hayley continued her YES Project journey in April 2017 by enrolling on the Get into Hospitals 4-week course where she gained work experience at Leicester Hospitals.
 
 As Hayley’s confidence and self-belief grew she got involved with more YES Project opportunities, such as a company tour at Ford and Slater. She also became a member of the youth leadership group.
 
