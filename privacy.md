@@ -38,6 +38,10 @@ We use the following lawful bases for processing your data:
 1. To process special categories of your personal data (e.g. data concerning your health, ethnicity, biometric data)
 2. To send you marketing emails
 
+**To fulfil any legal or statutory obligations**
+
+1. We will send your personal data to legal or statutory bodies where the law requires we do so.
+
 ### What we collect
 
 We collect the data which we need in order to successfully deliver and report on our services:
