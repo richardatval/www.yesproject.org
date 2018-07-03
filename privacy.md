@@ -134,4 +134,4 @@ Our website contains links to other websites. This privacy policy only applies t
 
 We regularly review our privacy policies, and any updates will be made to this page. Please check back from time to time to ensure that you have read the most up-to-date version of this policy.
 
-Policy last updated: May 2018
+Policy last updated: July 2018
