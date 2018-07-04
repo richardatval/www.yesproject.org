@@ -2,12 +2,14 @@
 date: '2018-07-03 14:34 +0100'
 thumbnail-image: /img/placeholder.jpg
 layout: post
-published: false
+published: true
 title: I felt supported and not judge
 summary: >-
   Ricky joined the YES Project as he was struggling to find work due to low
   confidence and lack of motivation.
 ---
+![Ricky-fullsize-web.jpg]({{site.baseurl}}/img/Ricky-fullsize-web.jpg)
+
 In just 9 weeks Ricky has transformed his life with the support he received from the YES Project. 
 
 In April 2018, Ricky contacted the Prince’s Trust as he was struggling to find work due to low confidence and lack of motivation. The Prince’s Trust referred Ricky to the YES Project so he could get support to overcome his barriers.  
