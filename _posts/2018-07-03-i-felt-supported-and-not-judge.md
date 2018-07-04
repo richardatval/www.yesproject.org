@@ -6,7 +6,7 @@ published: true
 title: I felt supported and not judge
 summary: >-
   Ricky joined the YES Project as he was struggling to find work due to low
-  confidence and lack of motivation.
+  confidence and lack of motivation. In just 9 weeks he got a job.
 ---
 ![Ricky1-fullsize-web.jpg]({{site.baseurl}}/img/Ricky1-fullsize-web.jpg)
 
