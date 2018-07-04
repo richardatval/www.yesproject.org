@@ -1,6 +1,6 @@
 ---
 date: '2018-07-03 14:34 +0100'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/Ricky1-thumbnail.jpg
 layout: post
 published: true
 title: I felt supported and not judge
@@ -8,7 +8,7 @@ summary: >-
   Ricky joined the YES Project as he was struggling to find work due to low
   confidence and lack of motivation.
 ---
-![Ricky-fullsize-web.jpg]({{site.baseurl}}/img/Ricky-fullsize-web.jpg)
+![Ricky1-fullsize-web.jpg]({{site.baseurl}}/img/Ricky1-fullsize-web.jpg)
 
 In just 9 weeks Ricky has transformed his life with the support he received from the YES Project. 
 
