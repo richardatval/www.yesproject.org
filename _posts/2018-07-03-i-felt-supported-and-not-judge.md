@@ -3,7 +3,7 @@ date: '2018-07-03 14:34 +0100'
 thumbnail-image: /img/Ricky1-thumbnail.jpg
 layout: post
 published: true
-title: I felt supported and not judge
+title: I felt supported and not judged
 summary: >-
   Ricky joined the YES Project as he was struggling to find work due to low
   confidence and lack of motivation. In just 9 weeks he got a job.
