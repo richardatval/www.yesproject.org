@@ -1,154 +1,79 @@
 sass:
-  style: compressed
-
-#  Build settings
+    style: compressed
 markdown: kramdown
-
 gems:
-  - jekyll-coffeescript
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-   
-#  Site settings
-title: YES Project
-description: Supporting you to take steps towards finding work
-url: https://www.yesproject.org
-baseurl: 
+    - jekyll-coffeescript
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-redirect-from
+    - jekyll-feed
+title: 'YES Project'
+description: 'Supporting you to take steps towards finding work'
+url: 'https://www.yesproject.org'
+baseurl: null
 email: info@yesproject.org
-github: 
-copyright: "The YES Project is funded by the European Social Fund and the National Lottery, through the Big Lottery Fund. The service is managed by Voluntary Action LeicesterShire (VAL).</p><p><a href=\"http://www.valonline.org.uk\">Voluntary Action LeicesterShire</a> is the trading name of Voluntary Action Leicester registered charity (No. 509300) Registered in England and Wales. ©"
-
-#  Social media settings
-
-facebook: "yesprojectleics"
-instagram: "yesprojectleics"
+github: null
+copyright: 'The YES Project is funded by the European Social Fund and the National Lottery, through the Big Lottery Fund. The service is managed by Voluntary Action LeicesterShire (VAL).</p><p><a href="http://www.valonline.org.uk">Voluntary Action LeicesterShire</a> is the trading name of Voluntary Action Leicester registered charity (No. 509300) Registered in England and Wales. ©'
+facebook: yesprojectleics
+instagram: yesprojectleics
 permalink: pretty
-
-# Services
-
-analyticstracking: "UA-84927932-1"
-
-# Pagination
-
+analyticstracking: UA-84927932-1
 paginate: 8
-paginate_path: "/news/:num/"
-
-#  Timezone
-
+paginate_path: '/news/:num/'
 timezone: Europe/London
-
 include:
-  - _events
-
+    - _events
 exclude:
-  - bower.json
-  - grunt
-
-# Conditional Stylesheets
-
+    - bower.json
+    - grunt
 conditionalstylesheets:
-  - target: "ie9"
-    path: "/css/ie9.css"
-
-# Events configuration
-
+    -
+        target: ie9
+        path: /css/ie9.css
 collections:
-  events:
-    output: true
-    permalink: /events/:path/
-
-# Configuration for prose.io online editor
-
+    events:
+        output: true
+        permalink: '/events/:path/'
 prose:
-  media: img
-  ignore: 
-    - '_includes'
-    - 'assets'
-    - '_assets'
-    - '_layouts'
-    - '_plugins'
-    - '/.jekyll-metadata'
-    - 'feed.xml'
-    - 'js'
-    - 'css'
-    - '_sass'
-    - 'CNAME'
-    - '.bowerrc'
-    - '.gitignore'
-    - '404.md'
-    - 'news.xml'
-    - 'Gemfile'
-    - 'Gemfile.lock'
-    - 'license.md'
-    - 'README.md'
-    - '_config.yml'
-    - 'bower.json'
-    - 'favicon.ico'
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "date"
-        field:
-          label: "Date"
-          element: "text"
-          value: CURRENT_DATETIME
-      - name: "summary"
-        field:
-          label: "Summary"
-          element: "textarea"
-          value: null
-      - name: "thumbnail-image"
-        field:
-          label: "Thumbnail Image"
-          element: "text"
-          placeholder: "/img/placeholder-thumbnail.png"
-          value: "/img/placeholder.jpg"
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "select"
-          value: "post"
-          options:
-            - name: 'Blog post'
-              value: 'post'
-            - name: 'Default'
-              value: 'default'
-            - name: 'Course'
-              value: 'course'
-            - name: 'No Sidebars'
-              value: 'no-sidebars'
-    _events:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "summary"
-        field:
-          label: "Summary"
-          element: "textarea"
-          value: null
-      - name: "when"
-        field:
-          label: "When"
-          element: "text"
-          value: ""
-      - name: "venue"
-        field:
-          label: "Where"
-          element: "text"
-          value: ""
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "hidden"
-          value: "event"
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
+    media: img
+    ignore:
+        - _includes
+        - assets
+        - _assets
+        - _layouts
+        - _plugins
+        - /.jekyll-metadata
+        - feed.xml
+        - js
+        - css
+        - _sass
+        - CNAME
+        - .bowerrc
+        - .gitignore
+        - 404.md
+        - news.xml
+        - Gemfile
+        - Gemfile.lock
+        - license.md
+        - README.md
+        - _config.yml
+        - bower.json
+        - favicon.ico
+    metadata:
+        _posts:
+            - {name: title, field: {element: text, label: title}}
+            - {name: date, field: {label: Date, element: text, value: CURRENT_DATETIME}}
+            - {name: summary, field: {label: Summary, element: textarea, value: null}}
+            - {name: thumbnail-image, field: {label: 'Thumbnail Image', element: text, placeholder: /img/placeholder-thumbnail.png, value: /img/placeholder.jpg}}
+        _posts/static:
+            - {name: title, field: {element: text, label: title}}
+            - {name: summary, field: {label: Summary, element: textarea, value: null}}
+            - {name: permalink, field: {element: text, label: Permalink, value: ""}}
+            - {name: layout, field: {label: Layout, element: select, value: post, options: [{name: 'Blog post', value: post}, {name: Default, value: default}, {name: Course, value: course}, {name: 'No Sidebars', value: no-sidebars}]}}
+        _events:
+            - {name: title, field: {element: text, label: Title}}
+            - {name: summary, field: {label: Summary, element: textarea, value: null}}
+            - {name: when, field: {label: When, element: text, value: ""}}
+            - {name: venue, field: {label: Where, element: text, value: ""}}
+            - {name: layout, field: {label: Layout, element: hidden, value: event}}
+            - {name: published, field: {label: Published, element: checkbox, value: 'true'}}

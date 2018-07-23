@@ -8,9 +8,9 @@ header.navigation {
 
 	span.funder-logo {
 		display: none;
-		@include media($desktop) {
+		@include media(new-breakpoint(min-width em(850px, $font-size) 12)) {
 			float: right;
-			margin: $gutter;
+			margin: $gutter/2;
 			display: block;
 		}
 	}
@@ -388,7 +388,7 @@ header.navigation {
 }
 
 a.logo {
-	margin: $gutter;
+	margin: $gutter*1.5;
 	color: #fff;
 	font-weight: bold;
 	float: left;
@@ -396,7 +396,7 @@ a.logo {
 	background-position: center center;
 	text-indent: -99999px;
 	@include transition(all 0.1s ease-in-out);
-	@include logoresizer($logo-image-width, $logo-image-height, 410);
+	@include logoresizer($logo-image-width, $logo-image-height, 330);
 	background-image:url('#{"" + $image-directory}/ui/logo.png');
 }
 
