@@ -106,9 +106,29 @@ We don't share any personal data with third party organisations outside of our p
 
 We do use your information to help with the statistics in our reporting. Our reporting never includes personal data or anything that could identify a specific person, only anonymous statistical data which helps us to monitor and improve the performance of our services.
 
-### Data retention period
+### ### Data retention period
 
 Personal data will be stored for 10 years after the end of the project. The project is currently due to end in 2019. This is a requirement of the project funders.
+
+All personal data held by DWP or research contractors for the purposes of evaluation will be permanently deleted no more than six months after the research has been completed (i.e. when the final report is published on GOV.UK). 
+
+Personal data held by DWP for all other ESF purposes as required by European Commission regulations will be retained in line with the [current guidance on GOV.UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/591617/ESF_Guidance_on_document_retention.pdf).
+
+### Marketing
+
+We would like to send you information about news and events relating to the GREAT Project.
+
+If you consent to receive marketing, you can opt out at any time by clicking the 'Unsubscribe' link at the bottom of our emails.
+
+We will also communicate directly with you by phone, text message or email about the activities you are doing as part of the GREAT Project.
+
+### Your rights in respect of data processing
+
+If you do not wish your personal data to be used for ESF evaluation purposes please contact ESF.EVALUATIONS@DWP.GSI.GOV.UK and they will delete your data held for these purposes and you won’t be contacted about participating in research.
+
+More information about how and why DWP uses your personal information, including how to ask for a copy of the personal information DWP holds about you can be found in DWP’s [Personal Information Charter](https://www.gov.uk/government/organisations/department-for-work-pensions/about/personal-information-charter).
+
+Information about how to ask for a copy of the information DWP holds about you (known as a ‘Right of Access Request’) can be found on [DWP's website](https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions).
 
 ### Marketing
 
