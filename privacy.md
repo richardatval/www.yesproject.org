@@ -25,22 +25,30 @@ VAL is registered as a data controller with the Information Commissioner's Offic
 
 ### Lawful basis for processing data
 
+For the purposes of the General Data Protection Regulation (GDPR), the DWP is the data controller in respect to information processed which relates to all participation in the European Social Fund. ESF grant beneficiary organisations are data processors in respect to information processed which relates to participants in the operations and projects funded by the European Social Fund. 
+
+DWP is not the controller for any other / additional data collected by the YES Project that is not essential for delivering the ESF programme, or for any personal data that would normally be collected anyway by the YES Project.
+
 We use the following lawful bases for processing your data:
 
-**The performance of a public task, meaning a task carried out in the public interest.**
-1. This is the lawful basis chosen by the Department for Work and Pensions, who are the Managing Authority of the Building Better Opportunities (BBO) Programme which funds this project.
+**Article 6(1)(e) GDPR: 
+‘processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller’**
+- This is the lawful basis for collecting personal data that has been chosen by the DWP.
+
+**Article 9(2)(b) GDPR: 
+‘processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law in so far as it is authorised by Union or Member State law or a collective agreement pursuant to Member State law providing for appropriate safeguards for the fundamental rights and the interests of the data subject;’**
+- This is the lawful basis chosen by the DWP for the processing of ‘special categories’ of personal data (e.g. health or ethnicity).
 
 **Based on our legitimate interests:**
-1. To assess your suitability before entering the programme
-2. To contact you about the activities you are undertaking as part of the programme
+- To assess your suitability before entering the programme
+- To contact you about the activities you are undertaking as part of the programme
+
+**Based on our legal or statutory responsibilities**
+- We will share your personal data with third parties where we are obliged to for legal or statutory reasons
 
 **Based on your consent:**
-1. To process special categories of your personal data (e.g. data concerning your health, ethnicity, biometric data)
-2. To send you marketing emails
-
-**To fulfil any legal or statutory obligations**
-
-1. We will send your personal data to legal or statutory bodies where the law requires we do so.
+- To process special categories of your personal data (e.g. data concerning your health, ethnicity, biometric data) outside of the data required by the DWP.
+- To send you marketing emails
 
 ### What we collect
 
