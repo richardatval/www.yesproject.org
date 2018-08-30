@@ -11,28 +11,31 @@ published: true
 
 ### What's in it for me?
 
-YES Enterprise team offers a range of support to help you make your business idea a reality.
+Get a taste for the type of job you would like to do in the future by taking part in
+our tailor-made programme:
 
-##### Enterprise Challenges
-These team activities are your chance to understand whether or not enterprise is for you and what starting a business involves. You will enhance
-your existing skills and find skills you never knew you had.
+#### Work placements
 
-##### Business Start-up Workshops
-These workshops are your opportunity to explore new ideas and learn how to set up your own business. They’ll cover key topics like getting your company structure right, marketing and sales.
+Find out what it is like to be employed and see what type of job you would like to have. We will find you a suitable work placement based on what you would like to do and a trained mentor will support you throughout your placement.
 
-##### Test Trade Days
-We’ll offer you the opportunity to test your product or service in the real world on our test trade days. You will pick up valuable feedback that will
-help to improve your offer.
+On completion, you will receive an achievement certificate and a reference to show employers you’re work ready.
+
+#### Work tours
+
+A work tour will guide you through the various departments and job roles that are involved in running a company.Tours are available in various industries including shops, car dealerships,
+restaurants and hotels. You will also take part in activities to help you prepare for
+work.
 
 ### What support will I receive?
 
-You will receive one-to-one support to devlop your business plan, access finance and accelerate your business.
+Our application support service will help you move towards employment or education.
+We can help you with job or college searches, completing application forms and CVs, and interview techniques.
 
 ### When can I get started?
 
 World of work tours are advertised [here](https://www.yesproject.org/course-dates/) and on our [Facebook page](https://www.facebook.com/yourprojectyes/). 
 
-To find out more or apply contact [anna@leicestershirecares.co.uk](anna@leicestershirecares.co.uk) or 0116 366 6639 / 07738 403 732
+To find out more or apply contact [ayesha@leicestershirecares.co.uk](ayesha@leicestershirecares.co.uk) or 0116 366 6639 / 07738 403 732
 
 ### About Flying Fish
 
