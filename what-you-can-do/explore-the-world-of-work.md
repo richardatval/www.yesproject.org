@@ -22,7 +22,7 @@ On completion, you will receive an achievement certificate and a reference to sh
 
 #### Work tours
 
-A work tour will guide you through the various departments and job roles that are involved in running a company.Tours are available in various industries including shops, car dealerships,
+A work tour will guide you through the various departments and job roles that are involved in running a company. Tours are available in various industries including shops, car dealerships,
 restaurants and hotels. You will also take part in activities to help you prepare for
 work.
 
