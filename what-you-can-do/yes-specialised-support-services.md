@@ -32,4 +32,4 @@ We’ll do our best to eliminate any barriers you may face to accessing or stayi
 - Accompanying you to appointments
 - Working with you to build your confidence, self-esteem and motivation.
 
-To find out more or to access support contact Vickee: [vickinder.kainth@thebridge-eastmidlands.org.uk] or call 01509 260500 / 07717 847118
+To find out more or to access support contact [Vickee](vickinder.kainth@thebridge-eastmidlands.org.uk) or call 01509 260500 / 07717 847118
