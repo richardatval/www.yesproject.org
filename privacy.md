@@ -106,9 +106,9 @@ We don't share any personal data with third party organisations outside of our p
 
 We do use your information to help with the statistics in our reporting. Our reporting never includes personal data or anything that could identify a specific person, only anonymous statistical data which helps us to monitor and improve the performance of our services.
 
-### ### Data retention period
+### Data retention period
 
-Personal data will be stored for 10 years after the end of the project. The project is currently due to end in 2019. This is a requirement of the project funders.
+Personal data will be stored for 10 years after the final financial claim is made for the project. The project is currently due to end in 2019. This is a requirement of the project funders.
 
 All personal data held by DWP or research contractors for the purposes of evaluation will be permanently deleted no more than six months after the research has been completed (i.e. when the final report is published on GOV.UK). 
 
