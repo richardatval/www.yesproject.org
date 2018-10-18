@@ -2,7 +2,7 @@
 layout: event
 published: true
 title: Get Stuff Done
-when: Wednesday 10am-12pm
+when: 'Wednesday 12pm-3:30pm'
 venue: 'Leicestershire Cares, 42 Tower Street, Leicester LE1 6WT'
 ---
 ‘Get Stuff Done’ Wednesdays is a drop-in session for any young person already accessing support from the YES Project.
