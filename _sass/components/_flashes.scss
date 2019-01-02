@@ -17,7 +17,7 @@ $flashes: (
 
     a {
       color: shade($color, 70%);
-      text-decoration: underline;
+      text-decoration: underline; 
 
       &:focus,
       &:hover {

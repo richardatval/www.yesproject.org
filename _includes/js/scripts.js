@@ -89,12 +89,12 @@ $(document).ready(function() {
 
     // Validate Forms
 
-    $("#contact-form").validate({
+    $(".jotform-form").validate({
         rules: {
-            email: "required",
+            q4_email: "required",
         },
         messages: {
-            email: "We need your email address to contact you.",
+            q4_email: "We need your email address to contact you.",
         },
         submitHandler: function(form) {
             form.submit();
