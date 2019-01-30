@@ -18,7 +18,7 @@ The organisations and charities involved in delivering the YES Project are:
 - [Seed Creativity](http://www.seedcreativity.co.uk/)
 - [The Prince's Trust](https://www.princes-trust.org.uk/)
 - [TwentyTwenty](http://www.twentytwenty.org.uk/)
-- [The Bridge](http://bridgeleicester.org/)
+- [The Bridge](https://www.thebridge-eastmidlands.org.uk/)
 - [Flying Fish part of Leicestershire Cares](http://www.leicestershirecares.co.uk/)
 - [Warwickshire College](https://www.warwickshire.ac.uk/)
 - [Bangladesh Youth & Cultural Shomiti](http://www.bycs.org.uk/)
