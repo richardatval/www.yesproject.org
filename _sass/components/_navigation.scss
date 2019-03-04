@@ -10,8 +10,9 @@ header.navigation {
 		display: none;
 		@include media(new-breakpoint(min-width em(850px, $font-size) 12)) {
 			float: right;
-			margin: $gutter/2;
+			margin: $gutter $gutter $gutter 0;
 			display: block;
+		
 		}
 	}
 
@@ -388,7 +389,7 @@ header.navigation {
 }
 
 a.logo {
-	margin: $gutter*1.5;
+	margin: $gutter*1;
 	color: #fff;
 	font-weight: bold;
 	float: left;
@@ -396,7 +397,9 @@ a.logo {
 	background-position: center center;
 	text-indent: -99999px;
 	@include transition(all 0.1s ease-in-out);
-	@include logoresizer($logo-image-width, $logo-image-height, 330);
+	background-size: $logo-image-width $logo-image-height;
+	height: $logo-image-height;
+	width: $logo-image-width;
 	background-image:url('#{"" + $image-directory}/ui/logo.png');
 }
 
@@ -412,7 +415,7 @@ span.funder-logo, span.val-logo {
 span.funder-logo {
 	@include transition(all 0.1s ease-in-out);
 	background-image:url('#{"" + $image-directory}/ui/big-lottery-logo.png');
-	@include logoresizer(254, 116, 254);
+	@include logoresizer(304, 80, 304);
 }
 
 span.val-logo {
@@ -420,9 +423,9 @@ span.val-logo {
 	margin-bottom: 20px;
 	margin-right: -100px;
 	background-image:url('#{"" + $image-directory}/ui/val-logo.png');
-	background-size: 194px 92px;
-	width: 194px;
-	height: 92px;
+	background-size: contain;
+	width:  169px;
+	height: 80px;
 	@include transition(all 0.1s ease-in-out);
 	@include media($tablet) {
 		margin-bottom: 0;
