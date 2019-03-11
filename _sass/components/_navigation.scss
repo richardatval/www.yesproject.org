@@ -1,3 +1,12 @@
+#skip {
+	background: $dark-gray;
+	color: white;
+	text-align: center;
+	a {
+		color: white;
+	}
+}
+
 header.navigation {
 	background-color: $navigation-background;
 	border-bottom: 1px solid darken($navigation-background, 5%);

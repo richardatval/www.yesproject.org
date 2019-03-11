@@ -102,10 +102,19 @@ $(document).ready(function() {
     });
 });
 
-$("#Glide").glide({
-    type: "carousel"
-});
+$('.glide').each(function(){
+    var item = $(this);
+    var d = new Date();
+    item.attr('id', 'glide-'+d.getTime());
 
+    $('#'+item.attr('id')).glide({
+        autoplay: false,
+        arrows: '#'+item.attr('id'),
+        navigation: '#'+item.attr('id'),
+        arrowLeftText: '<div></div>',
+        arrowRightText: '<div></div>'
+    });
+});
 /* Facebook embed facility triggers only on width change fixing bug on mobile */
 
 var $window = $(window);
