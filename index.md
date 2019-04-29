@@ -14,6 +14,7 @@ published: true
 ---
 
 <section class="band" id="projects">
+<div class="container"><div class="box box-primary"><h4>The YES Project is currently at capacity</h4><p>We will be unable to provide a place on our services quickly. We can however, signpost you to alternative services - please email <a href="mailto:info@yesproject.org.uk"><strong>info@yesproject.org</strong></a> to request this type of support.</p></div></div>
 <div class="container teasers-container">
 {% include teaser.html title="Become a Booster" img="/img/thumbnails/social-boost-thumbnail.png"  text="Learn how to make money from social media. Join Social Boost to gain skills and experience to start your own social media company." url="/boost" buttontext="Learn more" url="/boost" %}
 {% include teaser.html title="What you can do" img="/img/thumbnails/yes-media-thumbnail.jpg"  text="You can achieve qualifications, learn new skills and prepare for work by enrolling on one of many courses." url="/what-you-can-do" buttontext="Learn more" url="/what-you-can-do" %}
