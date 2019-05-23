@@ -1,6 +1,6 @@
 ---
 date: '2019-05-23 15:19 +0100'
-published: false
+published: true
 title: Over 400 local young people helped by The YES Project
 thumbnail-image: /img/signpost - thumbnail.jpg)
 ---
@@ -22,6 +22,4 @@ Abdul Asghar, YES Team Manager said:
 
 The current YES Project continues to offer one-to one support to its current participants to the end of October 2019.
 
-The YES Project is funded by the European Social Fund and The National Lottery Community Fund. 
-
-
+The YES Project is funded by the European Social Fund and The National Lottery Community Fund.
