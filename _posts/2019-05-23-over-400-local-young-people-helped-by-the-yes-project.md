@@ -2,7 +2,7 @@
 date: '2019-05-23 15:19 +0100'
 published: true
 title: Over 400 local young people helped by The YES Project
-thumbnail-image: /img/signpost - thumbnail (Custom) (1).jpg)
+thumbnail-image: /img/SIGNPOST THUMB.jpg
 ---
 ![signpost (Custom).jpg]({{site.baseurl}}/img/signpost (Custom).jpg)
 
