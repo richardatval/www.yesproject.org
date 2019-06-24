@@ -1,7 +1,7 @@
 ---
 date: '2019-06-24 16:05 +0100'
 thumbnail-image: img/iStock-947443364 - thumbnail (Custom).jpg
-published: false
+published: true
 title: 'The YES Project provides supportive environment for participant '
 ---
 ## A New Post
@@ -26,5 +26,3 @@ Daniel is now completing his Level 2 Maths qualification and plans to start a Fu
 Summing up his time on the YES Project and how much he’s grown, Daniel said:
 
 > “I’ve always had a strong disbelief in myself and it’s been amazing to hear time and time again that I’m continuing to improve. I found that being in a supportive environment has helped me to retain information and face my fears.”
-
-
