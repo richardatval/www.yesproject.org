@@ -4,7 +4,7 @@ thumbnail-image: img/iStock-947443364 - thumbnail (Custom).jpg
 published: true
 title: 'The YES Project provides supportive environment for participant '
 ---
-## A New Post
+
 ![iStock-947443364 (Custom).jpg]({{site.baseurl}}/img/iStock-947443364 (Custom).jpg)
 
 Before joining the YES Project, Daniel was at home everyday wandering where life would go. Daniel realised he needed to improve his confidence, motivation and self-worth to move forward.
