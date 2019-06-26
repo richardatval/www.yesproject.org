@@ -1,6 +1,6 @@
 ---
 date: '2019-06-24 16:05 +0100'
-thumbnail-image: img/iStock-947443364 - thumbnail (Custom).jpg
+thumbnail-image: /img/iStock-947443364 - thumbnail (Custom) (Custom) (Custom).jpg
 published: true
 title: 'The YES Project provides supportive environment for participant '
 ---
