@@ -6,12 +6,12 @@ $hero-background-bottom: #20392B;
 $hero-color: $base-font-color;
 $hero-background-color: #6f0c74;
 $gradient-angle: 10deg;
-$hero-image: '#{"" + $image-directory}/banners/hero-banner-2.jpg';
+$hero-image: '#{"" + $image-directory}/banners/tnl25-banner.png';
 @include background(url($hero-image));
 background-position: center top ;
 background-repeat: no-repeat;
-background-color: #6f0c74;
-background-size: auto 50%;
+background-color: $white;
+background-size: auto 200px;
 
 .hero-inner {
 	@include outer-container;
@@ -41,7 +41,7 @@ background-size: auto 50%;
 }
 
 @include media($tablet) {
-	background-size: auto 100%;
+	background-size: auto 400px;
 	.hero-inner {
 	padding-top: 400px;
 }
@@ -59,9 +59,13 @@ background-size: auto 50%;
 			margin-top: $gutter;
 			margin-left: 12px;
 			width: 40%;
+            color: $base-font-color;
 			text-align: left;
+            p {
+            color: $base-font-color; 
+            }
 			h1 {
-				font-size: 2em;
+                color: $brand-primary;
 			}
 		}
 	}
