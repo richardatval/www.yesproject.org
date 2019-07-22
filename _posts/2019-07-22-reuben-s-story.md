@@ -2,7 +2,7 @@
 date: '2019-07-22 11:27 +0100'
 thumbnail-image: >-
   img/Reuben%20(provided%20by%20participant)%20-%20thumbnail%20(Custom)%20(1).jpg
-published: false
+published: true
 title: 'Reuben''s Story '
 ---
 
@@ -23,4 +23,3 @@ When this project came to an end, Reuben was offered a job as Community Project 
 
 Looking to inspire others to join the YES Project, Reuben said:
 > “Do it! The YES Project helped me open the doors and reach my potential. The skills, tools and confidence were there but it would have taken a lot longer without the YES Project.” It’s not just myself, while on YES I saw growth in other young people too.”
-
