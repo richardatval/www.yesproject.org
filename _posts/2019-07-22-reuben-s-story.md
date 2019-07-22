@@ -1,12 +1,11 @@
 ---
 date: '2019-07-22 11:27 +0100'
-thumbnail-image: >-
-  img/Reuben%20(provided%20by%20participant)%20-%20thumbnail%20(Custom)%20(1).jpg
 published: true
 title: 'Reuben''s Story '
 ---
 
-![]({{site.baseurl}}/img/Reuben%20(provided%20by%20participant)%20-%20body.jpg)
+![Photo 19-05-2019, 22 31 17 (Custom).jpg]({{site.baseurl}}/img/Photo 19-05-2019, 22 31 17 (Custom).jpg)
+
 
 Reuben was studying a Mental Health Nursing degree at University; but realised that although he was interested in studying mental health, nursing wasn’t the direction he wanted to go. He left University and lived in Yorkshire, but after losing his job and a relationship breakdown, Reuben moved back home with his parents in Leicester.
 
