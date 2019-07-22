@@ -2,6 +2,7 @@
 date: '2019-07-22 11:27 +0100'
 published: true
 title: 'Reuben''s Story '
+thumbnail-image: '/img/Photo 19-05-2019, 22 31 17 thumbnail.jpg'
 ---
 
 ![Photo 19-05-2019, 22 31 17 (Custom).jpg]({{site.baseurl}}/img/Photo 19-05-2019, 22 31 17 (Custom).jpg)
