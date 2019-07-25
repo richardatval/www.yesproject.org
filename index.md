@@ -2,8 +2,7 @@
 layout: home
 title: Vote for the YES Project in the 25th Birthday National Lottery Awards
 summary: Vote for the YES Project in the 25th Birthday National Lottery Awards
-hero-copy: >-
-  The YES Project are through to the finals, up against 9 other projects in the Community and Charity category and we need your support and vote
+hero-copy: The YES Project are through to the finals and we need your support and vote
 hero-link-url: /2019/07/22/vote-for-yes/
 hero-link-copy: Vote now
 published: true
