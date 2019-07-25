@@ -4,6 +4,7 @@ layout: post
 published: true
 thumbnail-image: /img/awards/yes-award-thumbnail.jpg
 date: '2019-03-11 12:15 +0000'
+summary: The YES Project held her an award ceremony on 18th February 2019
 ---
 
 {% include carousel.html slides="/img/awards/s1/awards-1.jpg|/img/awards/s1/awards-2.jpg|/img/awards/s1/awards-3.jpg|/img/awards/s1/awards-4.jpg|/img/awards/s1/awards-5.jpg|/img/awards/s1/awards-6.jpg" captions="Students filming|Young people doing lego project|Group filming"%}
@@ -36,5 +37,3 @@ The YES Project is proud to offer support to young people in Leicester and Leice
 #### About the Project
 
 The National Lottery Community Fund; YES Project is made up of nine youth organisations and charities (Delivery Partners) from across Leicester and Leicestershire. The aim of the project is to support young people aged 15-24 to take steps toward employment, training and education. Since the commencement of the project in July 2016, we have supported 335 young people aged 15-24, 96 have gained Employed roles and 59 have moved into Education or Training.
- 
- 
