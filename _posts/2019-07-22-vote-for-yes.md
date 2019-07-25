@@ -1,6 +1,6 @@
 ---
 date: '2019-07-22 10:16 +0100'
-thumbnail-image: /img/thnla-thumb.png
+thumbnail-image: /img/TNL25years_regular_logo_short_rgb.png
 layout: default
 published: true
 title: Vote for the YES Project in the 25th Birthday National Lottery Awards
@@ -9,6 +9,7 @@ summary: >-
   Community and Charity category and we need your support and vote. The winners
   will be decided by public vote
 ---
+
 
 The search is on for the UK’s favourite National Lottery-funded projects in this year’s 25th Birthday National Lottery Awards. 
 
@@ -23,4 +24,4 @@ The YES Project commenced in 2016 and since then has helped over 400 young peopl
 There’s two ways you can vote for the YES Project. It’s free, quick and easy!
 
 1. By visiting [www.lotterygoodcauses.org.uk/awards](bit.ly/VoteforYESProject) and selecting the YES Project in the  category Community and Charity
-2. Alternatively, you can vote via Twitter by tweetiing <a href="https://twitter.com/intent/tweet?text=I would like to vote for the YES Project Leicester %23NLAYESProject">#NLAYESPROJECT</a> 
+2. Alternatively, you can vote via Twitter by tweetiing <a href="https://twitter.com/intent/tweet?text=I would like to vote for the YES Project Leicester %23NLAYESProject">#NLAYESPROJECT</a>
