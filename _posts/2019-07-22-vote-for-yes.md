@@ -4,10 +4,7 @@ thumbnail-image: /img/TNL25years_regular_logo_short_rgb.png
 layout: default
 published: true
 title: Vote for the YES Project in the 25th Birthday National Lottery Awards
-summary: >-
-  The YES Project are through to the finals, up against 9 other projects in the
-  Community and Charity category and we need your support and vote. The winners
-  will be decided by public vote
+summary: The winners will be decided by public vote
 ---
 
 
