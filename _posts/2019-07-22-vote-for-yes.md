@@ -14,7 +14,7 @@ The YES (Youth Employability Support) Project is proud to announce that we’re 
 
 If we win our category, we will accept the Award on a BBC One show and receive a £10,000 cash prize which will be a big boost for the Project.
 
-Voting runs from 9am on 24 July until midnight on 24th August and the awards will be decided by public vote.
+Voting runs from 9am on 24 July until midnight on 21st August and the awards will be decided by public vote.
 
 The YES Project commenced in 2016 and since then has helped over 400 young people aged 15-24 overcome their barriers through specialist support and to move into employment or further education. We’re a partnership of seven youth organisations and charities that works across Leicester and Leicestershire, offering one-to-one support, work placements, team building and skills training. 
 
