@@ -20,5 +20,5 @@ The YES Project commenced in 2016 and since then has helped over 400 young peopl
 
 There’s two ways you can vote for the YES Project. It’s free, quick and easy!
 
-1. By visiting [www.lotterygoodcauses.org.uk/awards](bit.ly/VoteforYESProject) and selecting the YES Project in the  category Community and Charity
+1. By visiting [www.lotterygoodcauses.org.uk/awards](https://www.lotterygoodcauses.org.uk/projects/view/the-yes-project?context=vote) and selecting the YES Project in the  category Community and Charity
 2. Alternatively, you can vote via Twitter by tweetiing <a href="https://twitter.com/intent/tweet?text=I would like to vote for the YES Project Leicester %23NLAYESProject">#NLAYESPROJECT</a>
