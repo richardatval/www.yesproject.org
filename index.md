@@ -1,10 +1,15 @@
 ---
 layout: home
-title: Vote for the YES Project in the 25th Birthday National Lottery Awards
-summary: Vote for the YES Project in the 25th Birthday National Lottery Awards
-hero-copy: The YES Project are through to the finals and we need your support and vote
-hero-link-url: /2019/07/22/vote-for-yes/
-hero-link-copy: Vote now
+title: Supporting you to take steps towards finding work
+summary: >-
+  If you’re 15-24 years old and not in education, employment or training the YES
+  Project can help you."
+hero-copy: >-
+  If you’re 15-24 years old and not in education, employment or training the YES
+  Project can help you.
+hero-link-url: /what-we-do
+hero-link-copy: Find out more
+hero-classes: red
 published: true
 ---
 
